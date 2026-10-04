@@ -57,6 +57,8 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
   if (!db.data.items.length && fs.existsSync(menuCsv)) { db.bulk(rowsToData(parseCsv(fs.readFileSync(menuCsv, 'utf8')))); console.log('Seeded McMaster menus'); }
   const nearby = path.join(seedDir, 'nearby_restaurants.json');
   if (fs.existsSync(nearby)) { const n = db.seedLocations(JSON.parse(fs.readFileSync(nearby, 'utf8')).locations); if (n) console.log(`Seeded ${n} restaurants`); }
+  const chainDir = path.join(seedDir, 'chains');
+  if (fs.existsSync(chainDir)) for (const f of fs.readdirSync(chainDir).filter((x) => x.endsWith('.json'))) { const n = db.seedItems(JSON.parse(fs.readFileSync(path.join(chainDir, f), 'utf8')).items); if (n) console.log(`Seeded ${n} items from ${f}`); }
   const port = process.env.PORT || 3000;
   if (!process.env.ADMIN_TOKEN) console.warn('ADMIN_TOKEN not set: admin API disabled');
   createServer({ db, adminToken: process.env.ADMIN_TOKEN }).listen(port, () => console.log(`http://localhost:${port}`));

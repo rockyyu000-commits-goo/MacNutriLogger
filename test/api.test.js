@@ -77,3 +77,12 @@ test('seedLocations adds missing places without overwriting edits', () => {
   assert.equal(db.seedLocations([{ name: 'Subway', address: 'seed' }]), 0);
   assert.equal(db.data.locations[0].address, 'edited');
 });
+
+test('seedItems loads chain items once and not over existing ones', () => {
+  const db = new DB(tmp());
+  db.upsertLocation({ name: 'Subway' });
+  const items = [{ locationId: 'subway', name: 'Turkey', calories: 1 }];
+  assert.equal(db.seedItems(items), 1);
+  assert.equal(db.seedItems(items), 0);
+  assert.equal(db.seedItems([{ locationId: 'nowhere', name: 'x' }]), 0);
+});

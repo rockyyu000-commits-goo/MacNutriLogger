@@ -73,6 +73,17 @@ export class DB {
     if (n) this.save();
     return n;
   }
+  // Load a chain's official items once (only if the location has no chain items yet).
+  seedItems(items) {
+    const byLoc = Map.groupBy(items, (i) => i.locationId);
+    let n = 0;
+    for (const [loc, its] of byLoc) {
+      if (!this.data.locations.some((l) => l.id === loc) || this.data.items.some((i) => i.locationId === loc && i.source === 'chain')) continue;
+      its.forEach((i) => this.upsertItem({ ...i, source: 'chain' })); n += its.length;
+    }
+    if (n) this.save();
+    return n;
+  }
   upsertLocation(l) { return this.upsert('locations', cleanLocation(l)); }
   upsertItem(i) {
     if (!this.data.locations.some((l) => l.id === i.locationId)) throw new Error(`unknown locationId ${i.locationId}`);
