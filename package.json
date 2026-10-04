@@ -1,0 +1,14 @@
+{
+  "name": "macnutrilogger",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Calorie/macro tracker preloaded with McMaster dining halls and nearby chain restaurants",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "node --test test/api.test.js",
+    "scrape": "node scripts/scrape-mcmaster.js",
+    "osm": "node scripts/osm-nearby.js"
+  },
+  "engines": { "node": ">=20" }
+}

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>MacNutri Admin</title>
+<link rel="stylesheet" href="style.css"></head><body>
+<header><h1>Admin</h1><a href="/">← app</a></header>
+<main>
+<label>Admin token</label><input type="search" id="tok" placeholder="ADMIN_TOKEN">
+<h2>Bulk import (JSON)</h2>
+<p class="muted">Paste <code>{"locations":[…],"items":[…]}</code>, e.g. transcribed from menu photos. Existing ids are updated.</p>
+<textarea id="json" rows="10" style="width:100%"></textarea><button class="add" id="imp">Import</button> <span id="msg" class="muted"></span>
+<h2>Locations</h2><div id="locs"></div>
+</main>
+<script type="module">
+const $=s=>document.querySelector(s);
+$('#tok').value=localStorage.getItem('tok')||'';
+const api=(m,p,b)=>fetch('/api/admin/'+p,{method:m,headers:{authorization:'Bearer '+$('#tok').value,'content-type':'application/json'},body:b?JSON.stringify(b):undefined}).then(async r=>{const j=await r.json();if(!r.ok)throw new Error(j.error);return j});
+$('#tok').oninput=()=>localStorage.setItem('tok',$('#tok').value);
+$('#imp').onclick=async()=>{try{$('#msg').textContent=JSON.stringify(await api('POST','import',JSON.parse($('#json').value)));load()}catch(e){$('#msg').textContent=e.message}};
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+async function load(){
+  const d=await (await fetch('/api/data')).json();
+  $('#locs').innerHTML=d.locations.map(l=>`<details><summary>${esc(l.name)} <span class="muted">${d.items.filter(i=>i.locationId===l.id).length} items</span></summary>
+   <div class="item"><span>lat/lon</span><input data-loc="${esc(l.id)}" value="${l.lat??''}, ${l.lon??''}" style="width:60%"><button class="del" data-dl="${esc(l.id)}">delete</button></div>
+   ${d.items.filter(i=>i.locationId===l.id).map(i=>`<div class="item"><div class="n">${esc(i.name)}<small>${esc(i.serving||'')}</small></div>
+    <input data-it='${esc(JSON.stringify(i))}' value="${i.calories??''},${i.protein??''},${i.carbs??''},${i.fat??''}" style="width:45%" title="kcal,protein,carbs,fat"><button class="del" data-di="${esc(i.id)}">×</button></div>`).join('')}</details>`).join('');
+}
+document.addEventListener('change',async e=>{
+  try{
+  if(e.target.dataset.loc){const [lat,lon]=e.target.value.split(',').map(s=>s.trim()===''?null:+s);const l=(await (await fetch('/api/data')).json()).locations.find(x=>x.id===e.target.dataset.loc);await api('PUT','locations/'+encodeURIComponent(l.id),{...l,lat,lon})}
+  if(e.target.dataset.it){const i=JSON.parse(e.target.dataset.it);const [calories,protein,carbs,fat]=e.target.value.split(',').map(s=>s.trim()===''?null:+s);await api('PUT','items/'+encodeURIComponent(i.id),{...i,calories,protein,carbs,fat})}
+  }catch(err){alert(err.message)}
+});
+document.addEventListener('click',async e=>{
+  if(e.target.dataset.dl&&confirm('Delete location and its items?')){await api('DELETE','locations/'+encodeURIComponent(e.target.dataset.dl));load()}
+  if(e.target.dataset.di){await api('DELETE','items/'+encodeURIComponent(e.target.dataset.di));load()}
+});
+load();
+</script></body></html>
