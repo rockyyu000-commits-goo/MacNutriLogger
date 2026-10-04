@@ -3,7 +3,7 @@ const store = {
   get: (k, d) => { try { return JSON.parse(localStorage.getItem(k)) ?? d; } catch { return d; } },
   set: (k, v) => localStorage.setItem(k, JSON.stringify(v)),
 };
-const BAD = ['suspect-calories', 'zero-calories', 'kcal-vs-macros-mismatch'];
+const BAD = ['suspect-calories', 'zero-calories', 'kcal-vs-macros-mismatch', 'verify-name'];
 let data = { locations: [], items: [] }, tab = 'near', q = '', lq = '';
 
 const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
