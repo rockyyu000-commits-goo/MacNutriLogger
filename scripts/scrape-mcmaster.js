@@ -40,7 +40,7 @@ export function parseMenus(html) {
 }
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
-  const res = await fetch(URL_);
+  const res = await fetch(URL_, { headers: { 'user-agent': 'Mozilla/5.0 (MacNutriLogger)' } });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const html = await res.text();
   if (process.argv.includes('--dump')) {

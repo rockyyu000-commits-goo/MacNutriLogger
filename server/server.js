@@ -61,5 +61,5 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
   if (fs.existsSync(chainDir)) for (const f of fs.readdirSync(chainDir).filter((x) => x.endsWith('.json'))) { const n = db.seedItems(JSON.parse(fs.readFileSync(path.join(chainDir, f), 'utf8')).items); if (n) console.log(`Seeded ${n} items from ${f}`); }
   const port = process.env.PORT || 3000;
   if (!process.env.ADMIN_TOKEN) console.warn('ADMIN_TOKEN not set: admin API disabled');
-  createServer({ db, adminToken: process.env.ADMIN_TOKEN }).listen(port, () => console.log(`http://localhost:${port}`));
+  createServer({ db, adminToken: process.env.ADMIN_TOKEN }).listen(port, process.env.HOST || '127.0.0.1', () => console.log(`http://localhost:${port}`));
 }
