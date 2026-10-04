@@ -42,15 +42,18 @@ for url in links:
         else: lines.append([y, [(x, t)]])
     text = '\n'.join(' '.join(t for _, t in sorted(l[1])) for l in lines)
     def grab(pat, cast=num):
-        m = re.search(pat, text, re.I); return cast(m.group(1)) if m else None
-    cal = grab(r'calor\w*\s*[:/]?\s*(?:calories\s*)?(\d+)')
-    it = dict(calories=cal, fat=grab(r'fat\s*/\s*lipides\s*(\d+(?:\.\d+)?)') or grab(r'^fat\s*(\d+(?:\.\d+)?)'), satFat=grab(r'saturated\s*/\s*satur\S+\s*(\d+(?:\.\d+)?)'),
-              carbs=grab(r'carbohydrate\s*/\s*glucides\s*(\d+(?:\.\d+)?)'), fiber=grab(r'fibre\s*/\s*fibres\s*(\d+(?:\.\d+)?)'), sugar=grab(r'sugars\s*/\s*sucres\s*(\d+(?:\.\d+)?)'),
-              protein=grab(r'protein\s*/\s*prot\S+\s*(\d+(?:\.\d+)?)'), cholesterol=grab(r'cholesterol\s*/\s*chol\S+\s*(\d+(?:\.\d+)?)'), sodium=grab(r'sodium\s*(\d+(?:\.\d+)?)'))
-    serving = grab(r'per\s+(?:1\s+)?[\w ]*?\(\s*(\d+(?:\.\d+)?)\s*g', float) or grab(r'\((\d+(?:\.\d+)?)\s*(?:g|mL)', float)
+        m = re.search(pat, text, re.I | re.M); return cast(m.group(1)) if m else None
+    N = r'(\d+(?:[.,]\d+)?)\s*(?:g|mg)\b'
+    SEP = r'(?:\s*/\s*[A-Za-z\u00C0-\u017F]+)?\s*'  # optional French half of a bilingual label
+    it = dict(calories=grab(r'calor\w*(?:\s*/\s*calories)?\s*[:/]?\s*(\d+)'),
+              fat=grab(r'^\W*(?:total\s+)?fat' + SEP + N), satFat=grab(r'saturated' + SEP + N),
+              carbs=grab(r'carbohydrates?' + SEP + N), fiber=grab(r'fib(?:re|er)s?' + SEP + N), sugar=grab(r'sugars?' + SEP + N),
+              protein=grab(r'protein\w*' + SEP + N), cholesterol=grab(r'cholesterol' + SEP + N), sodium=grab(r'sodium' + SEP + N))
+    serving = grab(r'\(\s*(\d+(?:[.,]\d+)?)\s*(?:g|mL|ml)\b', float)
     flags = []
     need = ['calories', 'fat', 'carbs', 'protein']
     if any(it[k] is None for k in need): bad.append((fn, 'missing fields', it)); continue
+    if it['calories'] == 0 and 4 * it['protein'] + 4 * it['carbs'] + 9 * it['fat'] > 30: bad.append((fn, 'calories read as 0', it)); continue
     est = 4 * it['protein'] + 4 * max(it['carbs'] - (it['fiber'] or 0), 0) + 9 * it['fat']
     if it['calories'] > 50 and abs(est - it['calories']) / it['calories'] > .35: flags.append('kcal-vs-macros-mismatch')
     name = re.sub(r'\s+', ' ', fn.replace('_', ' ').replace('-', ' ')).strip()
