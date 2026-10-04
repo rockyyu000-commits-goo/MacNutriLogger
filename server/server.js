@@ -3,6 +3,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { DB } from './db.js';
+import { parseCsv, rowsToData } from '../scripts/import-csv.js';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const PUBLIC = path.join(ROOT, 'public');
@@ -51,6 +52,8 @@ export function createServer({ db, adminToken }) {
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
   const db = new DB(process.env.DB_FILE || path.join(ROOT, 'data', 'db.json'));
+  const seed = path.join(ROOT, 'data', 'seed', 'mcmaster_menu.csv');
+  if (!db.data.locations.length && fs.existsSync(seed)) { db.bulk(rowsToData(parseCsv(fs.readFileSync(seed, 'utf8')))); console.log('Seeded database from data/seed/mcmaster_menu.csv'); }
   const port = process.env.PORT || 3000;
   if (!process.env.ADMIN_TOKEN) console.warn('ADMIN_TOKEN not set: admin API disabled');
   createServer({ db, adminToken: process.env.ADMIN_TOKEN }).listen(port, () => console.log(`http://localhost:${port}`));

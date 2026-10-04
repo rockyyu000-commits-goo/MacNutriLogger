@@ -1,0 +1,1490 @@
+location,tab,course,name,serving_unit,price,calories_kcal,fat_g,sat_fat_g,cholesterol_mg,sodium_mg,carbs_g,fiber_g,sugars_g,protein_g,vitamin_c_mg,calcium_mg,iron_mg
+Bistro 2 Go,ALL DAY MENU,Sandwich,Teriyaki Chicken Pita  Crispy,100g,10.99,518,21.22,1.760,44,2981,43.89,6.2,20.86,39.15,44.7,455,1.80
+Bistro 2 Go,ALL DAY MENU,Sandwich,Teriyaki Chicken Wrap Crispy,100g,10.99,841,30.58,5.400,44,3626,93.81,8.2,22.94,47.47,44.7,455,1.80
+Bistro 2 Go,ALL DAY MENU,Sandwich,Teriyaki Chicken Pita Grilled,100g,10.99,267,4.28,1.140,96,2431,14.14,2.7,15.61,39.52,44.7,420,0.54
+Bistro 2 Go,ALL DAY MENU,Sandwich,Teriyaki Chicken Wrap Grilled,100g,10.99,590,13.64,4.780,96,3076,64.06,4.7,17.69,47.84,44.7,420,0.54
+Bistro 2 Go,ALL DAY MENU,Sandwich,Turkey Club Wrap,100g,12.99,259,26.13,4.200,5,196,3.80,1.0,1.80,2.77,14.8,37,0.60
+Bistro 2 Go,ALL DAY MENU,Sandwich,Turkey Club Wrap,100g,12.99,259,26.13,4.200,5,196,3.80,1.0,1.80,2.77,14.8,37,0.60
+Bistro 2 Go,ALL DAY MENU,Sandwich,Lotus Pita,Each,9.99,1561,104.63,16.696,0,3830,145.61,14.1,78.84,22.19,18.7,147,9.35
+Bistro 2 Go,ALL DAY MENU,Sandwich,Lotus Wrap,Each,9.99,1884,113.99,20.336,0,4474,195.53,16.2,80.92,30.51,18.7,147,9.35
+Bistro 2 Go,ALL DAY MENU,Sandwich,Btg Crispy Chicken Caesar Wrap White,Portion,9.79,992,52.89,6.505,73,2449,80.44,6.5,7.52,47.29,2.2,244,1.42
+Bistro 2 Go,ALL DAY MENU,Sandwich,Chicken Caesar Pita Grilled,Portion,9.79,357,23.74,1.923,98,797,4.18,1.9,1.92,30.58,8.6,34,0.40
+Bistro 2 Go,ALL DAY MENU,Sandwich,Chicken Caesar Wrap White,Portion,9.79,671,33.10,5.563,98,1440,52.10,3.3,2.80,38.50,2.2,29,0.28
+Bistro 2 Go,ALL DAY MENU,Sandwich,Btg Chicken Caesar Pita Crispy,Portion,9.79,670,43.53,2.865,73,1804,30.52,4.4,5.44,38.97,2.2,244,1.42
+Bistro 2 Go,ALL DAY MENU,Sandwich,Btg Crispy Nashville Chicken Wrap White,Portion,9.99,690,30.43,5.874,28,2339,72.99,5.9,7.68,31.86,21.5,68,1.81
+Bistro 2 Go,ALL DAY MENU,Sandwich,Btg Grilled Nashville Chicken Wrap White,Portion,9.99,708,39.33,4.749,130,1523,53.87,3.6,4.31,32.32,21.5,58,1.93
+Bistro 2 Go,ALL DAY MENU,Sandwich,Btg Grilled Nashville Chicken Pita,Portion,9.99,386,29.97,1.110,130,878,3.95,1.6,2.23,24.00,21.5,58,1.93
+Bistro 2 Go,ALL DAY MENU,Sandwich,Btg Crispy Nashville Chicken Pita,Portion,9.99,366,21.01,2.235,28,1694,23.01,3.8,5.60,23.54,21.5,68,1.81
+Bistro 2 Go,ALL DAY MENU,Sandwich,Gyro Pita,100g,9.99,229,22.06,1.500,0,434,36.81,2.1,3.39,1.77,21.5,65,1.18
+Bistro 2 Go,ALL DAY MENU,Sandwich,Gyro Wrap,100g,9.99,552,31.42,5.140,0,1079,86.73,4.2,5.47,10.09,21.5,65,1.18
+Bistro 2 Go,ALL DAY MENU,Sandwich,Mediterranean  Chicken Wrap Crispy,100g,10.99,956,51.22,7.851,41,2055,83.95,7.4,10.20,41.30,29.4,59,1.43
+Bistro 2 Go,ALL DAY MENU,Sandwich,Mediterranean Chicken Pita Crispy,100g,10.99,633,41.86,4.211,41,1410,34.03,5.4,8.12,32.98,29.4,59,1.43
+Bistro 2 Go,ALL DAY MENU,Sandwich,Mediterranean Chicken Pita Grilled,100g,10.99,426,27.03,3.766,98,1005,7.25,2.2,3.39,36.85,29.4,28,0.31
+Bistro 2 Go,ALL DAY MENU,Sandwich,Mediterranean  Chicken Wrap Grilled,100g,10.99,748,36.39,7.406,98,1650,57.17,4.3,5.47,45.17,29.4,28,0.31
+Bistro 2 Go,ALL DAY MENU,Sandwich,Harvest Pita,100g,9.99,309,9.30,0.794,0,200,48.15,9.7,18.31,10.94,52.2,458,4.76
+Bistro 2 Go,ALL DAY MENU,Sandwich,Harvest Pita Wrap,100g,9.99,631,18.66,4.434,0,845,98.07,11.8,20.39,19.26,52.2,458,4.76
+Bistro 2 Go,ALL DAY MENU,Sandwich,Btg-Korean Bbq Chicken Pita Crispy,100g,10.99,545,29.92,8.338,66,1507,40.48,5.7,18.00,33.44,40.4,412,1.75
+Bistro 2 Go,ALL DAY MENU,Sandwich,Btg-Korean Bbq Chicken Wrap Crispy,100g,10.99,868,39.28,11.978,66,2152,90.40,7.8,20.08,41.76,40.4,412,1.75
+Bistro 2 Go,ALL DAY MENU,Sandwich,Btg-Korean Bbq Chicken Pita Grilled,100g,10.99,338,15.09,7.893,123,1103,13.71,2.5,13.28,37.31,40.4,381,0.62
+Bistro 2 Go,ALL DAY MENU,Sandwich,Korean Bbq Chicken Wrap Grilled,100g,10.99,660,24.45,11.533,123,1748,63.63,4.6,15.36,45.63,40.4,381,0.62
+Bistro 2 Go,ALL DAY MENU,Sandwich,Char Siu Pork Pita,100g,10.99,363,21.34,7.298,69,364,18.58,1.7,18.95,22.57,27.8,285,1.66
+Bistro 2 Go,ALL DAY MENU,Sandwich,Char Siu Pork Wrap,100g,10.99,685,30.70,10.938,69,1008,68.50,3.8,21.03,30.89,27.8,285,1.66
+Bistro 2 Go,ALL DAY MENU,Sandwich,Shawarma Chicken Pita,100g,10.99,337,28.20,0.961,84,346,19.40,1.3,2.36,15.92,13.2,42,1.26
+Bistro 2 Go,ALL DAY MENU,Sandwich,Shawarma Chicken Wrap,100g,10.99,659,37.56,4.601,84,991,69.32,3.4,4.44,24.24,13.2,42,1.26
+Bistro 2 Go,ALL DAY MENU,All Day,Btg Og Smash Burger,Portion,9.99,760,58.17,2.221,142,546,24.82,2.3,3.04,33.24,10.4,66,4.75
+Bistro 2 Go,ALL DAY MENU,All Day,Plant Based Burger,Portion,10.99,484,20.51,2.451,5,1090,64.94,6.4,9.30,11.31,9.2,66,1.19
+Bistro 2 Go,ALL DAY MENU,All Day,Btg Crispy Chicken Sandwich,Portion,9.99,262,16.15,2.221,30,398,25.07,2.4,3.24,5.23,10.6,43,1.64
+Bistro 2 Go,ALL DAY MENU,All Day,Big Smash Mac,Each,14.99,1170,92.65,8.688,229,881,25.18,2.3,3.16,53.29,9.0,75,6.22
+Bistro 2 Go,ALL DAY MENU,All Day,Fish & Chips,Each,15.99,992,46.02,5.150,65,1123,113.73,7.4,3.09,31.15,0.5,80,1.73
+Bistro 2 Go,ALL DAY MENU,All Day,Chicken Tenders,Portion,9.29,1040,65.40,5.250,79,2635,54.49,6.3,10.31,63.00,0.0,63,2.36
+Bistro 2 Go,ALL DAY MENU,All Day,Btg Loaded Perogies,Portion,8.49,612,27.31,13.500,51,1117,66.73,4.7,5.34,27.02,3.8,446,3.60
+Bistro 2 Go,ALL DAY MENU,All Day,Beef Chili Poutine,Each,9.99,1948,105.17,31.254,191,5449,185.37,35.9,38.15,93.22,190.3,859,3.73
+Bistro 2 Go,ALL DAY MENU,All Day,Traditional Poutine,Portion,9.98,830,51.31,13.752,60,1507,68.12,3.1,1.97,20.60,0.0,460,0.12
+Bistro 2 Go,ALL DAY MENU,All Day,Shawarma Chicken Poutine,Portion,12.99,1205,86.32,16.364,159,1651,64.09,4.2,2.22,35.93,11.5,479,0.85
+Bistro 2 Go,ALL DAY MENU,All Day,Btg Chili Top,Portion,12.99,1118,53.86,17.502,131,3942,117.25,32.8,36.18,72.62,190.3,399,3.61
+Bistro 2 Go,ALL DAY MENU,All Day,Btg Nashville Poutine,Portion,12.99,1088,67.83,15.611,79,2882,81.52,5.0,4.34,35.80,0.0,475,0.72
+Bistro 2 Go,ALL DAY MENU,Add Ons,Shrd Med Cheddar Wht,100g,1.49,400,33.33,20.000,83,800,0.00,0.0,0.00,23.33,0.0,0,0.00
+Bistro 2 Go,ALL DAY MENU,Add Ons,Fresh Avocado Chunk,100g,2.19,159,14.85,0.000,0,7,8.91,6.6,0.99,1.98,9.9,12,0.59
+Bistro 2 Go,ALL DAY MENU,Add Ons,Bacon,100g,2.99,100,10.00,3.500,8,155,0.00,0.0,0.00,3.50,0.0,0,0.10
+Bistro 2 Go,ALL DAY MENU,Add Ons,Potato Hash Brown,Portion,2.45,140,7.00,2.000,0,270,16.00,2.0,2.20,2.00,0.0,0,0.36
+Bistro 2 Go,ALL DAY MENU,Add Ons,French Fries,100g,4.79,130,3.54,0.600,0,12,21.20,1.2,0.00,2.36,0.0,12,0.00
+Bistro 2 Go,ALL DAY MENU,Add Ons,Sweet Potato Fries,100g,6.79,189,7.39,1.000,0,220,29.30,1.9,8.90,1.51,0.0,31,0.48
+Bistro 2 Go,ALL DAY MENU,Add Ons,Waffle Fries,100g,6.99,190,11.18,1.530,0,377,22.20,1.6,0.80,1.82,0.0,14,0.47
+Bistro 2 Go,ALL DAY MENU,Add Ons,Onion Rings,100g,6.99,218,10.42,1.200,0,395,28.90,1.1,2.99,2.80,1.5,12,1.15
+Bistro 2 Go,ALL DAY MENU,Add Ons,St Garden Salad,100g,5.49,17,0.03,0.000,0,10,3.21,1.4,0.93,1.03,10.8,5,2.11
+Bistro 2 Go,BTG: Breakfast,Breakfast,Egg Mac Hashbrown,sandwich,4.99,430,18.30,7.340,223,461,44.22,3.0,4.20,16.30,0.0,27,1.04
+Bistro 2 Go,BTG: Breakfast,Breakfast,Egg Mac Bacon,sandwich,4.99,330,14.08,6.348,231,358,28.71,1.0,2.29,17.67,0.0,28,0.79
+Bistro 2 Go,BTG: Breakfast,Breakfast,Egg Mac Sausage,sandwich,4.99,460,28.30,11.340,258,471,28.22,1.0,2.00,19.30,0.0,27,4.68
+Bistro 2 Go,BTG: Breakfast,Breakfast,Btg Bagel Belt,Portion,6.59,510,18.29,7.121,251,697,63.68,2.7,7.30,21.51,10.4,66,4.94
+Bistro 2 Go,BTG: Breakfast,Breakfast,Mac Wrap (Bacon),Portion,8.79,792,41.82,15.618,539,1352,68.31,4.1,5.12,30.83,0.0,60,1.89
+Bistro 2 Go,BTG: Breakfast,Breakfast,Mac Wrap (Sausage),Portion,8.79,872,49.82,18.468,567,1492,68.31,4.1,5.12,32.68,0.0,60,5.80
+Bistro 2 Go,BTG: Breakfast,Breakfast,Veggie Mac Wrap,Portion,8.59,674,36.34,12.548,412,1044,57.60,3.5,5.33,27.29,48.4,274,1.45
+Bistro 2 Go,BTG: Breakfast,Breakfast,Egg And Cheese Bagel (With Bacon),Portion,6.99,570,21.46,7.878,534,764,63.39,2.0,6.84,27.41,0.0,80,4.97
+Bistro 2 Go,BTG: Breakfast,Breakfast,Egg And Cheese Bagel (With Sausage),Portion,6.99,710,35.46,12.828,567,997,63.39,2.0,6.84,31.36,0.0,80,8.94
+Bistro 2 Go,BTG: Breakfast,Breakfast,Avocado Toast,Portion,6.99,299,14.90,0.015,0,340,40.57,6.2,8.92,8.88,11.2,59,2.84
+Bistro 2 Go,BTG: Breakfast,Breakfast,Peameal Blt,Sandwich,7.45,427,16.79,1.871,126,1663,24.37,1.5,3.26,45.13,4.3,22,1.36
+Bistro 2 Go,BTG: Breakfast,Breakfast,Btg Croissant Egg Sandwich,Portion,7.99,501,32.07,8.921,388,485,35.10,2.0,5.83,16.58,6.4,76,3.46
+Bistro 2 Go,BTG: Breakfast,Breakfast,House Made Muesli,100g,6.99,1700,30.65,14.700,83,318,319.64,17.3,224.41,39.64,18.0,708,9.44
+Bistro 2 Go,BTG: Breakfast,Breakfast,Apple Cinnamon Oatmeal,Portion,5.99,587,12.96,4.213,0,976,101.12,42.3,13.88,19.21,3.4,58,5.50
+Bistro 2 Go,BTG: Breakfast,Breakfast,Banana Chocolate Oatmeal,Each,5.99,587,12.96,4.213,0,976,101.12,42.3,13.88,19.21,3.4,58,5.50
+Bistro 2 Go,BTG: Breakfast,Breakfast,Blueberry Oatmeal Bar,Each,5.99,515,8.04,2.040,0,948,90.30,13.3,12.18,18.87,0.0,47,5.40
+Bistro 2 Go,BTG: Breakfast,Breakfast,Pancakes-Banana Chocolate,100g,7.99,1045,17.28,6.674,34,2202,201.48,38.5,67.03,24.40,3.4,272,6.85
+Bistro 2 Go,BTG: Breakfast,Breakfast,Pancakes-Apple Cinnamon,Portion,7.99,1000,12.00,4.500,34,2340,202.71,9.1,73.81,23.44,0.0,261,6.75
+Bistro 2 Go,BTG: Breakfast,Breakfast,Pancakes-Blueberry,Portion,7.99,974,12.36,4.500,34,2174,190.66,9.4,65.32,24.07,0.0,261,6.75
+Bistro 2 Go,BTG: Breakfast,Breakfast,Protein Pancakes-Banana Chocolate,100g,8.99,1066,19.95,8.531,45,2082,190.33,37.9,70.72,26.24,3.4,390,6.34
+Bistro 2 Go,BTG: Breakfast,Breakfast,Protein Pancakes-Apple Cinnamon,100g,8.99,1021,14.67,6.358,45,2220,191.56,8.5,77.50,25.28,0.0,379,6.24
+Bistro 2 Go,BTG: Breakfast,Breakfast,Protein Pancakes-Blueberry,100g,8.99,994,15.03,6.358,45,2054,179.51,8.8,69.01,25.91,0.0,379,6.24
+Bistro 2 Go,BTG: Breakfast,Breakfast,French Toast-Banana Chocolate,100g,8.99,850,23.43,8.157,676,630,131.42,33.8,47.08,29.11,3.4,165,4.75
+Bistro 2 Go,BTG: Breakfast,Breakfast,French Toast-Apple Cinnamon,100g,8.99,805,18.16,5.984,676,768,132.65,4.5,53.86,28.14,0.0,153,4.65
+Bistro 2 Go,BTG: Breakfast,Breakfast,French Toast-Blueberry,100g,8.99,778,18.52,5.984,676,602,120.60,4.8,45.37,28.77,0.0,153,4.65
+Bistro 2 Go,BTG: Breakfast,Breakfast,Crispy French Toast-Apple Cinnamon,100g,10.99,831,18.60,6.103,676,769,137.32,5.1,53.97,29.21,0.0,156,4.96
+Bistro 2 Go,BTG: Breakfast,Breakfast,Crispy French Toast-Blueberry,100g,10.99,804,18.96,6.103,676,603,125.27,5.4,45.49,29.84,0.0,156,4.96
+Bistro 2 Go,BTG: Breakfast,Breakfast,Crispy French Toast-Banana Chocolate,100g,10.99,876,23.88,8.276,676,631,136.09,34.5,47.19,30.17,3.4,167,5.07
+Bistro 2 Go,BTG: Breakfast,Breakfast,Monte Cristo,100g,9.99,711,34.59,12.625,1164,1159,41.72,1.4,6.63,52.79,0.0,185,5.80
+Bistro 2 Go,BTG: Breakfast,Add Ons,One Egg,Each,1.79,85,5.48,1.826,207,73,1.22,0.0,0.00,6.09,0.0,27,0.68
+Bistro 2 Go,BTG: Breakfast,Add Ons,Side Of Bacon,Portion,2.89,61,4.17,1.512,12,252,0.74,0.0,0.44,5.05,0.0,1,0.16
+Bistro 2 Go,BTG: Breakfast,Add Ons,Side Of Sausage,Portion,2.89,374,33.29,12.084,50,774,5.29,0.0,1.93,13.22,0.0,19,1.24
+Bistro 2 Go,BTG: Breakfast,Add Ons,Peameal Bacon,100g,3.50,146,2.80,0.000,67,993,1.80,0.0,1.20,28.30,0.0,0,0.00
+Bistro 2 Go,BTG: Breakfast,Add Ons,Add Cheese,slice,1.39,60,4.50,3.000,15,105,0.00,0.0,0.00,3.00,0.0,0,0.00
+Bistro 2 Go,BTG: Breakfast,Add Ons,Add Avocado,Portion,2.09,72,6.75,0.000,0,0,4.05,3.1,0.00,0.90,0.0,0,0.34
+Bistro 2 Go,BTG: Breakfast,Add Ons,Side Hashbrown,Each,2.15,190,12.52,2.420,0,270,16.00,2.0,2.20,2.00,0.0,0,0.36
+Bistro 2 Go,Prepped Grab and Go,Cups,Prep Chia Seed Pudding,Portion,5.09,212,3.46,0.775,0,83,37.32,3.8,29.33,5.28,0.0,231,1.14
+Bistro 2 Go,Prepped Grab and Go,Cups,Rose Water Rice Pudding,Portion,4.99,462,0.09,0.000,0,0,114.58,0.7,104.56,0.93,0.0,1,0.09
+Bistro 2 Go,Prepped Grab and Go,Cups,Prep Tex Mex Quinoa Cup,Portion,6.99,473,20.99,2.099,0,1128,61.90,8.4,16.44,11.17,57.8,44,5.62
+Bistro 2 Go,Prepped Grab and Go,Cups,Cranberry-Date Energy Bites,Portion,4.99,414,14.06,3.587,0,55,68.97,8.7,40.05,9.89,0.0,17,1.61
+Bistro 2 Go,Prepped Grab and Go,Cups,Prep Blueberry Parfait,Portion,5.09,286,4.24,1.980,8,140,53.68,3.4,32.48,8.17,0.0,26,1.39
+Bistro 2 Go,Prepped Grab and Go,Cups,Prep Raspberry Parfait,Portion,5.09,302,4.30,1.980,8,141,55.92,6.0,32.14,8.60,14.7,35,1.74
+Bistro 2 Go,Prepped Grab and Go,Cups,Prp Meat And Cheese Snacker,Portion,8.29,438,26.07,13.846,75,980,30.44,2.7,7.45,21.90,15.6,5,0.32
+Bistro 2 Go,Prepped Grab and Go,Cups,Prep Fruit Cup,Portion,5.99,205,0.54,0.000,0,44,51.58,5.3,43.72,3.51,115.9,65,1.99
+Bistro 2 Go,Prepped Grab and Go,Cups,Prep Pineapple Cup,Portion,6.19,270,0.54,0.000,0,5,70.20,7.6,54.00,2.70,0.0,0,0.00
+Bistro 2 Go,Prepped Grab and Go,Cups,Prep Melon Cup,Portion,6.19,196,0.28,0.000,0,97,48.26,4.2,45.46,4.69,117.2,110,3.18
+Bistro 2 Go,Prepped Grab and Go,Cups,Prep Hummus & Naan,Portion,5.69,480,22.04,3.194,0,955,54.28,11.7,6.06,13.00,0.0,37,1.13
+Bistro 2 Go,Prepped Grab and Go,Cups,Prep Veggies & Dip,Portion,6.19,290,24.30,4.500,4,436,13.00,6.6,6.52,5.80,81.4,49,2.34
+Bistro 2 Go,Prepped Grab and Go,Cups,Prep Anytime Cocoa Cup,Portion,6.09,792,30.92,7.111,7,202,105.62,11.7,38.42,23.70,4.8,74,2.90
+Bistro 2 Go,Prepped Grab and Go,Sandwiches,Za'taar Chicken Sandwich,Portion,8.29,486,9.12,1.780,96,1687,56.30,5.1,5.30,45.85,22.5,94,4.50
+Bistro 2 Go,Prepped Grab and Go,Sandwiches,Paneer Sandwich,Portion,8.29,591,34.83,12.913,58,1123,56.70,5.1,2.75,21.26,21.4,225,4.60
+Bistro 2 Go,Prepped Grab and Go,Sandwiches,Prep Turkey Club Sandwich,Portion,8.29,523,21.78,5.932,52,1457,52.32,3.6,2.60,28.48,5.5,72,4.21
+Bistro 2 Go,Prepped Grab and Go,Sandwiches,Prep Egg Salad White,Portion,4.69,378,19.54,3.832,302,284,34.69,2.1,2.49,16.32,1.6,71,2.01
+Bistro 2 Go,Prepped Grab and Go,Sandwiches,Prep Egg Salad Ww,Portion,4.69,357,18.85,3.648,302,400,31.81,2.3,0.29,16.04,1.6,32,1.97
+Bistro 2 Go,Prepped Grab and Go,Sandwiches,Prep Egg Salad Gf,Portion,5.19,455,25.15,4.360,302,588,43.48,4.7,9.15,14.61,1.6,76,0.86
+Bistro 2 Go,Prepped Grab and Go,Sandwiches,Prep Tuna Salad Gf,Portion,5.19,396,15.67,1.841,25,759,41.95,4.3,9.06,22.39,1.2,65,1.62
+Bistro 2 Go,Prepped Grab and Go,Sandwiches,Prep Tuna Salad White,Portion,4.79,319,10.06,1.314,25,454,33.17,1.7,2.40,24.09,1.2,61,2.77
+Bistro 2 Go,Prepped Grab and Go,Sandwiches,Prep Tuna Salad Ww,Portion,4.79,298,9.37,1.130,25,570,30.29,1.9,0.20,23.82,1.2,21,2.73
+Bistro 2 Go,Prepped Grab and Go,Sandwiches,Prep Ham & Cheese White,Portion,5.19,478,27.68,6.239,42,811,34.55,1.6,2.67,19.91,0.0,66,2.64
+Bistro 2 Go,Prepped Grab and Go,Sandwiches,Prep Ham & Cheese Ww,Portion,5.19,457,26.99,6.055,42,927,31.66,1.8,0.47,19.63,0.0,27,2.61
+Bistro 2 Go,Prepped Grab and Go,Sandwiches,Prep Chipotle Chicken Wrap,Portion,8.29,602,16.15,5.027,78,1627,71.84,7.1,7.25,42.24,23.8,29,2.57
+Bistro 2 Go,Prepped Grab and Go,Sandwiches,Prep Turkey Brie Wrap,Portion,8.29,689,37.42,10.488,56,1367,59.36,4.2,5.37,28.09,12.5,29,0.76
+Bistro 2 Go,Prepped Grab and Go,Sandwiches,Prep Italian Salami Sandwich,Portion,8.29,531,24.75,6.873,42,1488,54.08,1.7,5.95,28.10,33.2,79,12.20
+Bistro 2 Go,Prepped Grab and Go,Sandwiches,Prep Louisiana Club Sandwich,Portion,8.29,571,25.24,6.719,77,1436,50.09,0.6,3.62,40.48,10.8,30,5.30
+Bistro 2 Go,Prepped Grab and Go,Bowls,Prepped Thai Peanut Chicken Bowl,Portion,11.99,449,13.48,0.832,51,741,53.32,7.0,8.06,28.89,61.6,50,1.57
+Bistro 2 Go,Prepped Grab and Go,Bowls,Prepped Spicy Thai Peanut Bowl With Tofu,Portion,11.99,428,15.88,0.832,0,383,55.12,7.6,8.66,18.69,61.6,95,2.17
+Bistro 2 Go,Prepped Grab and Go,Bowls,Hummus Bowl,Portion,6.69,534,26.52,4.663,6,1058,55.66,12.2,6.27,14.89,0.0,40,1.20
+Bistro 2 Go,Prepped Grab and Go,Bowls,Prep Chicken Caesar Salad,Portion,9.69,554,38.03,6.456,88,803,27.29,4.6,3.20,28.09,4.3,16,3.10
+Bistro 2 Go,Prepped Grab and Go,Bowls,Prp Chicken Shawarma Bowl,Portion,10.99,639,36.09,2.636,99,849,52.87,3.7,3.21,22.02,2.7,31,1.09
+Bistro 2 Go,Prepped Grab and Go,Bowls,Prep Green Goddess Salad,Portion,10.99,468,35.48,4.698,71,931,20.95,5.5,9.77,24.02,25.1,53,4.66
+Bistro 2 Go,Prepped Grab and Go,Bowls,Prep Garden Salad,Portion,7.49,234,15.41,3.012,0,246,20.15,4.2,12.89,3.40,31.3,70,4.66
+Bistro 2 Go,Prepped Grab and Go,Bowls,Prep Greek Salad,Portion,8.69,356,27.63,7.920,24,1060,18.67,5.1,8.23,9.53,123.4,155,3.59
+Bistro 2 Go,Prepped Grab and Go,Bowls,Prep Caesar Salad,Portion,7.49,455,35.63,5.856,37,442,27.29,4.6,3.20,9.49,4.3,16,2.50
+Café One,Bakery Items,Breakfast,Bagel- Plain,Each,2.25,300,2.00,0.000,0,420,61.00,2.0,6.00,9.00,0.0,20,3.50
+Café One,Bakery Items,Breakfast,Bagel- Everything,Each,2.25,310,5.00,1.000,0,680,54.00,4.0,2.00,10.00,0.0,50,4.00
+Café One,Bakery Items,Breakfast,Bagel-Cinnamon Raisin,Each,2.25,313,2.16,0.000,0,508,65.88,3.2,9.72,9.72,0.0,32,4.32
+Café One,Bakery Items,Breakfast,Bagel- Cheese,Each,2.25,313,3.78,1.620,5,637,60.48,8.6,1.08,11.88,0.0,71,3.24
+Café One,Bakery Items,Breakfast,Bagel-Pretzel,Each,2.25,280,3.50,2.000,0,760,51.00,2.0,1.00,9.00,0.0,20,4.50
+Café One,Bakery Items,Breakfast,Apple Muffin,Each,2.95,410,18.00,3.000,65,410,54.00,2.0,27.00,7.00,0.0,75,2.00
+Café One,Bakery Items,Breakfast,Banana Nut Muffin,Each,2.95,480,28.00,4.500,60,390,50.00,2.0,24.00,7.00,0.0,0,0.00
+Café One,Bakery Items,Breakfast,Blueberry Muffin,Each,2.95,440,24.00,4.000,70,360,50.00,1.0,23.00,6.00,0.0,0,0.00
+Café One,Bakery Items,Breakfast,Carrot Muffin,Each,2.95,410,18.00,3.000,65,530,54.00,2.0,27.00,7.00,0.0,75,2.00
+Café One,Bakery Items,Breakfast,Chocolate Chunk Muffin,Each,2.95,480,26.00,6.000,70,340,54.00,2.0,26.00,7.00,0.0,0,0.00
+Café One,Bakery Items,Breakfast,Double Chocolate Chunk Muffin,Each,2.95,460,25.00,5.000,65,370,50.00,3.0,22.00,7.00,0.0,0,0.00
+Café One,Bakery Items,Breakfast,Chocolatine Croissant,Each,2.95,300,17.00,10.000,50,280,33.00,2.0,10.00,6.00,0.0,20,2.50
+Café One,Bakery Items,Breakfast,Cheese Croissant,Each,2.95,336,19.67,9.286,19,442,30.00,1.0,4.00,9.76,0.0,24,2.00
+Café One,Bakery Items,Breakfast,Vegan Croissant,Each,2.95,260,13.00,5.000,0,290,30.00,1.0,4.00,5.00,0.0,10,2.00
+Café One,Bakery Items,Breakfast,Strawberry Cream Cheese Danish,Each,4.25,384,18.08,10.170,62,384,48.59,1.1,20.34,6.78,0.0,23,1.63
+Café One,Bakery Items,Breakfast,Maple Pecan Danish,Each,4.25,330,17.00,8.000,45,250,39.00,1.0,17.00,5.00,0.0,20,1.80
+Café One,Bakery Items,Breakfast,Cinnamon Buns,Each,3.95,430,20.00,11.000,60,540,55.00,3.0,13.00,8.00,0.0,39,3.28
+Café One,Bakery Items,Breakfast,Apple Strudel Stick,Each,3.49,181,8.67,3.612,0,145,26.01,0.7,11.56,2.17,0.0,7,0.79
+Café One,Bakery Items,Breakfast,Raspberry Strudel Stick,Each,3.49,195,8.67,3.612,0,137,28.18,0.7,13.73,2.17,0.0,7,0.79
+Café One,Bakery Items,Breakfast,Donut-Boston Cream,Each,2.29,400,20.00,8.000,0,440,52.00,2.0,18.00,6.00,0.0,40,2.50
+Café One,Bakery Items,Breakfast,Donut-Hawaiian,Each,2.29,380,17.00,8.000,0,340,52.00,1.0,21.00,5.00,0.0,40,1.75
+Café One,Bakery Items,Breakfast,Donut- Chocolate Raised,Each,2.29,310,15.00,6.000,0,340,38.00,1.0,1218.94,5.00,0.0,40,2.00
+Café One,Bakery Items,Breakfast,Donut-Apple Fritter,Each,2.29,380,16.00,6.000,0,460,54.00,2.0,16.00,6.00,0.0,80,2.50
+Café One,Bakery Items,Breakfast,Donut-Sour Cream Glazed,Each,2.29,330,15.00,6.000,15,380,46.00,1.0,24.00,4.00,0.0,40,1.50
+Café One,Bakery Items,Breakfast,Donut- Chocolate Glazed Cake,Each,2.29,320,16.00,7.000,15,370,42.00,2.0,16.00,4.00,0.0,50,2.00
+Café One,Bakery Items,Breakfast,Donut- Premium- S'mores,Each,2.29,440,20.00,9.000,0,460,38.00,2.0,206.00,6.00,0.0,60,2.50
+Café One,Bakery Items,Breakfast,Donut- Premium- Cookies & Cream,Each,2.29,440,20.00,8.000,0,480,58.00,2.0,18.00,6.00,0.0,40,2.50
+Café One,Bakery Items,Breakfast,Donut- Premium- Cheessecake,Each,2.29,400,20.00,9.000,0,440,52.00,2.0,18.00,6.00,0.0,60,2.00
+Café One,Bakery Items,Breakfast,Donut- Premium- Key Lime,Each,2.29,400,20.00,9.000,25,440,52.00,2.0,19.00,6.00,0.0,60,2.00
+Café One,Bakery Items,Breakfast,"Donut- Long John, Chocolate Glazed",Each,2.29,460,24.00,14.000,0,440,58.00,2.0,22.00,6.00,0.0,40,2.50
+Café One,Bakery Items,Breakfast,Spinach And Feta Trellis Pastry,Each,4.19,347,19.96,11.554,63,452,33.61,1.1,5.25,7.35,0.0,63,1.89
+Café One,Bakery Items,Breakfast,Tomato Olive Trellis Pastry,Each,4.19,371,22.00,12.737,64,484,37.05,2.3,4.63,6.95,0.0,0,0.00
+Café One,Bakery Items,Breakfast,S'mores Strudel,Portion,3.49,192,9.61,3.955,0,153,24.86,0.6,84.75,2.26,0.0,6,0.85
+Café One,Bakery Items,Breakfast,Lemon Cheese Strudel,Portion,3.49,170,8.50,4.000,0,155,22.00,0.5,8.00,2.00,0.0,5,0.75
+Café One,Bakery Items,Breakfast,Peaches And Cheese Strudel,Each,3.49,373,19.21,7.910,0,305,46.33,1.1,14.69,5.65,0.0,11,1.69
+Café One,Bakery Items,Breakfast,Ham And Swiss Croissant,Each,4.99,170,11.13,6.545,33,170,14.40,0.0,2.62,3.93,0.0,26,1.18
+Café One,Bakery Items,Breakfast,Bacon And Egg Croissant,Each,4.99,188,11.42,6.719,71,249,15.45,0.7,2.69,6.05,0.0,40,0.85
+Café One,Bakery Items,Dessert,Macaroon Madness Dessert Bar,Slice,3.39,432,21.58,9.711,49,237,56.11,3.2,42.08,4.32,0.0,0,0.00
+Café One,Bakery Items,Dessert,Tiger Brownie Dessert Bar,Slice,3.95,455,24.48,12.241,52,192,52.46,1.7,31.48,5.25,0.0,0,0.00
+Café One,Bakery Items,Dessert,Caramel Pecan Brownie Dessert Bar,Slice,3.95,430,24.07,7.736,60,189,48.14,3.4,34.38,5.16,0.0,0,0.00
+Café One,Bakery Items,Dessert,Nanaimo Bar,Slice,3.95,516,32.03,17.794,0,240,56.94,3.6,40.93,3.56,0.0,18,2.22
+Café One,Bakery Items,Dessert,New York Cheesecake 16-Cut,Each,6.49,460,31.00,17.000,155,480,39.00,1.0,29.00,8.00,0.0,77,1.00
+Café One,Bakery Items,Dessert,Plain Butter Tart,Each,2.79,360,16.00,6.000,45,200,55.00,2.0,26.00,4.00,0.0,0,0.00
+Café One,Bakery Items,Dessert,Double Chocolate Chip Cookie,Each,2.39,260,12.00,7.000,20,210,34.00,1.0,23.00,3.00,0.0,0,0.00
+Café One,Bakery Items,Dessert,Oatmeal Raisin Cookies,Each,2.39,250,10.00,6.000,15,200,34.00,2.0,19.00,3.00,0.0,0,0.00
+Café One,Bakery Items,Dessert,Milk Chocolate Chunk Cookie,Each,2.39,274,12.54,6.270,16,274,37.62,1.1,22.80,3.31,0.0,22,1.60
+Café One,Bakery Items,Dessert,White Chocolate Macadamia Nut Cookie,Each,2.39,260,13.00,6.000,20,180,34.00,1.0,22.00,3.00,0.0,0,0.00
+Café One,Hot Grab and Go,Hot Grab N Go Meals,Pickle Crunch Burger,100g,8.99,585,29.53,4.226,61,1399,55.08,2.8,8.68,23.96,0.0,63,3.25
+Café One,Hot Grab and Go,Hot Grab N Go Meals,Iahs Island Jerk Chicken Melt,100g,8.99,761,47.80,8.073,68,1565,57.88,3.9,5.79,25.78,0.0,258,3.50
+Café One,Hot Grab and Go,Hot Grab N Go Meals,Chicken Bites,Portion,9.19,504,23.41,1.800,180,651,65.70,18.0,22.05,27.55,216.0,0,1.00
+Café One,Hot Grab and Go,Hot Grab N Go Meals,Iahs Chicken Burger,Portion,8.99,635,18.27,2.232,27,1043,48.63,2.3,10.31,23.05,12.0,60,3.10
+Café One,Hot Grab and Go,Hot Grab N Go Meals,Meatball Sub,Portion,8.99,594,26.00,10.893,83,1678,59.64,4.8,0.36,32.33,4.2,276,5.06
+Café One,Hot Grab and Go,Hot Grab N Go Meals,Iahs Mac & Cheese,portion,6.99,402,18.40,6.899,34,1598,42.54,1.1,5.75,16.10,0.0,316,1.61
+Café One,Hot Grab and Go,Hot Grab N Go Meals,Breakfast Bagel With Bacon,sandwich,6.49,475,13.60,5.722,174,880,64.49,2.0,7.29,21.58,0.0,61,4.36
+Café One,Hot Grab and Go,Hot Grab N Go Meals,Breakfast Bagel With Sausage,sandwich,6.49,604,27.82,10.714,201,993,64.00,2.0,7.00,23.21,0.0,60,8.25
+Café One,Hot Grab and Go,Hot Grab N Go Meals,Breakfast Bagel With Egg,sandwich,5.99,434,10.82,4.714,166,712,64.00,2.0,7.00,18.21,0.0,60,4.25
+Café One,Hot Grab and Go,Hot Grab N Go Meals,C1 Cheese Pizza,Portion,6.69,617,18.96,8.049,40,1338,80.64,3.5,0.18,30.29,0.0,378,0.00
+Café One,Hot Grab and Go,Hot Grab N Go Meals,C1 Hawaiian Pizza,Portion,6.69,724,24.91,8.087,56,1777,87.10,3.9,6.18,37.01,0.0,384,0.00
+Café One,Hot Grab and Go,Hot Grab N Go Meals,C1 Pesto Spinach Pizza,Each,6.69,788,34.80,11.221,50,1460,85.61,5.5,2.38,33.13,6.3,399,0.72
+Café One,Hot Grab and Go,Hot Grab N Go Meals,C1 Super Pizza,Each,6.69,623,19.04,8.064,40,1339,81.82,3.9,0.76,30.89,41.5,380,0.13
+Café One,Hot Grab and Go,Hot Grab N Go Meals,C1 Veg Medley Pizza,Each,6.69,659,19.05,8.079,40,1691,87.73,6.8,4.78,31.80,7.8,381,0.32
+Café One,Hot Grab and Go,Hot Grab N Go Meals,C1 Veggie Pizza,Each,6.69,638,19.07,8.080,40,1340,85.56,4.9,2.48,31.37,85.4,388,0.26
+Café One,Hot Grab and Go,Hot Grab N Go Meals,C1 Pepperoni Pizza,Each,6.69,617,18.96,8.049,40,1338,80.64,3.5,0.18,30.29,0.0,378,0.00
+Café One,Hot Grab and Go,~None,Iahs Falafel Hummus Wrap,100g,7.99,563,34.21,7.967,0,1153,57.01,7.6,7.71,14.03,5.2,35,1.11
+Café One,Hot Grab and Go,~None,Iahs Chicken Burrito Bowl,portion,11.19,869,30.96,13.921,84,1145,106.67,5.7,4.72,41.09,0.7,536,1.44
+Café One,Hot Grab and Go,~None,Iahs Turkey And Cheese Wrap,Portion,7.99,318,11.50,9.040,29,787,37.20,0.8,4.25,15.65,4.8,19,0.57
+Café One,Hot Grab and Go,~None,Iahs Turkey And Cheese Croissant,Portion,7.99,449,22.38,9.853,26,682,43.58,2.1,6.62,15.50,7.4,30,3.11
+Café One,Hot Grab and Go,~None,Iahs Tuna Salad Wrap,Portion,7.99,314,10.01,6.249,21,718,34.32,0.4,2.38,21.64,5.5,14,0.96
+Café One,Hot Grab and Go,~None,Iahs Tuna Salad Croissant,Portion,7.99,455,21.56,6.999,21,679,41.82,1.8,5.78,22.39,5.5,27,3.56
+Café One,Hot Grab and Go,~None,Iahs Egg Salad Wrap,Portion,7.99,416,13.31,8.237,334,565,34.87,0.7,2.16,18.22,6.0,60,1.83
+Café One,Hot Grab and Go,~None,Iahs Egg Salad Croissant,Portion,7.99,557,24.86,8.987,334,527,42.37,2.1,5.56,18.97,6.0,73,4.43
+Café One,Hot Grab and Go,~None,Iahs Buffalo Chicken Wrap,Portion,9.79,811,41.53,11.309,388,1956,73.84,5.3,7.27,39.57,2.4,318,1.21
+Café One,Hot Grab and Go,~None,Cafeone Chicken Caesar Wrap,Piortion,9.79,665,41.42,8.715,85,1737,40.03,0.2,2.93,33.79,0.0,111,0.90
+Café One,Hot Grab and Go,~None,Chicken Shawarma Rice Bowl,portion,11.19,597,39.83,1.662,58,1176,48.92,9.8,4.18,20.14,4.8,66,2.17
+Café One,Hot Grab and Go,~None,Cafeone Chicken Quesadilla,Portion,9.99,764,38.43,21.010,111,1648,61.80,3.1,6.91,40.76,10.7,588,0.62
+Café One,Hot Grab and Go,~None,Cafeone Grilled Cheese,Portion,7.49,816,45.14,15.039,60,1425,75.00,5.1,3.69,27.97,0.0,279,0.07
+Café One,Prepped Grab and Go,Cups,Prep Chia Seed Pudding,Portion,5.09,212,3.46,0.775,0,83,37.32,3.8,29.33,5.28,0.0,231,1.14
+Café One,Prepped Grab and Go,Cups,Rose Water Rice Pudding,Portion,4.99,462,0.09,0.000,0,0,114.58,0.7,104.56,0.93,0.0,1,0.09
+Café One,Prepped Grab and Go,Cups,Prep Tex Mex Quinoa Cup,Portion,6.99,473,20.99,2.099,0,1128,61.90,8.4,16.44,11.17,57.8,44,5.62
+Café One,Prepped Grab and Go,Cups,Cranberry-Date Energy Bites,Portion,4.99,414,14.06,3.587,0,55,68.97,8.7,40.05,9.89,0.0,17,1.61
+Café One,Prepped Grab and Go,Cups,Prep Blueberry Parfait,Portion,5.09,286,4.24,1.980,8,140,53.68,3.4,32.48,8.17,0.0,26,1.39
+Café One,Prepped Grab and Go,Cups,Prep Raspberry Parfait,Portion,5.09,302,4.30,1.980,8,141,55.92,6.0,32.14,8.60,14.7,35,1.74
+Café One,Prepped Grab and Go,Cups,Prp Meat And Cheese Snacker,Portion,8.29,438,26.07,13.846,75,980,30.44,2.7,7.45,21.90,15.6,5,0.32
+Café One,Prepped Grab and Go,Cups,Prep Fruit Cup,Portion,5.99,205,0.54,0.000,0,44,51.58,5.3,43.72,3.51,115.9,65,1.99
+Café One,Prepped Grab and Go,Cups,Prep Pineapple Cup,Portion,6.19,270,0.54,0.000,0,5,70.20,7.6,54.00,2.70,0.0,0,0.00
+Café One,Prepped Grab and Go,Cups,Prep Melon Cup,Portion,6.19,196,0.28,0.000,0,97,48.26,4.2,45.46,4.69,117.2,110,3.18
+Café One,Prepped Grab and Go,Cups,Prep Hummus & Naan,Portion,5.69,480,22.04,3.194,0,955,54.28,11.7,6.06,13.00,0.0,37,1.13
+Café One,Prepped Grab and Go,Cups,Prep Veggies & Dip,Portion,6.19,290,24.30,4.500,4,436,13.00,6.6,6.52,5.80,81.4,49,2.34
+Café One,Prepped Grab and Go,Cups,Prep Anytime Cocoa Cup,Portion,6.09,792,30.92,7.111,7,202,105.62,11.7,38.42,23.70,4.8,74,2.90
+Café One,Prepped Grab and Go,Sandwiches,Za'taar Chicken Sandwich,Portion,8.29,486,9.12,1.780,96,1687,56.30,5.1,5.30,45.85,22.5,94,4.50
+Café One,Prepped Grab and Go,Sandwiches,Paneer Sandwich,Portion,8.29,591,34.83,12.913,58,1123,56.70,5.1,2.75,21.26,21.4,225,4.60
+Café One,Prepped Grab and Go,Sandwiches,Prep Turkey Club Sandwich,Portion,8.29,523,21.78,5.932,52,1457,52.32,3.6,2.60,28.48,5.5,72,4.21
+Café One,Prepped Grab and Go,Sandwiches,Prep Egg Salad White,Portion,4.69,378,19.54,3.832,302,284,34.69,2.1,2.49,16.32,1.6,71,2.01
+Café One,Prepped Grab and Go,Sandwiches,Prep Egg Salad Ww,Portion,4.69,357,18.85,3.648,302,400,31.81,2.3,0.29,16.04,1.6,32,1.97
+Café One,Prepped Grab and Go,Sandwiches,Prep Egg Salad Gf,Portion,5.19,455,25.15,4.360,302,588,43.48,4.7,9.15,14.61,1.6,76,0.86
+Café One,Prepped Grab and Go,Sandwiches,Prep Tuna Salad Gf,Portion,5.19,396,15.67,1.841,25,759,41.95,4.3,9.06,22.39,1.2,65,1.62
+Café One,Prepped Grab and Go,Sandwiches,Prep Tuna Salad White,Portion,4.79,319,10.06,1.314,25,454,33.17,1.7,2.40,24.09,1.2,61,2.77
+Café One,Prepped Grab and Go,Sandwiches,Prep Tuna Salad Ww,Portion,4.79,298,9.37,1.130,25,570,30.29,1.9,0.20,23.82,1.2,21,2.73
+Café One,Prepped Grab and Go,Sandwiches,Prep Ham & Cheese White,Portion,5.19,478,27.68,6.239,42,811,34.55,1.6,2.67,19.91,0.0,66,2.64
+Café One,Prepped Grab and Go,Sandwiches,Prep Ham & Cheese Ww,Portion,5.19,457,26.99,6.055,42,927,31.66,1.8,0.47,19.63,0.0,27,2.61
+Café One,Prepped Grab and Go,Sandwiches,Prep Chipotle Chicken Wrap,Portion,8.29,602,16.15,5.027,78,1627,71.84,7.1,7.25,42.24,23.8,29,2.57
+Café One,Prepped Grab and Go,Sandwiches,Prep Turkey Brie Wrap,Portion,8.29,689,37.42,10.488,56,1367,59.36,4.2,5.37,28.09,12.5,29,0.76
+Café One,Prepped Grab and Go,Sandwiches,Prep Italian Salami Sandwich,Portion,8.29,531,24.75,6.873,42,1488,54.08,1.7,5.95,28.10,33.2,79,12.20
+Café One,Prepped Grab and Go,Sandwiches,Prep Louisiana Club Sandwich,Portion,8.29,571,25.24,6.719,77,1436,50.09,0.6,3.62,40.48,10.8,30,5.30
+Café One,Prepped Grab and Go,Bowls,Prepped Spicy Thai Peanut Bowl With Tofu,Portion,11.99,428,15.88,0.832,0,383,55.12,7.6,8.66,18.69,61.6,95,2.17
+Café One,Prepped Grab and Go,Bowls,Prepped Thai Peanut Chicken Bowl,Portion,11.99,449,13.48,0.832,51,741,53.32,7.0,8.06,28.89,61.6,50,1.57
+Café One,Prepped Grab and Go,Bowls,Prep Chicken Caesar Salad,Portion,9.69,554,38.03,6.456,88,803,27.29,4.6,3.20,28.09,4.3,16,3.10
+Café One,Prepped Grab and Go,Bowls,Hummus Bowl,Portion,6.69,534,26.52,4.663,6,1058,55.66,12.2,6.27,14.89,0.0,40,1.20
+Café One,Prepped Grab and Go,Bowls,Prp Chicken Shawarma Bowl,Portion,10.99,639,36.09,2.636,99,849,52.87,3.7,3.21,22.02,2.7,31,1.09
+Café One,Prepped Grab and Go,Bowls,Prep Green Goddess Salad,Portion,10.99,468,35.48,4.698,71,931,20.95,5.5,9.77,24.02,25.1,53,4.66
+Café One,Prepped Grab and Go,Bowls,Prep Garden Salad,Portion,7.49,234,15.41,3.012,0,246,20.15,4.2,12.89,3.40,31.3,70,4.66
+Café One,Prepped Grab and Go,Bowls,Prep Greek Salad,Portion,8.69,356,27.63,7.920,24,1060,18.67,5.1,8.23,9.53,123.4,155,3.59
+Café One,Prepped Grab and Go,Bowls,Prep Caesar Salad,Portion,7.49,455,35.63,5.856,37,442,27.29,4.6,3.20,9.49,4.3,16,2.50
+Centro,BAKERY ITEMS,Breakfast,Bagel- Plain,Each,2.25,300,2.00,0.000,0,420,61.00,2.0,6.00,9.00,0.0,20,3.50
+Centro,BAKERY ITEMS,Breakfast,Bagel- Everything,Each,2.25,310,5.00,1.000,0,680,54.00,4.0,2.00,10.00,0.0,50,4.00
+Centro,BAKERY ITEMS,Breakfast,Bagel-Cinnamon Raisin,Each,2.25,313,2.16,0.000,0,508,65.88,3.2,9.72,9.72,0.0,32,4.32
+Centro,BAKERY ITEMS,Breakfast,Bagel- Cheese,Each,2.25,313,3.78,1.620,5,637,60.48,8.6,1.08,11.88,0.0,71,3.24
+Centro,BAKERY ITEMS,Breakfast,Bagel-Pretzel,Each,2.25,280,3.50,2.000,0,760,51.00,2.0,1.00,9.00,0.0,20,4.50
+Centro,BAKERY ITEMS,Breakfast,Apple Muffin,Each,2.95,410,18.00,3.000,65,410,54.00,2.0,27.00,7.00,0.0,75,2.00
+Centro,BAKERY ITEMS,Breakfast,Banana Nut Muffin,Each,2.95,480,28.00,4.500,60,390,50.00,2.0,24.00,7.00,0.0,0,0.00
+Centro,BAKERY ITEMS,Breakfast,Blueberry Muffin,Each,2.95,440,24.00,4.000,70,360,50.00,1.0,23.00,6.00,0.0,0,0.00
+Centro,BAKERY ITEMS,Breakfast,Carrot Muffin,Each,2.95,410,18.00,3.000,65,530,54.00,2.0,27.00,7.00,0.0,75,2.00
+Centro,BAKERY ITEMS,Breakfast,Chocolate Chunk Muffin,Each,2.95,480,26.00,6.000,70,340,54.00,2.0,26.00,7.00,0.0,0,0.00
+Centro,BAKERY ITEMS,Breakfast,Double Chocolate Chunk Muffin,Each,2.95,460,25.00,5.000,65,370,50.00,3.0,22.00,7.00,0.0,0,0.00
+Centro,BAKERY ITEMS,Breakfast,Maple Pecan Danish,Each,4.25,330,17.00,8.000,45,250,39.00,1.0,17.00,5.00,0.0,20,1.80
+Centro,BAKERY ITEMS,Breakfast,Chocolatine Croissant,Each,2.95,300,17.00,10.000,50,280,33.00,2.0,10.00,6.00,0.0,20,2.50
+Centro,BAKERY ITEMS,Breakfast,Cheese Croissant,Each,2.95,336,19.67,9.286,19,442,30.00,1.0,4.00,9.76,0.0,24,2.00
+Centro,BAKERY ITEMS,Breakfast,Vegan Croissant,Each,2.95,260,13.00,5.000,0,290,30.00,1.0,4.00,5.00,0.0,10,2.00
+Centro,BAKERY ITEMS,Breakfast,Strawberry Cream Cheese Danish,Each,4.25,384,18.08,10.170,62,384,48.59,1.1,20.34,6.78,0.0,23,1.63
+Centro,BAKERY ITEMS,Breakfast,Cinnamon Buns,Each,3.95,430,20.00,11.000,60,540,55.00,3.0,13.00,8.00,0.0,39,3.28
+Centro,BAKERY ITEMS,Breakfast,Apple Strudel Stick,Each,3.49,181,8.67,3.612,0,145,26.01,0.7,11.56,2.17,0.0,7,0.79
+Centro,BAKERY ITEMS,Breakfast,Raspberry Strudel Stick,Each,3.49,195,8.67,3.612,0,137,28.18,0.7,13.73,2.17,0.0,7,0.79
+Centro,BAKERY ITEMS,Breakfast,Donut-Boston Cream,Each,2.29,400,20.00,8.000,0,440,52.00,2.0,18.00,6.00,0.0,40,2.50
+Centro,BAKERY ITEMS,Breakfast,Donut-Hawaiian,Each,2.29,380,17.00,8.000,0,340,52.00,1.0,21.00,5.00,0.0,40,1.75
+Centro,BAKERY ITEMS,Breakfast,Donut- Chocolate Raised,Each,2.29,310,15.00,6.000,0,340,38.00,1.0,1218.94,5.00,0.0,40,2.00
+Centro,BAKERY ITEMS,Breakfast,Donut-Apple Fritter,Each,2.29,380,16.00,6.000,0,460,54.00,2.0,16.00,6.00,0.0,80,2.50
+Centro,BAKERY ITEMS,Breakfast,Donut-Sour Cream Glazed,Each,2.29,330,15.00,6.000,15,380,46.00,1.0,24.00,4.00,0.0,40,1.50
+Centro,BAKERY ITEMS,Breakfast,Donut- Chocolate Glazed Cake,Each,2.29,320,16.00,7.000,15,370,42.00,2.0,16.00,4.00,0.0,50,2.00
+Centro,BAKERY ITEMS,Breakfast,Donut- Premium- S'mores,Each,2.29,440,20.00,9.000,0,460,38.00,2.0,206.00,6.00,0.0,60,2.50
+Centro,BAKERY ITEMS,Breakfast,Donut- Premium- Cookies & Cream,Each,2.29,440,20.00,8.000,0,480,58.00,2.0,18.00,6.00,0.0,40,2.50
+Centro,BAKERY ITEMS,Breakfast,Donut- Premium- Cheessecake,Each,2.29,400,20.00,9.000,0,440,52.00,2.0,18.00,6.00,0.0,60,2.00
+Centro,BAKERY ITEMS,Breakfast,Donut- Premium- Key Lime,Each,2.29,400,20.00,9.000,25,440,52.00,2.0,19.00,6.00,0.0,60,2.00
+Centro,BAKERY ITEMS,Breakfast,"Donut- Long John, Chocolate Glazed",Each,2.29,460,24.00,14.000,0,440,58.00,2.0,22.00,6.00,0.0,40,2.50
+Centro,BAKERY ITEMS,Breakfast,Spinach And Feta Trellis Pastry,Each,4.19,347,19.96,11.554,63,452,33.61,1.1,5.25,7.35,0.0,63,1.89
+Centro,BAKERY ITEMS,Breakfast,Tomato Olive Trellis Pastry,Each,4.19,371,22.00,12.737,64,484,37.05,2.3,4.63,6.95,0.0,0,0.00
+Centro,BAKERY ITEMS,Breakfast,Lemon Cheese Strudel,Portion,3.49,170,8.50,4.000,0,155,22.00,0.5,8.00,2.00,0.0,5,0.75
+Centro,BAKERY ITEMS,Breakfast,Peaches And Cheese Strudel,Each,3.49,373,19.21,7.910,0,305,46.33,1.1,14.69,5.65,0.0,11,1.69
+Centro,BAKERY ITEMS,Breakfast,S'mores Strudel,Portion,3.49,192,9.61,3.955,0,153,24.86,0.6,84.75,2.26,0.0,6,0.85
+Centro,BAKERY ITEMS,Breakfast,Ham And Swiss Croissant,Each,4.99,170,11.13,6.545,33,170,14.40,0.0,2.62,3.93,0.0,26,1.18
+Centro,BAKERY ITEMS,Breakfast,Bacon And Egg Croissant,Each,4.99,188,11.42,6.719,71,249,15.45,0.7,2.69,6.05,0.0,40,0.85
+Centro,BAKERY ITEMS,Dessert,Macaroon Madness Dessert Bar,Slice,3.39,432,21.58,9.711,49,237,56.11,3.2,42.08,4.32,0.0,0,0.00
+Centro,BAKERY ITEMS,Dessert,Tiger Brownie Dessert Bar,Slice,3.95,455,24.48,12.241,52,192,52.46,1.7,31.48,5.25,0.0,0,0.00
+Centro,BAKERY ITEMS,Dessert,Caramel Pecan Brownie Dessert Bar,Slice,3.95,430,24.07,7.736,60,189,48.14,3.4,34.38,5.16,0.0,0,0.00
+Centro,BAKERY ITEMS,Dessert,Nanaimo Bar,Slice,3.95,516,32.03,17.794,0,240,56.94,3.6,40.93,3.56,0.0,18,2.22
+Centro,BAKERY ITEMS,Dessert,New York Cheesecake 16-Cut,Each,6.49,460,31.00,17.000,155,480,39.00,1.0,29.00,8.00,0.0,77,1.00
+Centro,BAKERY ITEMS,Dessert,Plain Butter Tart,Each,2.79,360,16.00,6.000,45,200,55.00,2.0,26.00,4.00,0.0,0,0.00
+Centro,BAKERY ITEMS,Dessert,Double Chocolate Chip Cookie,Each,2.39,260,12.00,7.000,20,210,34.00,1.0,23.00,3.00,0.0,0,0.00
+Centro,BAKERY ITEMS,Dessert,Oatmeal Raisin Cookies,Each,2.39,250,10.00,6.000,15,200,34.00,2.0,19.00,3.00,0.0,0,0.00
+Centro,BAKERY ITEMS,Dessert,Milk Chocolate Chunk Cookie,Each,2.39,274,12.54,6.270,16,274,37.62,1.1,22.80,3.31,0.0,22,1.60
+Centro,BAKERY ITEMS,Dessert,White Chocolate Macadamia Nut Cookie,Each,2.39,260,13.00,6.000,20,180,34.00,1.0,22.00,3.00,0.0,0,0.00
+Centro,Centro Perk,Add Ons,Add Syrup,,1.50,,,,,,,,,,,,
+Centro,Centro Perk,Add Ons,Extra Fruit - Brunch,portion,2.49,28,0.27,0.000,0,0,6.00,2.8,3.18,0.37,7.9,10,0.23
+Centro,Centro Perk,Dessert,Centro Byo Sundae,Portion,7.99,607,27.20,18.709,308,367,79.66,1.1,138.82,0.85,0.0,286,0.67
+Centro,Centro Perk,Dessert,3 Scoops Of Ice Cream,Portion,4.99,914,40.61,30.456,178,178,121.82,0.0,86.29,5.08,0.0,254,1.52
+Centro,Centro Perk,Dessert,Cookie And Ice Cream Sandwich,Portion,5.99,666,30.72,16.310,57,569,90.90,2.2,56.88,7.24,0.0,75,3.39
+Centro,Centro Perk,Dessert,Fudge Brownie Delight,Portion,6.99,774,39.90,25.083,204,444,94.85,1.3,96.77,4.98,0.0,113,1.10
+Centro,Centro Perk,Dessert,Cake Pop Cookies & Cream,Each,3.99,160,6.00,2.000,15,160,21.00,0.0,15.00,2.00,0.0,30,1.50
+Centro,Centro Perk,Dessert,Cake Pop Red Velvet,Each,3.99,160,8.00,4.500,10,95,21.00,0.0,16.00,2.00,0.0,0,0.00
+Centro,Centro Perk,Beverage,Centro Byo Smoothie,Portion,7.99,431,24.53,3.374,6,1202,66.32,32.0,7.83,32.04,2.3,1860,3.11
+Centro,Centro Perk,Beverage,Byo Milkshake,Portion,7.99,502,19.66,15.382,52,105,74.85,1.1,46.93,5.73,0.0,200,0.37
+Centro,Centro Perk,Beverage,Morning Kick,Each,7.99,405,7.35,3.807,10,98,70.17,2.4,61.08,16.32,2.3,230,0.52
+Centro,Centro Perk,Beverage,Iced Strawberry Matcha,100g,7.99,355,10.69,8.555,20,154,54.71,1.1,48.85,9.92,32.0,335,0.02
+Centro,Centro Perk,Beverage,Green Matcha,100g,7.99,328,2.63,1.398,8,115,68.52,12.5,51.19,7.44,16.7,190,2.34
+Centro,Crave,All Day,Centro Spicy Chicken Sandwich,Sandwich,10.99,641,35.87,5.142,160,967,42.55,4.8,9.86,35.36,19.6,50,3.07
+Centro,Crave,All Day,Crispy Plant Based Chicken,100g,10.99,438,13.97,1.896,5,815,54.97,5.6,7.90,20.52,7.6,29,1.21
+Centro,Crave,All Day,Centro Chicken Quesadilla,Portion,11.99,844,43.27,21.295,820,2093,61.57,3.4,7.66,55.69,55.6,650,0.54
+Centro,Crave,All Day,Chipotle Chicken Panini,Portion,9.95,717,34.04,4.270,85,1602,52.32,4.5,1.05,38.60,2.8,129,3.82
+Centro,Crave,All Day,Centro Chicken Caesar Wrap,Sandwich,9.29,1054,71.01,7.375,68,1622,72.01,6.2,6.53,33.10,3.2,32,1.20
+Centro,Crave,All Day,Grilled Chicken Caesar Wrap,100g,9.29,895,56.20,8.920,130,1541,52.04,3.2,3.14,41.95,0.0,22,1.19
+Centro,Crave,All Day,Crave Crunch Supreme Wrap,Portion,9.95,606,27.59,11.869,63,1157,60.13,2.8,5.91,27.65,7.8,73,2.05
+Centro,Crave,All Day,Centro Nya Grilled Cheese,Sandwich,9.99,845,52.05,19.859,77,1408,71.98,4.6,2.32,30.10,0.0,43,0.00
+Centro,Crave,All Day,Spicy Thai Peanut Bowl,Portion,10.95,362,12.27,0.375,0,425,52.15,8.7,11.12,12.00,109.1,56,1.65
+Centro,Crave,All Day,Centro Spicy Thai Peanut Bowl With Chicken,Portion,12.95,556,13.07,0.943,72,1113,71.77,8.3,8.30,36.84,20.4,38,0.51
+Centro,Crave,All Day,Centro - Thai Peanut Bowl With Tofu,Portion,12.95,688,22.39,1.663,0,483,95.92,6.8,9.15,26.09,20.4,102,2.17
+Centro,Crave,All Day,Mac And Cheese Bites,Portion,6.99,360,15.22,3.404,7,893,45.60,1.8,11.24,8.47,0.0,138,2.26
+Centro,Crave,All Day,Burrito Bowl - Beef,portion,11.95,675,52.95,19.550,560,1996,16.10,2.6,2.94,38.20,8.4,469,3.49
+Centro,Crave,All Day,Burrito Bowl - Chicken,portion,12.95,574,38.11,12.913,568,1030,17.20,3.4,4.40,43.60,8.4,454,1.34
+Centro,Crave,All Day,Burrito Bowl-Avocado,portion,11.95,555,46.87,13.513,492,805,25.10,8.6,5.94,18.23,8.4,457,1.36
+Centro,Crave,All Day,Sweet Potato Fries,Portion,6.79,810,57.34,8.400,40,528,74.52,4.6,21.36,4.04,0.0,75,1.15
+Centro,Crave,All Day,Crispy Coated Fries,Portion,5.99,238,10.20,0.850,0,731,35.70,3.4,0.00,3.40,0.0,17,1.28
+Centro,Crave,All Day,Bibimbap Crispy Chicken Bowl,100g,12.95,911,16.22,2.687,249,438,76.64,6.0,20.29,28.88,49.3,58,10.66
+Centro,Crave,All Day,Sourdough Pb&J Panini,Each,7.99,1083,66.51,12.564,0,2319,106.16,11.5,18.39,29.08,5.0,3,1.41
+Centro,Crave,All Day,Popcorn Chicken Cup,Portion,7.95,823,52.86,6.615,48,1368,54.55,2.9,0.00,28.80,0.0,40,4.20
+Centro,Crave,Breakfast,Full Fruit Waffle,portion,9.99,971,16.45,10.847,0,1905,191.84,13.7,77.01,9.15,15.7,17,0.94
+Centro,Crave,Breakfast,Half Fruit Waffle,portion,8.29,721,14.06,10.780,0,1031,140.51,12.6,68.41,5.13,15.7,17,0.94
+Centro,Crave,Breakfast,Plain Waffle,PORTION,6.49,845,16.15,10.848,0,1894,162.60,2.5,53.97,8.55,0.0,2,0.04
+Centro,Crave,Breakfast,Extra Fruit - Brunch,portion,2.49,28,0.27,0.000,0,0,6.00,2.8,3.18,0.37,7.9,10,0.23
+Centro,Pas Noodle,Breakfast,Byo Omelette,Portion,8.99,831,57.49,15.364,1145,1186,40.53,2.0,5.17,40.21,1.4,427,4.51
+Centro,Pas Noodle,Breakfast,Everything Southwest Breakfast Sandwich,Each,8.99,829,44.01,8.842,546,1814,76.16,5.4,3.29,31.87,69.7,298,7.38
+Centro,Pas Noodle,Breakfast,Centro Side Hashbrown,Each,2.45,190,12.52,2.420,0,270,16.00,2.0,2.20,2.00,0.0,0,0.36
+Centro,Pas Noodle,Add Ons,Spaghetti,100g,,376,2.35,0.000,0,0,75.29,3.5,2.35,12.94,0.0,0,0.00
+Centro,Pas Noodle,Add Ons,Linguini Fini,100g,,376,2.35,0.000,0,0,75.29,3.5,2.35,12.94,0.0,0,0.00
+Centro,Pas Noodle,Add Ons,Fettuccine,100g,,272,1.70,0.000,0,0,54.40,2.6,1.70,9.35,0.0,0,0.00
+Centro,Pas Noodle,Add Ons,Whole Grain Penne Rigate Pasta,100g,,364,2.23,0.570,0,13,73.20,9.4,3.10,12.33,0.0,26,4.50
+Centro,Pas Noodle,Add Ons,Cavatappi Pasta,100g,,365,1.70,0.400,0,0,75.00,5.0,0.00,13.00,0.0,0,0.00
+Centro,Pas Noodle,Add Ons,Penne Gluten Free G/F,100g,,353,1.76,0.353,0,0,77.65,3.5,1.18,5.88,0.0,0,0.00
+Centro,Pas Noodle,Add Ons,Rice Stick Noodle 5Mm,100g,,360,0.00,0.000,0,0,82.00,2.0,0.00,6.00,0.0,0,0.00
+Centro,Pas Noodle,Add Ons,Tomato Basil Pasta Sauce,100g,,88,3.13,0.000,0,775,15.00,3.8,10.00,2.50,0.0,25,1.36
+Centro,Pas Noodle,Add Ons,Alfredo Sauce,100g,,102,4.18,2.291,14,173,10.25,0.0,4.92,4.87,0.0,110,0.00
+Centro,Pas Noodle,Add Ons,Rose Sauce,Each,,95,3.68,1.206,7,458,12.50,1.8,7.32,3.75,0.0,70,0.65
+Centro,Pas Noodle,Add Ons,Nut Free Pesto,100g,,496,52.50,10.500,35,0,2.44,1.0,0.20,5.82,0.0,0,0.00
+Centro,Pas Noodle,Add Ons,Cooked Chicken,Portion,,165,3.60,1.000,85,343,0.00,0.0,0.00,31.28,0.0,0,0.05
+Centro,Pas Noodle,Add Ons,Salad Shrimp,100g,,90,1.00,0.300,185,360,0.00,0.0,0.00,20.00,0.0,0,0.00
+Centro,Pas Noodle,Add Ons,Ham Diced,100g,,90,3.00,1.000,30,1100,6.00,0.0,2.00,10.00,0.3,0,0.20
+Centro,Pas Noodle,Add Ons,Cooked Bacon Slice,Slice,,20,1.39,0.504,4,84,0.25,0.0,0.15,1.68,0.0,0,0.05
+Centro,Pas Noodle,Add Ons,Sausage Italian Hot,100g,,290,26.00,8.000,22,990,1.00,1.0,0.00,13.00,0.0,0,0.00
+Centro,Pas Noodle,Add Ons,Firm Tofu,100g,,120,7.00,1.000,0,0,0.00,0.0,0.00,14.00,0.0,175,2.00
+Centro,Pas Noodle,Add Ons,Medium Cheddar Shredded,100g,,296,20.60,16.900,48,1270,6.60,0.0,0.00,21.10,0.0,732,0.00
+Centro,Pas Noodle,Add Ons,Baby Spinach,100g,,23,0.40,0.100,0,79,3.60,2.2,0.40,2.90,27.9,80,2.70
+Centro,Pas Noodle,Add Ons,Peppers And Onions,100g,,33,0.18,0.025,0,4,7.15,1.8,3.75,1.03,126.0,25,0.15
+Centro,Pas Noodle,Add Ons,Baby Spinach,100g,,23,0.40,0.100,0,79,3.60,2.2,0.40,2.90,27.9,80,2.70
+Centro,Pas Noodle,Add Ons,Sliced Mushrooms,100g,,22,0.34,0.000,0,5,3.26,1.0,1.48,3.09,2.1,3,0.50
+Centro,Pas Noodle,Add Ons,Tomatoes,100g,,22,0.00,0.000,0,6,5.00,1.5,3.00,1.00,16.0,12,0.30
+Centro,Pas Noodle,Add Ons,"Peppers, Green, Diced 1/4""",100g,,20,0.20,0.100,0,3,4.60,1.7,2.40,0.90,274.5,10,0.40
+Centro,Pas Noodle,Add Ons,"Peppers, Red, Diced 1/4""",100g,,31,0.30,0.000,0,4,6.00,2.1,4.20,1.00,71.1,10,0.20
+Centro,Pas Noodle,Add Ons,"Onions, Spanish, Sliced",100g,,41,0.00,0.000,0,2,9.76,1.5,4.88,0.00,7.3,22,0.24
+Centro,Pas Noodle,Add Ons,"Tomatoes, Grape/Cherry",100g,,16,0.00,0.000,0,0,3.00,1.0,1.00,1.00,45.0,20,9.00
+Centro,Pas Noodle,Add Ons,"Carrots, Shredded",100g,,41,0.24,0.040,0,69,10.00,2.0,5.00,0.93,10.0,3,2.00
+Centro,Pas Noodle,Add Ons,Broccoli Florets,100g,,34,0.40,0.000,0,33,7.00,2.6,1.70,2.80,85.5,40,0.70
+Centro,Pas Noodle,Add Ons,Corn Sweet Peaches & Cream,100g,,88,0.78,0.000,0,3,20.71,1.9,1.60,3.02,0.0,4,0.42
+Centro,Pas Noodle,Add Ons,Pea Green Fancy,100g,,56,0.00,0.000,0,60,9.60,3.2,4.00,3.20,0.0,0,0.00
+Centro,Pas Noodle,Other,Centro Cheese Pizza,Portion,16.95,753,33.81,21.000,99,2129,66.20,3.9,8.12,48.37,0.0,1015,3.46
+Centro,Pas Noodle,Other,Centro Pepperoni Pizza,Portion,17.95,824,39.81,21.000,124,2682,68.21,3.9,8.90,50.47,0.0,852,3.98
+Centro,Pas Noodle,Other,Centro Bruschetta Pizza,Portion,18.95,999,61.91,21.862,100,1783,71.65,5.4,13.06,45.00,16.8,795,3.30
+Centro,Pas Noodle,Other,Centro Bruschetta Pizza- 1/2 Portion,Portion,9.95,501,30.96,10.931,50,892,36.12,2.7,6.76,22.53,8.4,398,1.65
+Centro,Pas Noodle,Other,Centro Basic Byo Pasta,Portion,11.99,586,13.52,4.473,39,839,85.98,7.5,17.87,26.56,246.2,468,3.47
+Centro,Pas Noodle,Other,Centro Byo Pasta One Protein,Portion,14.29,633,13.96,3.974,108,1427,71.05,4.9,10.79,50.19,123.1,378,3.16
+Centro,Pas Noodle,Other,Centro Byo Two Protein Pasta,Portion,16.99,928,45.46,15.149,156,2077,77.43,5.4,12.84,49.03,123.1,418,3.90
+Centro,Pas Noodle,Other,Centro Baked Ravioli In Rose Sauce,Each,13.95,904,36.53,13.451,307,2149,96.51,27.7,16.54,46.79,0.0,876,5.96
+Centro,Pas Noodle,Other,Chipotle Chicken Mac & Cheese,Portion,12.99,1066,28.80,13.364,748,1335,138.46,5.8,5.88,66.17,0.0,605,3.58
+Centro,Pas Noodle,Other,Meat Cannelloni,Portion,12.95,873,28.70,11.326,231,1572,85.33,7.1,6.02,61.92,2.7,439,5.44
+Centro,Pas Noodle,Other,Centro Garlic Bread,Portion,2.99,416,3.72,0.563,0,708,81.58,2.6,0.00,15.79,0.0,0,0.00
+Centro,Pas Noodle,Other,Garlic Bread With Cheese,Portion,5.99,605,16.41,9.521,40,1389,85.25,4.6,0.42,30.53,0.0,427,5.34
+Centro,Prepped Grab and Go,Cups,Rose Water Rice Pudding,Portion,4.99,462,0.09,0.000,0,0,114.58,0.7,104.56,0.93,0.0,1,0.09
+Centro,Prepped Grab and Go,Cups,Prep Anytime Cocoa Cup,Portion,6.99,792,30.92,7.111,7,202,105.62,11.7,38.42,23.70,4.8,74,2.90
+Centro,Prepped Grab and Go,Cups,Prep Tex Mex Quinoa Cup,Portion,6.99,473,20.99,2.099,0,1128,61.90,8.4,16.44,11.17,57.8,44,5.62
+Centro,Prepped Grab and Go,Cups,Prep Chia Seed Pudding,Portion,5.09,212,3.46,0.775,0,83,37.32,3.8,29.33,5.28,0.0,231,1.14
+Centro,Prepped Grab and Go,Cups,Cranberry-Date Energy Bites,Portion,4.99,414,14.06,3.587,0,55,68.97,8.7,40.05,9.89,0.0,17,1.61
+Centro,Prepped Grab and Go,Cups,Prep Blueberry Parfait,Portion,5.09,286,4.24,1.980,8,140,53.68,3.4,32.48,8.17,0.0,26,1.39
+Centro,Prepped Grab and Go,Cups,Prep Raspberry Parfait,Portion,5.09,302,4.30,1.980,8,141,55.92,6.0,32.14,8.60,14.7,35,1.74
+Centro,Prepped Grab and Go,Cups,Prp Meat And Cheese Snacker,Portion,8.29,438,26.07,13.846,75,980,30.44,2.7,7.45,21.90,15.6,5,0.32
+Centro,Prepped Grab and Go,Cups,Prep Fruit Cup,Portion,5.99,205,0.54,0.000,0,44,51.58,5.3,43.72,3.51,115.9,65,1.99
+Centro,Prepped Grab and Go,Cups,Prep Pineapple Cup,Portion,6.19,270,0.54,0.000,0,5,70.20,7.6,54.00,2.70,0.0,0,0.00
+Centro,Prepped Grab and Go,Cups,Prep Melon Cup,Portion,6.19,196,0.28,0.000,0,97,48.26,4.2,45.46,4.69,117.2,110,3.18
+Centro,Prepped Grab and Go,Cups,Prep Hummus & Naan,Portion,5.69,480,22.04,3.194,0,955,54.28,11.7,6.06,13.00,0.0,37,1.13
+Centro,Prepped Grab and Go,Cups,Prep Veggies & Dip,Portion,6.19,290,24.30,4.500,4,436,13.00,6.6,6.52,5.80,81.4,49,2.34
+Centro,Prepped Grab and Go,Sandwiches,Za'taar Chicken Sandwich,Portion,8.29,486,9.12,1.780,96,1687,56.30,5.1,5.30,45.85,22.5,94,4.50
+Centro,Prepped Grab and Go,Sandwiches,Paneer Sandwich,Portion,8.29,591,34.83,12.913,58,1123,56.70,5.1,2.75,21.26,21.4,225,4.60
+Centro,Prepped Grab and Go,Sandwiches,Prep Turkey Club Sandwich,Portion,8.29,523,21.78,5.932,52,1457,52.32,3.6,2.60,28.48,5.5,72,4.21
+Centro,Prepped Grab and Go,Sandwiches,Prep Egg Salad White,Portion,4.69,378,19.54,3.832,302,284,34.69,2.1,2.49,16.32,1.6,71,2.01
+Centro,Prepped Grab and Go,Sandwiches,Prep Egg Salad Ww,Portion,4.69,357,18.85,3.648,302,400,31.81,2.3,0.29,16.04,1.6,32,1.97
+Centro,Prepped Grab and Go,Sandwiches,Prep Egg Salad Gf,Portion,5.19,455,25.15,4.360,302,588,43.48,4.7,9.15,14.61,1.6,76,0.86
+Centro,Prepped Grab and Go,Sandwiches,Prep Tuna Salad Gf,Portion,5.19,396,15.67,1.841,25,759,41.95,4.3,9.06,22.39,1.2,65,1.62
+Centro,Prepped Grab and Go,Sandwiches,Prep Tuna Salad White,Portion,4.79,319,10.06,1.314,25,454,33.17,1.7,2.40,24.09,1.2,61,2.77
+Centro,Prepped Grab and Go,Sandwiches,Prep Tuna Salad Ww,Portion,4.79,298,9.37,1.130,25,570,30.29,1.9,0.20,23.82,1.2,21,2.73
+Centro,Prepped Grab and Go,Sandwiches,Prep Ham & Cheese White,Portion,5.19,478,27.68,6.239,42,811,34.55,1.6,2.67,19.91,0.0,66,2.64
+Centro,Prepped Grab and Go,Sandwiches,Prep Ham & Cheese Ww,Portion,5.19,457,26.99,6.055,42,927,31.66,1.8,0.47,19.63,0.0,27,2.61
+Centro,Prepped Grab and Go,Sandwiches,Prep Chipotle Chicken Wrap,Portion,8.29,602,16.15,5.027,78,1627,71.84,7.1,7.25,42.24,23.8,29,2.57
+Centro,Prepped Grab and Go,Sandwiches,Prep Turkey Brie Wrap,Portion,8.29,689,37.42,10.488,56,1367,59.36,4.2,5.37,28.09,12.5,29,0.76
+Centro,Prepped Grab and Go,Sandwiches,Prep Italian Salami Sandwich,Portion,8.29,531,24.75,6.873,42,1488,54.08,1.7,5.95,28.10,33.2,79,12.20
+Centro,Prepped Grab and Go,Sandwiches,Prep Louisiana Club Sandwich,Portion,8.29,571,25.24,6.719,77,1436,50.09,0.6,3.62,40.48,10.8,30,5.30
+Centro,Prepped Grab and Go,Bowls,Prepped Spicy Thai Peanut Bowl With Tofu,Portion,11.99,428,15.88,0.832,0,383,55.12,7.6,8.66,18.69,61.6,95,2.17
+Centro,Prepped Grab and Go,Bowls,Prepped Thai Peanut Chicken Bowl,Portion,11.99,449,13.48,0.832,51,741,53.32,7.0,8.06,28.89,61.6,50,1.57
+Centro,Prepped Grab and Go,Bowls,Hummus Bowl,Portion,6.69,534,26.52,4.663,6,1058,55.66,12.2,6.27,14.89,0.0,40,1.20
+Centro,Prepped Grab and Go,Bowls,Prep Chicken Caesar Salad,Portion,9.69,554,38.03,6.456,88,803,27.29,4.6,3.20,28.09,4.3,16,3.10
+Centro,Prepped Grab and Go,Bowls,Prp Chicken Shawarma Bowl,Portion,10.99,639,36.09,2.636,99,849,52.87,3.7,3.21,22.02,2.7,31,1.09
+Centro,Prepped Grab and Go,Bowls,Prep Green Goddess Salad,Portion,10.99,468,35.48,4.698,71,931,20.95,5.5,9.77,24.02,25.1,53,4.66
+Centro,Prepped Grab and Go,Bowls,Prep Garden Salad,Portion,7.49,234,15.41,3.012,0,246,20.15,4.2,12.89,3.40,31.3,70,4.66
+Centro,Prepped Grab and Go,Bowls,Prp Gochu Bowl,Portion,10.99,839,27.35,3.633,165,1465,106.88,6.0,5.27,32.43,1.5,33,1.14
+Centro,Prepped Grab and Go,Bowls,Prep Greek Salad,Portion,8.69,356,27.63,7.920,24,1060,18.67,5.1,8.23,9.53,123.4,155,3.59
+Centro,Prepped Grab and Go,Bowls,Prep Caesar Salad,Portion,7.49,455,35.63,5.856,37,442,27.29,4.6,3.20,9.49,4.3,16,2.50
+Centro,SMPL Rotational Menu,FISH DISHES,Smpl Bruschetta Basa,Portion,,160,3.29,1.057,83,1050,2.28,0.9,1.24,33.44,4.8,30,0.19
+Centro,SMPL Rotational Menu,FISH DISHES,Smpl Cajun Basa,Portion,8.99,264,16.60,2.532,83,970,0.00,0.0,0.00,33.02,0.0,21,0.00
+Centro,SMPL Rotational Menu,FISH DISHES,Smpl Honey Balsamic Basa,Portion,8.99,239,3.10,1.032,83,971,22.14,0.0,17.99,33.42,0.1,21,0.06
+Centro,SMPL Rotational Menu,FISH DISHES,Smpl Cilantro Ginger Lime Basa,Portion,8.99,189,5.15,1.232,83,1365,5.60,0.3,4.92,33.53,1.5,24,0.10
+Centro,SMPL Rotational Menu,FISH DISHES,Smpl Brown Sugar Basa,Portion,8.99,303,16.60,2.532,83,970,9.69,0.0,9.69,33.02,0.0,21,0.00
+Centro,SMPL Rotational Menu,FISH DISHES,Smpl Bruschetta Basa,Portion,8.99,160,3.29,1.057,83,1050,2.28,0.9,1.24,33.44,4.8,30,0.19
+Centro,SMPL Rotational Menu,FISH DISHES,Smpl Garlic Crusted Basa,Portion,8.99,265,16.60,2.532,83,1360,0.06,0.0,0.01,33.65,1.3,22,0.06
+Centro,SMPL Rotational Menu,FISH DISHES,Smpl Brown Sugar Cod,Portion,8.99,338,14.49,1.500,129,616,9.69,0.0,9.69,43.74,0.0,20,0.40
+Centro,SMPL Rotational Menu,FISH DISHES,Smpl Cajun Cod,Portion,8.99,299,14.49,1.500,129,616,0.00,0.0,0.00,43.74,0.0,20,0.40
+Centro,SMPL Rotational Menu,FISH DISHES,Smpl Cilantro Ginger Lime Cod,Portion,8.99,224,3.05,0.200,129,1012,5.60,0.3,4.92,44.24,1.5,23,0.50
+Centro,SMPL Rotational Menu,FISH DISHES,Smpl Citrus Glazed Salmon,Portion,8.99,261,18.61,2.522,70,645,0.00,0.0,0.00,25.55,0.0,16,5.11
+Centro,SMPL Rotational Menu,FISH DISHES,Smpl Firecracker Salmon,Portion,8.99,303,14.93,2.397,70,706,17.43,0.2,15.19,25.73,1.5,19,5.17
+Centro,SMPL Rotational Menu,FISH DISHES,Smpl Honey Balsamic Cod,Portion,8.99,283,1.00,0.000,129,617,24.38,0.0,20.07,44.14,0.1,21,0.45
+Centro,SMPL Rotational Menu,FISH DISHES,Smpl Lemon Caper Basa,Portion,8.99,265,16.60,2.532,83,1877,0.01,0.0,0.00,33.02,0.0,21,0.00
+Centro,SMPL Rotational Menu,FISH DISHES,Smpl Lemon Pepper Basa,Portion,8.99,264,16.60,2.532,83,2210,0.00,0.0,0.00,33.02,0.0,21,0.00
+Centro,SMPL Rotational Menu,FISH DISHES,Smpl Pesto Basa,Portion,8.99,308,21.03,3.182,83,1362,0.71,0.1,0.01,33.26,1.3,22,0.06
+Centro,SMPL Rotational Menu,FISH DISHES,Smpl Piri Piri Salmon,Portion,8.99,381,28.24,3.662,79,1438,3.84,1.1,0.81,27.35,0.0,0,0.00
+Centro,SMPL Rotational Menu,FISH DISHES,Smpl Red Thai Salmon,Portion,8.99,369,23.96,7.001,79,1427,13.53,0.0,9.02,27.39,0.0,0,0.00
+Centro,SMPL Rotational Menu,FISH DISHES,Smpl Sweet & Spicy Salmon,Portion,8.99,299,19.46,2.492,79,548,5.00,0.0,4.30,26.79,0.0,0,0.01
+Centro,SMPL Rotational Menu,SMPL,Smpl Meat Based Meal,,14.49,,,,,,,,,,,,
+Centro,SMPL Rotational Menu,SMPL,Smpl Plant Based Meal,,13.99,,,,,,,,,,,,
+Centro,SMPL Rotational Menu,SMPL,Add Meat Protein,,8.99,,,,,,,,,,,,
+Centro,SMPL Rotational Menu,SMPL,Add Plant Based Protein,,8.49,,,,,,,,,,,,
+Centro,SMPL Rotational Menu,SMPL,Add Carb Side,,3.99,,,,,,,,,,,,
+Centro,SMPL Rotational Menu,SMPL,Add Vegetable Side,,4.99,,,,,,,,,,,,
+Centro,SMPL Rotational Menu,Plant Based Entrees,Beyond Meat & Bean Chili Stuffed Potato,100g,,515,18.98,11.997,0,323,76.13,10.1,5.72,10.53,22.5,25,1.72
+Centro,SMPL Rotational Menu,Plant Based Entrees,Beyond Sausage Gnocchi With Peppers,Portion,,368,13.99,4.322,0,1130,44.66,5.6,4.60,14.32,0.0,118,0.12
+Centro,SMPL Rotational Menu,Plant Based Entrees,Chana Doubles Stuffed Potato,100g,,476,4.99,0.541,0,645,88.99,12.4,12.13,22.33,2.0,88,7.46
+Centro,SMPL Rotational Menu,Plant Based Entrees,Beyond Beef & Tomato Spaghetti Squash,Portion,8.49,392,17.66,3.793,0,734,38.39,6.7,1.57,22.92,4.6,281,6.65
+Centro,SMPL Rotational Menu,Plant Based Entrees,Smpl Beyond Meat Gnocchi Bolognaise,Portion,8.49,290,12.35,4.008,0,673,36.12,2.5,0.63,9.44,0.0,405,1.81
+Centro,SMPL Rotational Menu,Plant Based Entrees,Smpl Stuffed Eggplant,Portions,8.49,634,41.20,7.364,0,924,40.63,7.1,9.37,16.98,77.5,82,4.78
+Centro,SMPL Rotational Menu,Plant Based Entrees,Smpl Stuffed Portobello,Portion,8.49,257,12.28,3.801,0,798,15.74,2.5,5.91,12.27,18.0,46,2.56
+Centro,SMPL Rotational Menu,Plant Based Entrees,Smpl Beyond Meat Taco With Pico De Gallo,portion,8.49,428,16.63,3.820,0,806,50.49,9.4,3.49,21.06,45.9,88,4.70
+Centro,SMPL Rotational Menu,Plant Based Entrees,Smpl Cauliflower And  Bean Tacos,Portion,8.49,385,21.95,3.340,0,156,40.41,10.0,6.86,8.12,22.5,16,0.39
+Centro,SMPL Rotational Menu,Plant Based Entrees,Smpl Cauliflower Mac And Cheese,Portion,8.49,417,12.11,8.256,0,389,54.36,6.2,2.74,19.21,9.8,46,4.00
+Centro,SMPL Rotational Menu,Plant Based Entrees,Smpl Cauliflower Steak,Portion,8.49,636,40.69,4.476,0,939,43.86,9.0,4.36,15.25,69.5,58,5.09
+Centro,SMPL Rotational Menu,Plant Based Entrees,Smpl Curried Potato And Chickpea Taco (Chana Gobi),Portion,8.49,408,19.20,2.847,0,183,49.17,13.0,5.62,12.00,22.1,32,1.26
+Centro,SMPL Rotational Menu,Plant Based Entrees,Mesir Wat,Portion,8.49,198,5.41,0.578,0,688,26.26,5.0,5.65,8.43,52.0,42,1.96
+Centro,SMPL Rotational Menu,Plant Based Entrees,Smpl Lentil Shepherds Pie,Portion,8.49,646,21.12,2.474,0,410,92.17,19.4,7.53,26.15,43.5,54,4.46
+Centro,SMPL Rotational Menu,Plant Based Entrees,Smpl Tex-Mex Stuffed Pepper,portion,8.49,415,17.70,8.182,0,1646,43.63,8.3,3.39,21.42,186.0,70,7.10
+Centro,SMPL Rotational Menu,Plant Based Entrees,Smpl Moussaka Beyond,Portion,8.49,448,19.90,3.057,0,2466,49.23,6.5,7.07,22.39,27.0,90,5.33
+Centro,SMPL Rotational Menu,Plant Based Entrees,Jackfruit And Lentil Taco,Portion,8.49,410,13.76,2.664,0,522,61.64,8.9,17.15,8.96,40.2,35,1.85
+Centro,SMPL Rotational Menu,Plant Based Entrees,Samosa Lentil Sweet Potato,Portion,8.49,627,9.21,5.380,0,889,119.33,18.7,26.72,22.95,42.2,195,8.51
+Centro,SMPL Rotational Menu,Plant Based Entrees,Spanish Lentil Stew With Gnocchi,Portion,8.49,511,4.74,0.416,0,2700,86.46,13.7,10.62,18.30,54.5,176,4.35
+Centro,SMPL Rotational Menu,Plant Based Entrees,Vegan Enchilada,Portion,8.49,424,17.18,5.960,0,711,60.42,11.9,7.55,14.23,55.5,307,2.78
+Centro,SMPL Rotational Menu,Plant Based Entrees,Smpl Vegetable Tikka Masala,Portion,8.49,323,9.53,4.210,0,48,45.40,8.3,8.92,15.45,23.9,49,4.82
+Centro,SMPL Rotational Menu,Plant Based Entrees,Smpl Vegetable Lasagna,Portion,8.49,106,2.55,0.272,0,227,15.73,5.1,3.65,6.88,37.5,68,2.24
+Centro,SMPL Rotational Menu,Meat Based Entrees,Chicken And Bean Chili With Cornbread,Portion,,343,6.47,2.239,27,825,50.18,5.4,16.00,13.28,41.3,26,1.00
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl Chicken-Chickpea Shawarma Stuffed Potato,100g,,398,13.57,0.514,53,279,51.25,7.6,2.89,18.47,0.0,5,0.39
+Centro,SMPL Rotational Menu,Meat Based Entrees,Tex Mex Bbq Pork Chop,100g,,394,18.10,3.780,81,1206,26.00,0.0,22.00,31.00,0.0,0,0.00
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl Beef Curry,Portion,8.99,305,12.36,3.221,72,403,20.76,2.4,4.76,26.04,8.3,41,2.22
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl Bbq Chicken Leg,Portion,8.99,539,25.68,9.500,160,538,40.00,0.0,36.67,28.70,0.0,30,3.06
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl Bbq Pulled Beef,Portion,8.99,698,20.62,2.169,0,2378,34.37,3.5,20.43,44.34,161.2,38,0.96
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl Buffalo Style Chicken Wings,Portion,8.99,517,36.56,10.780,278,602,0.62,0.3,0.16,42.69,1.3,29,1.19
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl Cajun Chicken Breast,Portion,8.99,412,29.65,3.200,145,186,0.00,0.0,0.00,35.74,0.0,0,0.09
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl Cajun Creole Pork Loin,Portion,8.99,400,26.00,9.000,130,118,0.01,0.0,0.00,40.90,0.0,40,1.50
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl Chicken Biryani,Portion,8.99,998,48.25,22.425,192,629,89.58,3.1,4.96,43.10,49.5,61,3.27
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl Honey Bbq Chicken Wings,Portion,8.99,580,32.84,10.000,278,211,24.35,0.1,22.20,43.09,1.3,29,1.37
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl Jerk Beef With Chimichurri,Portion,8.99,559,40.34,11.071,106,663,7.49,2.2,2.08,31.83,24.1,89,2.64
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl Jerk Chicken Wings,Portion,8.99,496,32.53,10.000,278,211,3.71,0.2,3.23,42.65,5.2,31,1.18
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl Lemon Herb And Garlic Chicken Leg,Portion,8.99,593,44.34,14.480,236,292,1.04,0.0,0.00,41.08,0.0,23,1.70
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl Lemon Pepper Chicken Breast,Portion,8.99,288,17.17,1.500,102,1240,0.00,0.0,0.00,31.50,0.0,7,0.52
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl Moroccan Spiced Chicken,Portion,8.99,385,27.80,3.000,127,96,0.31,0.1,0.07,32.00,0.7,2,0.13
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl New Orleans Roasted Pork Loin,Portion,8.99,258,18.90,6.598,94,465,0.00,0.0,0.00,30.04,0.0,27,1.20
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl Orange Ginger Beef Tenderloin,Portion,8.99,283,9.85,3.618,97,164,9.97,0.2,7.74,34.20,0.4,38,2.45
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl Roasted Pesto Chicken,Portion,8.99,415,29.92,3.233,145,186,0.03,0.0,0.00,35.75,0.0,0,0.09
+Centro,SMPL Rotational Menu,Meat Based Entrees,Piri Piri Chicken Wings,Portion,8.99,757,58.68,13.870,311,1524,3.84,1.1,0.81,48.15,0.0,31,1.29
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl Red Thai Chicken Leg,Portion,8.99,431,28.03,12.506,160,999,9.72,0.3,6.24,28.08,2.5,33,2.78
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl Roasted Chicken Leg,Portion,8.99,620,42.72,15.500,256,1012,0.14,0.0,0.00,44.20,0.0,48,4.36
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl Salisbury Steak,Portion,8.99,434,29.78,12.898,118,467,5.44,0.8,0.79,36.16,20.3,24,0.66
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl Slow Roasted Honey Garlic Pork Ribs,Portion,8.99,657,40.51,16.500,170,585,37.78,0.0,25.38,50.70,0.0,1,1.84
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl Southern Style Bbq Pork Ribs,Portion,8.99,743,48.53,17.280,101,655,43.69,0.0,39.02,34.40,0.0,15,1.47
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl Smoked Paprika Slow Roasted Pork Ribs,Portion,8.99,571,48.00,17.280,101,187,0.00,0.0,0.00,33.22,0.0,15,1.20
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl Smoked Paprika Spiced Pork Loin,Portion,8.99,300,19.50,6.750,97,93,0.01,0.0,0.00,31.10,0.0,30,1.13
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl Sweet Chili Roasted Chicken Leg,Portion,8.99,539,27.72,9.800,160,925,30.00,0.0,28.00,27.90,0.0,30,2.72
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl Sweet And Sour Pork Ribs,Portion,8.99,632,29.87,11.345,101,936,77.73,0.1,63.46,31.51,0.0,25,1.41
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl Tandoori Chicken Leg,Portion,8.99,547,40.01,14.000,236,213,0.90,0.2,0.42,45.11,7.9,27,1.70
+Centro,SMPL Rotational Menu,Meat Based Entrees,Smpl Tandoori Chicken Taco,Portion,8.99,420,25.24,1.510,112,168,23.92,3.8,1.38,27.22,37.1,25,0.95
+Centro,SMPL Rotational Menu,Plant Based Sides,Sabji Mixed Vegetables,Portion,,82,3.55,0.375,0,212,10.55,3.7,4.85,2.89,0.7,17,0.55
+Centro,SMPL Rotational Menu,Plant Based Sides,Thai Vegetable Blend,Portion,,94,3.71,0.366,0,158,13.91,4.2,13.76,3.02,32.3,512,0.60
+Centro,SMPL Rotational Menu,Plant Based Sides,Sabji Mixed Vegetables,Portion,,82,3.55,0.375,0,212,10.55,3.7,4.85,2.89,0.7,17,0.55
+Centro,SMPL Rotational Menu,Plant Based Sides,Smpl Roast Parsnips And Carrots,Portion,4.99,117,4.82,0.560,0,126,16.80,4.6,5.70,1.30,116.1,0,0.36
+Centro,SMPL Rotational Menu,Plant Based Sides,Smpl Carrot And Corn Medley,Portion,4.99,91,3.27,0.312,0,86,15.90,2.9,4.30,1.88,2.1,2,0.32
+Centro,SMPL Rotational Menu,Plant Based Sides,Smpl Honey Glazed Carrots,Portion,4.99,299,13.86,1.500,0,204,42.00,5.0,30.96,1.66,5.0,2,0.51
+Centro,SMPL Rotational Menu,Plant Based Sides,Smpl Peppers And Green Beans,Portion,4.99,71,2.97,0.300,0,337,8.40,3.4,5.28,1.69,64.0,9,0.72
+Centro,SMPL Rotational Menu,Plant Based Sides,"Smpl Pepper, Mushroom, & Onions",Portion,4.99,56,3.01,0.360,0,83,6.73,2.4,4.13,1.31,209.8,13,0.38
+Centro,SMPL Rotational Menu,Plant Based Sides,"Smpl Peppers, Onions And Broccoli",Portion,4.99,85,2.82,0.250,0,95,13.50,4.2,6.17,3.34,150.4,54,0.68
+Centro,SMPL Rotational Menu,Plant Based Sides,"Smpl Roasted Broccoli, Cauliflower And Carrots",Portion,4.99,84,2.90,0.300,0,139,10.76,3.6,4.59,2.26,25.6,16,0.33
+Centro,SMPL Rotational Menu,Plant Based Sides,Smpl Roasted Cauliflower,Portion,4.99,195,13.57,1.500,0,131,8.37,2.2,4.19,2.13,43.9,0,0.00
+Centro,SMPL Rotational Menu,Plant Based Sides,"Smpl Roasted Kale, Peppers, Broccoli & Onions",Portion,4.99,64,1.80,0.167,0,45,8.75,2.9,3.62,2.16,88.2,54,0.68
+Centro,SMPL Rotational Menu,Plant Based Sides,Smpl Roasted Root Vegetables,Portion,4.99,165,3.09,0.345,0,210,25.48,3.9,10.20,2.08,87.8,17,0.36
+Centro,SMPL Rotational Menu,Plant Based Sides,Smpl Steamed Broccoli,Portion,4.99,61,0.72,0.000,0,59,12.60,4.7,3.06,5.04,153.9,72,1.26
+Centro,SMPL Rotational Menu,Plant Based Sides,"Smpl Zucchini, Peppers And Tomato Saute",Portion,4.99,76,3.09,0.400,0,85,5.80,2.0,3.60,1.62,153.2,18,3.14
+Centro,SMPL Rotational Menu,Carb Sides,Smpl Black Bean Rice,Portion,3.99,344,2.46,0.529,0,28,71.37,3.2,1.23,9.18,16.5,4,0.29
+Centro,SMPL Rotational Menu,Carb Sides,Smpl Caramelized Onion Mashed Potatoes,Portion,3.99,185,6.31,1.020,0,460,30.12,2.8,1.73,2.66,20.2,17,0.45
+Centro,SMPL Rotational Menu,Carb Sides,Smpl Coconut Scalloped Potatoes,Portion,3.99,469,29.72,15.157,0,788,45.38,3.8,2.28,6.16,18.7,60,0.58
+Centro,SMPL Rotational Menu,Carb Sides,Smpl Herb Roasted Potatoes,Portion,3.99,261,13.76,1.500,0,89,28.45,3.7,2.25,3.25,35.5,17,1.13
+Centro,SMPL Rotational Menu,Carb Sides,Smpl Lemon Basmati Rice,Portion,3.99,300,1.04,0.000,0,0,61.20,1.8,0.00,8.55,0.0,4,0.09
+Centro,SMPL Rotational Menu,Carb Sides,Smpl Lemon Garlic Potatoes,Portion,3.99,177,3.07,0.300,0,90,28.62,3.6,1.80,3.44,35.5,22,1.40
+Centro,SMPL Rotational Menu,Carb Sides,Smpl Mushroom Onion Rice,Portion,3.99,342,2.42,0.540,0,1,70.33,2.8,1.41,8.84,7.4,4,0.07
+Centro,SMPL Rotational Menu,Carb Sides,Smpl Roasted Potatoes,Portion,3.99,383,27.30,3.000,0,89,28.62,3.1,1.80,3.44,35.5,18,1.31
+Centro,SMPL Rotational Menu,Carb Sides,Smpl Sweet Potato Mash,Portion,3.99,156,0.90,0.150,0,178,36.00,4.9,8.19,3.32,4.0,65,1.17
+Centro,SMPL Rotational Menu,Carb Sides,Smpl Sweet Potato Wedges,Portion,3.99,218,13.50,1.500,0,145,24.00,3.2,5.46,2.22,2.6,43,0.78
+Centro,SMPL Rotational Menu,Carb Sides,Smpl Turmeric Basmati Rice,Portion,3.99,294,0.99,0.000,0,79,61.20,1.3,0.00,8.59,0.0,0,0.00
+Centro,SMPL Rotational Menu,Carb Sides,Smpl Vegetable Rice Pilaf,Portion,3.99,390,8.39,1.490,0,435,71.95,1.5,2.53,6.94,25.7,74,0.57
+Centro,SMPL Rotational Menu,Salads,Smpl Side Salad,Portion,6.99,218,20.37,3.375,0,210,7.79,2.6,2.32,2.00,19.6,66,1.10
+Centro,SMPL Rotational Menu,Salads,Sub Smpl Lentil Trail Mix,100g,,218,7.22,3.855,0,4,33.13,6.2,14.74,6.75,0.0,20,2.25
+Centro,SMPL Rotational Menu,Dessert,Lah Smpl Chocolate Cake Plated,Portion,,472,17.84,5.937,0,25,73.42,0.9,45.00,2.37,0.0,7,0.38
+Centro,SMPL Rotational Menu,Dessert,Smpl Apple-Peach Crumble,Portion,,259,6.71,2.586,0,60,49.08,2.1,37.24,1.63,0.0,5,0.33
+Centro,SMPL Rotational Menu,Dessert,Sticky Toffee Pudding,Each,,725,39.40,19.159,0,688,90.81,4.5,67.53,3.63,0.0,25,0.20
+Centro,SMPL Rotational Menu,Dessert,Vanilla Coconut Brulee,Portion,,294,18.83,16.248,0,36,29.97,0.0,24.27,1.14,0.0,0,0.00
+Centro,SMPL Rotational Menu,Dessert,Lah Smpl Jumbo Chocolate Cookie,Portion,,436,23.91,7.222,0,316,47.28,2.9,21.05,2.55,0.0,11,0.36
+Centro,SMPL Rotational Menu,Dessert,Sub Smpl Lah Chocolate Mousse,Each,,905,72.76,67.619,0,463,56.10,3.3,51.72,6.66,0.0,19,1.35
+Centro,SMPL Rotational Menu,Other,Smpl Beef Enchilada Lasagna,Portion,8.99,416,18.39,6.599,25,491,50.50,7.9,6.63,19.12,25.3,237,3.15
+Centro,SMPL Rotational Menu,Other,Smpl Beef & Lentil Moussaka,Portion,8.99,453,18.70,5.749,40,2441,51.70,7.3,7.07,20.93,27.0,44,3.07
+Centro,SMPL Rotational Menu,Other,Smpl Flex Beef & Lentil Kofta,Portion,8.99,313,15.90,7.272,50,678,16.87,3.5,2.87,21.14,31.6,35,3.52
+Centro,SMPL Rotational Menu,Other,"Smpl Flex Beef, Lentil & Mushroom Shepherds Pie",Portion,8.99,354,17.92,4.552,32,248,30.24,5.6,3.83,17.74,26.3,26,2.87
+Centro,SMPL Rotational Menu,Other,Smpl Flex Beef & Lentil Nachos,Portion,8.99,665,34.20,14.943,54,1032,61.63,9.5,1.90,27.65,4.3,71,2.43
+Centro,SMPL Rotational Menu,Other,Smpl Beef Stuffed Pepper,Portion,8.99,384,13.85,4.772,39,340,45.55,3.5,3.20,18.86,166.5,22,1.49
+Centro,SMPL Rotational Menu,Other,Smpl Flex Beef And Lentil  Shepherds Pie,Portion,8.99,541,26.63,8.139,64,613,43.67,7.4,3.83,29.78,33.8,40,4.67
+Centro,SMPL Rotational Menu,Other,Smpl Flex Beef & Lentil Sloppy Joe,Portion,8.99,426,20.25,8.569,79,1083,30.50,4.0,11.68,29.98,21.5,23,2.39
+Centro,SMPL Rotational Menu,Other,Smpl Beef Burrito Taco,portion,8.99,426,19.40,7.161,52,723,37.79,6.6,1.78,24.00,12.9,21,1.60
+Centro,SMPL Rotational Menu,Other,Smpl Veg Noodle Beef Lasagna,Portion,8.99,258,13.53,5.011,43,308,14.52,3.1,3.46,18.79,24.1,25,2.82
+Centro,SMPL Rotational Menu,Other,"Smpl Chicken ""Parmesan"" Stuffed Spaghetti Squash",Portion,8.99,469,21.88,6.776,97,668,34.48,6.1,3.34,27.67,4.6,225,2.47
+Centro,SMPL Rotational Menu,Other,Smpl Flex Fish And Lentil Cake,Portion,8.99,1458,22.04,6.880,523,6931,115.20,9.6,58.29,230.92,9.6,202,6.16
+Centro,SMPL Rotational Menu,Other,Smpl Meatloaf,Portion,8.99,376,17.84,7.196,64,709,25.70,3.4,9.39,26.29,22.8,35,4.25
+Centro,SMPL Rotational Menu,Other,Smpl Flex Italian Style Beef & Lentil Meatballs,Portion,8.99,395,18.09,7.289,65,699,20.64,3.7,3.13,26.87,47.2,41,4.33
+Centro,SMPL Rotational Menu,Other,Smpl Lamb & Lentil Sausage With Mushroom Sauce,Portion,8.99,750,58.01,35.206,109,1747,21.43,2.1,3.41,30.58,0.1,22,2.98
+Centro,SMPL Rotational Menu,Other,Smpl Flex Pork Caldo Verde,Portion,8.99,283,15.41,3.996,45,1653,17.14,4.3,2.26,17.52,23.8,22,0.58
+Centro,SMPL Rotational Menu,Other,Smpl Flex Pork & Lentil Napa Cabbage Roll,Portion,8.99,414,19.22,4.967,57,935,32.33,5.6,3.48,25.36,35.5,65,4.15
+Centro,SMPL Rotational Menu,Other,Smpl Flex Pork & Quinoa Pojarski,Portion,8.99,803,61.62,46.987,62,144,26.64,2.0,6.77,23.06,1.8,25,1.21
+Centro,SMPL Rotational Menu,Other,Smpl Salisbury Steak,Portion,8.99,403,20.87,8.737,79,872,22.73,3.9,0.79,30.94,20.3,40,2.62
+Centro,SMPL Rotational Menu,Other,Smpl Tex-Mex Beef Sweet Potato,Portion,8.99,724,21.54,8.377,38,1047,113.40,13.5,43.47,23.49,97.8,163,4.89
+Centro,SMPL Rotational Menu,Other,Smpl Turkey Meatballs,Portion,8.99,338,10.58,2.511,97,827,23.12,4.1,3.50,28.93,52.8,41,3.78
+Centro,SMPL Rotational Menu,Other,Smpl Yellow Split Pea & Chicken,Portion,8.99,514,28.99,2.057,130,341,11.52,1.5,4.75,24.89,5.9,24,7.15
+Centro,Steeltown Grill,Breakfast,Good Morning Classic,Portion,8.99,689,41.03,10.307,426,999,51.39,3.4,4.99,24.93,0.0,105,3.78
+Centro,Steeltown Grill,Breakfast,Centro Plant Based Breakfast Burrito,portion,8.79,773,38.82,12.746,0,1161,80.73,6.8,6.61,24.90,0.0,182,4.09
+Centro,Steeltown Grill,Breakfast,Centro Hungry Marauder Breakfast,Each,12.99,1414,105.86,31.041,726,1930,67.87,5.4,6.74,42.97,0.0,130,16.66
+Centro,Steeltown Grill,Breakfast,Centro Breakfast Wrap,Portion,8.99,842,42.25,16.485,885,1838,78.40,4.4,13.51,36.52,0.0,349,2.27
+Centro,Steeltown Grill,Breakfast,Two Eggs & Toast,Portion,4.79,439,24.34,6.375,414,477,34.65,1.4,2.34,17.88,0.0,104,3.26
+Centro,Steeltown Grill,Breakfast,Centro Breakfast Burger,Portion,10.95,686,42.17,8.646,293,780,18.06,2.0,2.20,30.49,0.0,108,2.85
+Centro,Steeltown Grill,Breakfast,Steak And Egg Wrap,Portion,11.95,585,23.45,8.145,318,860,54.07,2.4,4.78,35.72,14.4,54,2.32
+Centro,Steeltown Grill,Breakfast,One Egg,Each,1.99,85,5.48,1.826,207,73,1.22,0.0,0.00,6.09,0.0,27,0.68
+Centro,Steeltown Grill,Breakfast,Centro Side Hashbrown,Each,2.45,190,12.52,2.420,0,270,16.00,2.0,2.20,2.00,0.0,0,0.36
+Centro,Steeltown Grill,Breakfast,Side Of Sausage,Portion,2.99,374,33.29,12.084,50,774,5.29,0.0,1.93,13.22,0.0,19,1.24
+Centro,Steeltown Grill,Breakfast,Side Of Bacon,Portion,2.99,61,4.17,1.512,12,252,0.74,0.0,0.44,5.05,0.0,1,0.16
+Centro,Steeltown Grill,Breakfast,Turkey Bacon,Portion,2.99,34,2.00,0.054,20,220,0.00,0.0,0.00,6.00,0.0,0,0.20
+Centro,Steeltown Grill,All Day Menu,Steeltown Burger,Sandwich,9.79,770,59.64,2.377,142,372,23.06,1.8,2.02,32.97,8.1,47,4.53
+Centro,Steeltown Grill,All Day Menu,Centro Steak Sandwich,Portion,12.99,514,15.52,6.261,76,986,58.31,4.2,8.87,34.90,64.1,265,5.16
+Centro,Steeltown Grill,All Day Menu,St Classic Poutine,Portion,9.98,940,59.40,14.726,60,740,74.42,4.0,0.00,22.06,0.0,475,0.00
+Centro,Steeltown Grill,All Day Menu,Chicken Tenders,Portion,9.59,1040,65.40,5.250,79,2635,54.49,6.3,10.31,63.00,0.0,63,2.36
+Centro,Steeltown Grill,All Day Menu,Centro Carolina Gold Chicken Wrap,Portion,9.79,737,28.42,5.218,39,2323,80.74,6.1,9.56,40.58,4.2,56,1.57
+Centro,Steeltown Grill,All Day Menu,Beyond Meat Burger,Sandwich,11.29,645,37.54,8.675,5,759,46.84,5.4,6.04,28.19,43.1,105,4.98
+Centro,Steeltown Grill,All Day Menu,Beyond Ghost Pepper Ranch Wrap,Portion,10.59,649,32.73,7.149,6,1627,66.38,5.3,5.69,19.87,12.6,77,1.50
+Centro,Steeltown Grill,All Day Menu,Chicken Thunder Crunch,Portion,10.99,401,16.00,2.105,82,1189,41.82,3.2,7.60,23.24,19.5,62,3.43
+Centro,Steeltown Grill,All Day Menu,Korean Gamja Hot Dog,Each,8.99,379,12.30,5.128,55,809,47.55,1.6,6.81,18.42,0.0,273,2.98
+Centro,Steeltown Grill,Sides,Add Cheese,slice,1.49,60,4.50,3.000,15,105,0.00,0.0,0.00,3.00,0.0,0,0.00
+Centro,Steeltown Grill,Sides,Add Plant Based Cheese,slice,1.99,93,6.53,6.527,0,67,7.46,0.0,0.00,0.93,0.0,35,0.00
+Centro,Steeltown Grill,Sides,Side Of Bacon,Portion,2.99,61,4.17,1.512,12,252,0.74,0.0,0.44,5.05,0.0,1,0.16
+Centro,Steeltown Grill,Sides,Fresh Cut Fries,Portion,4.79,348,8.54,1.449,0,337,59.58,3.2,8.10,6.04,0.0,31,0.27
+Centro,Steeltown Grill,Sides,Sweet Potato Fries,Portion,6.79,810,57.34,8.400,40,528,74.52,4.6,21.36,4.04,0.0,75,1.15
+Centro,Steeltown Grill,Sides,Gravy,Portion,1.29,21,0.56,0.186,0,273,3.32,0.1,0.00,0.62,0.0,7,0.00
+Centro,Steeltown Grill,Other,Centro Smash House Cheeseburger,Portion,14.95,1056,77.87,4.410,147,1214,49.70,3.7,2.91,37.15,4.2,92,4.70
+Centro,Steeltown Grill,Other,Chicken House Wings,Portion,14.95,942,57.22,15.842,420,834,36.22,3.0,12.29,67.14,15.3,70,2.93
+Centro,Steeltown Grill,Other,Perogy House With Bbq Beef,Portion,12.95,1073,39.38,15.706,453,1465,134.30,7.1,29.45,49.71,1.8,371,8.52
+Centro,Steeltown Grill,Other,Perogy House With Jack Fruit,PORTION,12.95,833,28.63,10.906,379,1410,120.02,8.3,14.49,30.77,2.6,387,6.62
+Centro,Taste of Home,All Day,Honey Garlic Pork Bites,Portion,8.99,628,36.97,5.055,35,1191,50.50,0.0,32.70,21.35,0.0,25,2.23
+Centro,Taste of Home,All Day,Char Siu Pork,Portion,8.99,520,32.96,11.343,107,503,19.78,0.1,19.39,33.26,0.0,46,2.09
+Centro,Taste of Home,All Day,General Tso Chicken,Portion,8.99,599,32.12,6.151,126,271,46.63,0.6,4.91,27.54,0.0,56,1.42
+Centro,Taste of Home,All Day,Korean Beef Tenderloin,portion,9.99,346,9.94,2.955,73,102,37.47,1.8,33.41,26.17,108.6,60,2.23
+Centro,Taste of Home,All Day,Butter Chicken,Portion,8.99,311,20.55,6.354,126,118,4.10,0.4,1.70,27.04,0.9,14,0.11
+Centro,Taste of Home,All Day,Jerk Chicken,Portion,8.99,576,30.06,11.400,192,565,29.97,0.2,29.49,33.11,7.9,40,3.27
+Centro,Taste of Home,All Day,Jamaican Style Jerk Tofu,Portion,6.00,320,7.41,0.780,0,78,44.56,2.0,5.02,18.11,1.2,147,1.83
+Centro,Taste of Home,All Day,Korean Sweet And Spicy Ribs,Porion,9.99,727,54.30,18.554,105,124,23.70,0.6,20.82,34.29,24.7,30,1.34
+Centro,Taste of Home,All Day,Sesame Chicken,Portion,8.99,508,22.55,5.976,222,256,26.35,0.1,24.28,43.47,0.0,26,1.76
+Centro,Taste of Home,All Day,Tempura Shrimp,Portion,8.99,617,40.21,5.032,91,400,51.00,0.0,43.45,14.54,0.0,0,0.03
+Centro,Taste of Home,All Day,Lo Mein Noodles,Portion,5.09,352,8.33,0.712,9,833,59.67,2.7,14.92,8.70,35.0,33,2.73
+Centro,Taste of Home,All Day,Centro Jasmine Rice,Portion,1.99,288,0.36,0.000,0,0,64.80,0.0,0.00,5.40,0.0,0,0.00
+Centro,Taste of Home,All Day,Centro Brown Spanish Rice,Portion,1.99,330,0.61,0.159,0,80,73.50,1.4,0.99,7.25,51.8,3,0.09
+Centro,Taste of Home,All Day,Market Vegetables,Portion,4.99,55,0.41,0.030,0,77,12.11,3.6,5.38,2.41,134.5,59,0.82
+Centro,Taste of Home,All Day,Naan,Each,2.79,370,9.00,2.500,10,960,62.00,2.0,6.00,12.00,0.0,175,3.50
+Centro,Taste of Home,All Day,Mashed Potatoes,Portion,3.39,208,8.30,1.320,1,257,31.28,2.4,1.72,3.96,0.0,25,1.28
+Centro,Taste of Home,All Day,Centro Pork Kimchi Dumplings,Portion,7.49,674,59.58,8.439,19,482,27.17,1.2,2.47,9.88,0.0,25,1.78
+Centro,Taste of Home,All Day Menu,Add Cheese,slice,1.49,60,4.50,3.000,15,105,0.00,0.0,0.00,3.00,0.0,0,0.00
+Centro,Taste of Home,All Day Menu,Steeltown Burger,Sandwich,9.79,770,59.64,2.377,142,372,23.06,1.8,2.02,32.97,8.1,47,4.53
+Centro,Taste of Home,All Day Menu,Beyond Meat Burger,Sandwich,11.29,645,37.54,8.675,5,759,46.84,5.4,6.04,28.19,43.1,105,4.98
+Centro,Taste of Home,All Day Menu,Chicken Tenders,Portion,9.59,1040,65.40,5.250,79,2635,54.49,6.3,10.31,63.00,0.0,63,2.36
+Centro,Taste of Home,All Day Menu,Chicken Thunder Crunch,Portion,10.95,401,16.00,2.105,82,1189,41.82,3.2,7.60,23.24,19.5,62,3.43
+Centro,Taste of Home,All Day Menu,Fresh Cut Fries,Portion,4.79,348,8.54,1.449,0,337,59.58,3.2,8.10,6.04,0.0,31,0.27
+Centro,Taste of Home,All Day Menu,St Classic Poutine,Portion,9.98,940,59.40,14.726,60,740,74.42,4.0,0.00,22.06,0.0,475,0.00
+Centro,Taste of Home,All Day Menu,Gravy,Portion,1.29,21,0.56,0.186,0,273,3.32,0.1,0.00,0.62,0.0,7,0.00
+Centro,Taste of Home,Other,Centro Chicken Samosa 2Pc,Each,7.49,457,14.45,1.445,14,667,70.67,4.2,12.63,11.58,0.0,14,3.26
+Centro,Taste of Home,Other,Centro Chicken Samosa,100g,3.99,178,5.16,0.516,5,244,29.08,2.0,6.77,4.14,0.0,5,1.16
+Centro,Taste of Home,Other,Butter Chicken,Portion,8.99,311,20.55,6.354,126,118,4.10,0.4,1.70,27.04,0.9,14,0.11
+Centro,Taste of Home,Other,Jerk Chicken,Portion,8.99,576,30.06,11.400,192,565,29.97,0.2,29.49,33.11,7.9,40,3.27
+Centro,Taste of Home,Other,Honey Garlic Pork Bites,Portion,8.99,628,36.97,5.055,35,1191,50.50,0.0,32.70,21.35,0.0,25,2.23
+Centro,Taste of Home,Other,Ole English Fish & Chip,Portion,11.95,589,17.26,1.464,66,1516,75.75,3.9,3.63,34.03,0.0,29,0.06
+Centro,Taste of Home,Other,Chicken Thunder Crunch,Portion,10.95,401,16.00,2.105,82,1189,41.82,3.2,7.60,23.24,19.5,62,3.43
+Centro,Taste of Home,Other,Market Vegetables,Portion,4.99,55,0.41,0.030,0,77,12.11,3.6,5.38,2.41,134.5,59,0.82
+Centro,Taste of Home,Other,Centro Brown Spanish Rice,Portion,1.99,330,0.61,0.159,0,80,73.50,1.4,0.99,7.25,51.8,3,0.09
+Centro,Taste of Home,Other,Naan,Each,2.79,370,9.00,2.500,10,960,62.00,2.0,6.00,12.00,0.0,175,3.50
+Centro,Taste of Home,Brunch,Big Breakfast - French Toast,portion,14.49,1305,63.01,20.457,805,2224,135.14,1.4,47.82,47.22,0.1,136,6.09
+Centro,Taste of Home,Brunch,Big Breakfast,portion,14.49,1695,100.62,27.970,855,2273,144.24,1.9,41.73,51.48,0.1,150,17.56
+Centro,Taste of Home,Brunch,Centro Vegetarian Breakfast- French Toast,PoRTION,10.99,858,25.36,6.814,743,1197,126.64,1.4,45.45,28.71,0.1,115,4.64
+Centro,Taste of Home,Brunch,Centro Vegetarian Breakfast - Pancakes,PoRTION,10.99,953,26.19,6.903,739,1484,144.78,2.2,49.39,31.09,0.1,150,5.53
+Centro,Taste of Home,Brunch,Rise N Shine Breakfast - Sausage,portion,9.99,1029,69.75,18.321,464,1264,65.84,0.4,10.03,30.48,0.1,88,3.82
+Centro,Taste of Home,Brunch,Centro Plant Based Breakfast Burrito,portion,8.79,773,38.82,12.746,0,1161,80.73,6.8,6.61,24.90,0.0,182,4.09
+Centro,Taste of Home,Brunch,Side French Toast,PoRTION,6.99,420,4.34,0.723,22,545,87.71,1.4,33.12,7.23,0.0,29,2.53
+Centro,Taste of Home,Brunch,Side Pancakes,PoRTION,6.49,460,4.00,0.600,8,750,96.00,2.0,35.00,8.00,0.0,66,2.87
+Centro,Taste of Home,Brunch,Homefries,Portion,4.69,484,25.50,2.585,0,344,58.11,0.4,8.10,5.08,0.1,15,1.21
+Centro,Taste of Home,Brunch,Scrambled Egg,Portion,4.99,270,17.95,5.742,776,679,3.58,0.0,1.26,21.55,0.0,90,2.16
+Centro,Taste of Home,Brunch,Side Of Sausage,Portion,2.99,374,33.29,12.084,50,774,5.29,0.0,1.93,13.22,0.0,19,1.24
+Centro,Taste of Home,Brunch,Side Of Bacon,Portion,2.99,61,4.17,1.512,12,252,0.74,0.0,0.44,5.05,0.0,1,0.16
+Centro,Taste of Home,Brunch,Turkey Bacon - Side,Portion,2.99,34,2.00,0.054,20,220,0.00,0.0,0.00,6.00,0.0,0,0.20
+Eco Bean - MUMC,Breakfast,Breakfast,Bagel And Cream Cheese,Each,4.20,380,8.97,4.555,2,544,63.40,2.1,8.32,10.93,0.0,57,3.53
+Eco Bean - MUMC,Breakfast,Breakfast,Bacon Cheese Farmers Bagel,Each,8.99,571,21.31,9.108,196,1264,66.85,2.2,8.85,27.42,0.0,95,4.54
+Eco Bean - MUMC,Breakfast,Breakfast,Bacon Cheese Farmers Wrap,Each,8.99,449,22.52,13.286,195,1225,37.89,0.2,3.92,23.64,0.0,60,1.13
+Eco Bean - MUMC,Breakfast,Breakfast,Veggie Bagel,Each,7.99,474,13.34,5.950,179,929,68.99,2.8,9.10,19.89,4.7,167,4.48
+Eco Bean - MUMC,Breakfast,Breakfast,Veggie Wrap,Portion,7.99,352,14.55,10.128,178,889,40.03,0.7,4.17,16.12,4.7,132,1.07
+IAHS Café,Bakery Items,Breakfast,Bagel- Plain,Each,2.25,300,2.00,0.000,0,420,61.00,2.0,6.00,9.00,0.0,20,3.50
+IAHS Café,Bakery Items,Breakfast,Bagel- Everything,Each,2.25,310,5.00,1.000,0,680,54.00,4.0,2.00,10.00,0.0,50,4.00
+IAHS Café,Bakery Items,Breakfast,Bagel-Cinnamon Raisin,Each,2.25,313,2.16,0.000,0,508,65.88,3.2,9.72,9.72,0.0,32,4.32
+IAHS Café,Bakery Items,Breakfast,Bagel- Cheese,Each,2.25,313,3.78,1.620,5,637,60.48,8.6,1.08,11.88,0.0,71,3.24
+IAHS Café,Bakery Items,Breakfast,Bagel-Pretzel,Each,2.25,280,3.50,2.000,0,760,51.00,2.0,1.00,9.00,0.0,20,4.50
+IAHS Café,Bakery Items,Breakfast,Apple Muffin,Each,2.95,410,18.00,3.000,65,410,54.00,2.0,27.00,7.00,0.0,75,2.00
+IAHS Café,Bakery Items,Breakfast,Banana Nut Muffin,Each,2.95,480,28.00,4.500,60,390,50.00,2.0,24.00,7.00,0.0,0,0.00
+IAHS Café,Bakery Items,Breakfast,Blueberry Muffin,Each,2.95,440,24.00,4.000,70,360,50.00,1.0,23.00,6.00,0.0,0,0.00
+IAHS Café,Bakery Items,Breakfast,Carrot Muffin,Each,2.95,410,18.00,3.000,65,530,54.00,2.0,27.00,7.00,0.0,75,2.00
+IAHS Café,Bakery Items,Breakfast,Chocolate Chunk Muffin,Each,2.95,480,26.00,6.000,70,340,54.00,2.0,26.00,7.00,0.0,0,0.00
+IAHS Café,Bakery Items,Breakfast,Double Chocolate Chunk Muffin,Each,2.95,460,25.00,5.000,65,370,50.00,3.0,22.00,7.00,0.0,0,0.00
+IAHS Café,Bakery Items,Breakfast,Chocolatine Croissant,Each,2.95,300,17.00,10.000,50,280,33.00,2.0,10.00,6.00,0.0,20,2.50
+IAHS Café,Bakery Items,Breakfast,Cheese Croissant,Each,2.95,336,19.67,9.286,19,442,30.00,1.0,4.00,9.76,0.0,24,2.00
+IAHS Café,Bakery Items,Breakfast,Vegan Croissant,Each,2.95,260,13.00,5.000,0,290,30.00,1.0,4.00,5.00,0.0,10,2.00
+IAHS Café,Bakery Items,Breakfast,Strawberry Cream Cheese Danish,Each,4.25,384,18.08,10.170,62,384,48.59,1.1,20.34,6.78,0.0,23,1.63
+IAHS Café,Bakery Items,Breakfast,Maple Pecan Danish,Each,4.25,330,17.00,8.000,45,250,39.00,1.0,17.00,5.00,0.0,20,1.80
+IAHS Café,Bakery Items,Breakfast,Cinnamon Buns,Each,3.95,430,20.00,11.000,60,540,55.00,3.0,13.00,8.00,0.0,39,3.28
+IAHS Café,Bakery Items,Breakfast,Apple Strudel Stick,Each,3.49,181,8.67,3.612,0,145,26.01,0.7,11.56,2.17,0.0,7,0.79
+IAHS Café,Bakery Items,Breakfast,Raspberry Strudel Stick,Each,3.49,195,8.67,3.612,0,137,28.18,0.7,13.73,2.17,0.0,7,0.79
+IAHS Café,Bakery Items,Breakfast,Donut-Boston Cream,Each,2.29,400,20.00,8.000,0,440,52.00,2.0,18.00,6.00,0.0,40,2.50
+IAHS Café,Bakery Items,Breakfast,Donut-Hawaiian,Each,2.29,380,17.00,8.000,0,340,52.00,1.0,21.00,5.00,0.0,40,1.75
+IAHS Café,Bakery Items,Breakfast,Donut- Chocolate Raised,Each,2.29,310,15.00,6.000,0,340,38.00,1.0,1218.94,5.00,0.0,40,2.00
+IAHS Café,Bakery Items,Breakfast,Donut-Apple Fritter,Each,2.29,380,16.00,6.000,0,460,54.00,2.0,16.00,6.00,0.0,80,2.50
+IAHS Café,Bakery Items,Breakfast,Donut-Sour Cream Glazed,Each,2.29,330,15.00,6.000,15,380,46.00,1.0,24.00,4.00,0.0,40,1.50
+IAHS Café,Bakery Items,Breakfast,Donut- Chocolate Glazed Cake,Each,2.29,320,16.00,7.000,15,370,42.00,2.0,16.00,4.00,0.0,50,2.00
+IAHS Café,Bakery Items,Breakfast,Donut- Premium- S'mores,Each,2.29,440,20.00,9.000,0,460,38.00,2.0,206.00,6.00,0.0,60,2.50
+IAHS Café,Bakery Items,Breakfast,Donut- Premium- Cookies & Cream,Each,2.29,440,20.00,8.000,0,480,58.00,2.0,18.00,6.00,0.0,40,2.50
+IAHS Café,Bakery Items,Breakfast,Donut- Premium- Cheessecake,Each,2.29,400,20.00,9.000,0,440,52.00,2.0,18.00,6.00,0.0,60,2.00
+IAHS Café,Bakery Items,Breakfast,Donut- Premium- Key Lime,Each,2.29,400,20.00,9.000,25,440,52.00,2.0,19.00,6.00,0.0,60,2.00
+IAHS Café,Bakery Items,Breakfast,"Donut- Long John, Chocolate Glazed",Each,2.29,460,24.00,14.000,0,440,58.00,2.0,22.00,6.00,0.0,40,2.50
+IAHS Café,Bakery Items,Breakfast,Spinach And Feta Trellis Pastry,Each,4.19,347,19.96,11.554,63,452,33.61,1.1,5.25,7.35,0.0,63,1.89
+IAHS Café,Bakery Items,Breakfast,Tomato Olive Trellis Pastry,Each,4.19,371,22.00,12.737,64,484,37.05,2.3,4.63,6.95,0.0,0,0.00
+IAHS Café,Bakery Items,Breakfast,S'mores Strudel,Portion,3.49,192,9.61,3.955,0,153,24.86,0.6,84.75,2.26,0.0,6,0.85
+IAHS Café,Bakery Items,Breakfast,Lemon Cheese Strudel,Portion,3.49,170,8.50,4.000,0,155,22.00,0.5,8.00,2.00,0.0,5,0.75
+IAHS Café,Bakery Items,Breakfast,Peaches And Cheese Strudel,Each,3.49,373,19.21,7.910,0,305,46.33,1.1,14.69,5.65,0.0,11,1.69
+IAHS Café,Bakery Items,Breakfast,S'mores Strudel,Portion,3.49,192,9.61,3.955,0,153,24.86,0.6,84.75,2.26,0.0,6,0.85
+IAHS Café,Bakery Items,Breakfast,Ham And Swiss Croissant,Each,4.99,170,11.13,6.545,33,170,14.40,0.0,2.62,3.93,0.0,26,1.18
+IAHS Café,Bakery Items,Breakfast,Bacon And Egg Croissant,Each,4.99,188,11.42,6.719,71,249,15.45,0.7,2.69,6.05,0.0,40,0.85
+IAHS Café,Bakery Items,Dessert,Macaroon Madness Dessert Bar,Slice,3.95,432,21.58,9.711,49,237,56.11,3.2,42.08,4.32,0.0,0,0.00
+IAHS Café,Bakery Items,Dessert,Tiger Brownie Dessert Bar,Slice,3.95,455,24.48,12.241,52,192,52.46,1.7,31.48,5.25,0.0,0,0.00
+IAHS Café,Bakery Items,Dessert,Caramel Pecan Brownie Dessert Bar,Slice,3.95,430,24.07,7.736,60,189,48.14,3.4,34.38,5.16,0.0,0,0.00
+IAHS Café,Bakery Items,Dessert,Nanaimo Bar,Slice,3.95,516,32.03,17.794,0,240,56.94,3.6,40.93,3.56,0.0,18,2.22
+IAHS Café,Bakery Items,Dessert,New York Cheesecake 16-Cut,Each,6.49,460,31.00,17.000,155,480,39.00,1.0,29.00,8.00,0.0,77,1.00
+IAHS Café,Bakery Items,Dessert,Plain Butter Tart,Each,2.79,360,16.00,6.000,45,200,55.00,2.0,26.00,4.00,0.0,0,0.00
+IAHS Café,Bakery Items,Dessert,Double Chocolate Chip Cookie,Each,2.39,260,12.00,7.000,20,210,34.00,1.0,23.00,3.00,0.0,0,0.00
+IAHS Café,Bakery Items,Dessert,Oatmeal Raisin Cookies,Each,2.39,250,10.00,6.000,15,200,34.00,2.0,19.00,3.00,0.0,0,0.00
+IAHS Café,Bakery Items,Dessert,Milk Chocolate Chunk Cookie,Each,2.39,274,12.54,6.270,16,274,37.62,1.1,22.80,3.31,0.0,22,1.60
+IAHS Café,Bakery Items,Dessert,White Chocolate Macadamia Nut Cookie,Each,2.39,260,13.00,6.000,20,180,34.00,1.0,22.00,3.00,0.0,0,0.00
+IAHS Café,Capaletti's,~None,Iahs Chicken Burrito Bowl,portion,11.19,869,30.96,13.921,84,1145,106.67,5.7,4.72,41.09,0.7,536,1.44
+IAHS Café,Capaletti's,~None,Paneer Grilled Cheese,Portion,10.99,859,47.21,14.930,54,1245,87.90,5.6,10.88,27.69,17.5,340,0.10
+IAHS Café,Capaletti's,~None,Butter Chicken Panini,Portion,11.19,476,12.33,5.011,67,1988,64.87,4.9,3.42,27.76,0.2,111,4.85
+IAHS Café,Capaletti's,~None,Pesto Spinach Quesadilla,Each,11.29,831,50.10,19.375,76,1503,59.93,5.4,4.74,35.28,9.0,592,1.07
+IAHS Café,Capaletti's,~None,Iahs Grilled Cheese,Portion,11.29,1193,80.46,24.525,92,2118,79.70,5.3,2.62,42.05,0.0,840,0.15
+IAHS Café,Capaletti's,~None,Iahs Turkey Blta,portion,11.19,599,32.86,3.374,31,1318,57.60,6.9,4.18,23.00,12.2,92,4.33
+IAHS Café,Capaletti's,~None,Iahs Chicken Pesto,portion,11.19,553,21.82,5.505,62,1394,57.55,5.8,4.75,30.03,2.8,97,4.67
+IAHS Café,Capaletti's,~None,Iahs Byo Salad,portion,11.99,399,14.92,4.200,23,463,56.22,9.5,29.79,9.91,26.1,101,2.89
+IAHS Café,Capaletti's,~None,Chicken Shawarma Rice Bowl,portion,11.19,597,39.83,1.662,58,1176,48.92,9.8,4.18,20.14,4.8,66,2.17
+IAHS Café,Capaletti's,~None,Iahs Mediterranean Rice Bowl,portion,11.19,463,15.56,9.372,65,985,47.10,3.2,5.52,29.71,5.6,170,1.67
+IAHS Café,Capaletti's,~None,Iahs Chicken Caesar Wrap,Piortion,10.99,743,40.56,7.150,80,1735,58.51,2.4,3.33,35.43,0.0,157,1.13
+IAHS Café,Capaletti's,~None,Iahs Falafel Rice Bowl,Each,10.99,821,44.53,2.735,0,1118,108.45,34.7,7.51,18.29,7.0,40,0.49
+IAHS Café,Grab & Go,Other,Iahs Falafel Hummus Wrap,100g,7.99,563,34.21,7.967,0,1153,57.01,7.6,7.71,14.03,5.2,35,1.11
+IAHS Café,Grab & Go,Other,Iahs Turkey And Cheese Wrap,Portion,7.99,318,11.50,9.040,29,787,37.20,0.8,4.25,15.65,4.8,19,0.57
+IAHS Café,Grab & Go,Other,Iahs Turkey And Cheese Croissant,Portion,7.99,449,22.38,9.853,26,682,43.58,2.1,6.62,15.50,7.4,30,3.11
+IAHS Café,Grab & Go,Other,Iahs Tuna Salad Wrap,Portion,7.99,314,10.01,6.249,21,718,34.32,0.4,2.38,21.64,5.5,14,0.96
+IAHS Café,Grab & Go,Other,Iahs Tuna Salad Croissant,Portion,7.99,455,21.56,6.999,21,679,41.82,1.8,5.78,22.39,5.5,27,3.56
+IAHS Café,Grab & Go,Other,Iahs Egg Salad Wrap,Portion,7.99,416,13.31,8.237,334,565,34.87,0.7,2.16,18.22,6.0,60,1.83
+IAHS Café,Grab & Go,Other,Iahs Egg Salad Croissant,Portion,7.99,557,24.86,8.987,334,527,42.37,2.1,5.56,18.97,6.0,73,4.43
+IAHS Café,Grab & Go,Other,Iahs Buffalo Chicken Wrap,Portion,9.79,811,41.53,11.309,388,1956,73.84,5.3,7.27,39.57,2.4,318,1.21
+IAHS Café,Grab & Go,Hot Grab N Go Meals,Iahs Island Jerk Chicken Melt,100g,8.99,761,47.80,8.073,68,1565,57.88,3.9,5.79,25.78,0.0,258,3.50
+IAHS Café,Grab & Go,Hot Grab N Go Meals,Pickle Crunch Burger,100g,8.99,585,29.53,4.226,61,1399,55.08,2.8,8.68,23.96,0.0,63,3.25
+IAHS Café,Grab & Go,Hot Grab N Go Meals,Iahs Curly Fries,Portion,4.99,535,27.20,3.617,0,1444,54.57,6.3,10.53,5.50,0.0,0,0.00
+IAHS Café,Grab & Go,Hot Grab N Go Meals,Iahs Chana Rice Bowl,Each,6.00,688,14.94,1.751,0,723,118.09,14.3,18.50,25.60,0.6,105,8.48
+IAHS Café,Grab & Go,Hot Grab N Go Meals,Hashbrown Rings,Each,2.99,204,11.25,0.887,0,534,25.00,2.5,0.00,2.50,0.0,14,0.38
+IAHS Café,Grab & Go,Hot Grab N Go Meals,Butter Chicken Rice Bowl,portion,8.49,493,13.22,5.312,64,1572,69.42,4.3,1.99,24.94,0.0,61,1.91
+IAHS Café,Grab & Go,Hot Grab N Go Meals,Chicken Bites,Portion,9.19,504,23.41,1.800,180,651,65.70,18.0,22.05,27.55,216.0,0,1.00
+IAHS Café,Grab & Go,Hot Grab N Go Meals,Iahs Chicken Burger,Portion,8.99,635,18.27,2.232,27,1043,48.63,2.3,10.31,23.05,12.0,60,3.10
+IAHS Café,Grab & Go,Hot Grab N Go Meals,Meatball Sub,Portion,8.99,594,26.00,10.893,83,1678,59.64,4.8,0.36,32.33,4.2,276,5.06
+IAHS Café,Grab & Go,Hot Grab N Go Meals,Iahs Mac & Cheese,portion,6.99,402,18.40,6.899,34,1598,42.54,1.1,5.75,16.10,0.0,316,1.61
+IAHS Café,Grab & Go,Hot Grab N Go Meals,Breakfast Bagel With Bacon,sandwich,6.49,475,13.60,5.722,174,880,64.49,2.0,7.29,21.58,0.0,61,4.36
+IAHS Café,Grab & Go,Hot Grab N Go Meals,Breakfast Bagel With Sausage,sandwich,6.49,604,27.82,10.714,201,993,64.00,2.0,7.00,23.21,0.0,60,8.25
+IAHS Café,Grab & Go,Hot Grab N Go Meals,Breakfast Bagel With Egg,sandwich,5.99,434,10.82,4.714,166,712,64.00,2.0,7.00,18.21,0.0,60,4.25
+IAHS Café,Prepped Grab and Go,Cups,Prep Chia Seed Pudding,Portion,5.09,212,3.46,0.775,0,83,37.32,3.8,29.33,5.28,0.0,231,1.14
+IAHS Café,Prepped Grab and Go,Cups,Rose Water Rice Pudding,Portion,4.99,462,0.09,0.000,0,0,114.58,0.7,104.56,0.93,0.0,1,0.09
+IAHS Café,Prepped Grab and Go,Cups,Prep Tex Mex Quinoa Cup,Portion,6.99,473,20.99,2.099,0,1128,61.90,8.4,16.44,11.17,57.8,44,5.62
+IAHS Café,Prepped Grab and Go,Cups,Cranberry-Date Energy Bites,Portion,4.99,414,14.06,3.587,0,55,68.97,8.7,40.05,9.89,0.0,17,1.61
+IAHS Café,Prepped Grab and Go,Cups,Prep Blueberry Parfait,Portion,5.09,286,4.24,1.980,8,140,53.68,3.4,32.48,8.17,0.0,26,1.39
+IAHS Café,Prepped Grab and Go,Cups,Prep Raspberry Parfait,Portion,5.09,302,4.30,1.980,8,141,55.92,6.0,32.14,8.60,14.7,35,1.74
+IAHS Café,Prepped Grab and Go,Cups,Prp Meat And Cheese Snacker,Portion,8.29,438,26.07,13.846,75,980,30.44,2.7,7.45,21.90,15.6,5,0.32
+IAHS Café,Prepped Grab and Go,Cups,Prep Fruit Cup,Portion,5.99,205,0.54,0.000,0,44,51.58,5.3,43.72,3.51,115.9,65,1.99
+IAHS Café,Prepped Grab and Go,Cups,Prep Pineapple Cup,Portion,6.19,270,0.54,0.000,0,5,70.20,7.6,54.00,2.70,0.0,0,0.00
+IAHS Café,Prepped Grab and Go,Cups,Prep Melon Cup,Portion,6.19,196,0.28,0.000,0,97,48.26,4.2,45.46,4.69,117.2,110,3.18
+IAHS Café,Prepped Grab and Go,Cups,Prep Hummus & Naan,Portion,5.69,480,22.04,3.194,0,955,54.28,11.7,6.06,13.00,0.0,37,1.13
+IAHS Café,Prepped Grab and Go,Cups,Prep Veggies & Dip,Portion,6.19,290,24.30,4.500,4,436,13.00,6.6,6.52,5.80,81.4,49,2.34
+IAHS Café,Prepped Grab and Go,Cups,Prep Anytime Cocoa Cup,Portion,6.09,792,30.92,7.111,7,202,105.62,11.7,38.42,23.70,4.8,74,2.90
+IAHS Café,Prepped Grab and Go,Sandwiches,Za'taar Chicken Sandwich,Portion,8.29,486,9.12,1.780,96,1687,56.30,5.1,5.30,45.85,22.5,94,4.50
+IAHS Café,Prepped Grab and Go,Sandwiches,Paneer Sandwich,Portion,8.29,591,34.83,12.913,58,1123,56.70,5.1,2.75,21.26,21.4,225,4.60
+IAHS Café,Prepped Grab and Go,Sandwiches,Prep Turkey Club Sandwich,Portion,8.29,523,21.78,5.932,52,1457,52.32,3.6,2.60,28.48,5.5,72,4.21
+IAHS Café,Prepped Grab and Go,Sandwiches,Prep Egg Salad White,Portion,4.69,378,19.54,3.832,302,284,34.69,2.1,2.49,16.32,1.6,71,2.01
+IAHS Café,Prepped Grab and Go,Sandwiches,Prep Egg Salad Ww,Portion,4.69,357,18.85,3.648,302,400,31.81,2.3,0.29,16.04,1.6,32,1.97
+IAHS Café,Prepped Grab and Go,Sandwiches,Prep Egg Salad Gf,Portion,5.19,455,25.15,4.360,302,588,43.48,4.7,9.15,14.61,1.6,76,0.86
+IAHS Café,Prepped Grab and Go,Sandwiches,Prep Tuna Salad Gf,Portion,5.19,396,15.67,1.841,25,759,41.95,4.3,9.06,22.39,1.2,65,1.62
+IAHS Café,Prepped Grab and Go,Sandwiches,Prep Tuna Salad White,Portion,4.79,319,10.06,1.314,25,454,33.17,1.7,2.40,24.09,1.2,61,2.77
+IAHS Café,Prepped Grab and Go,Sandwiches,Prep Tuna Salad Ww,Portion,4.79,298,9.37,1.130,25,570,30.29,1.9,0.20,23.82,1.2,21,2.73
+IAHS Café,Prepped Grab and Go,Sandwiches,Prep Ham & Cheese White,Portion,5.19,478,27.68,6.239,42,811,34.55,1.6,2.67,19.91,0.0,66,2.64
+IAHS Café,Prepped Grab and Go,Sandwiches,Prep Ham & Cheese Ww,Portion,5.19,457,26.99,6.055,42,927,31.66,1.8,0.47,19.63,0.0,27,2.61
+IAHS Café,Prepped Grab and Go,Sandwiches,Prep Chipotle Chicken Wrap,Portion,8.29,602,16.15,5.027,78,1627,71.84,7.1,7.25,42.24,23.8,29,2.57
+IAHS Café,Prepped Grab and Go,Sandwiches,Prep Turkey Brie Wrap,Portion,8.29,689,37.42,10.488,56,1367,59.36,4.2,5.37,28.09,12.5,29,0.76
+IAHS Café,Prepped Grab and Go,Sandwiches,Prep Italian Salami Sandwich,Portion,8.29,531,24.75,6.873,42,1488,54.08,1.7,5.95,28.10,33.2,79,12.20
+IAHS Café,Prepped Grab and Go,Sandwiches,Prep Louisiana Club Sandwich,Portion,8.29,571,25.24,6.719,77,1436,50.09,0.6,3.62,40.48,10.8,30,5.30
+IAHS Café,Prepped Grab and Go,Bowls,Prepped Spicy Thai Peanut Bowl With Tofu,Portion,11.99,428,15.88,0.832,0,383,55.12,7.6,8.66,18.69,61.6,95,2.17
+IAHS Café,Prepped Grab and Go,Bowls,Prepped Thai Peanut Chicken Bowl,Portion,11.99,449,13.48,0.832,51,741,53.32,7.0,8.06,28.89,61.6,50,1.57
+IAHS Café,Prepped Grab and Go,Bowls,Hummus Bowl,Portion,6.69,534,26.52,4.663,6,1058,55.66,12.2,6.27,14.89,0.0,40,1.20
+IAHS Café,Prepped Grab and Go,Bowls,Prep Chicken Caesar Salad,Portion,9.69,554,38.03,6.456,88,803,27.29,4.6,3.20,28.09,4.3,16,3.10
+IAHS Café,Prepped Grab and Go,Bowls,Prp Chicken Shawarma Bowl,Portion,10.99,639,36.09,2.636,99,849,52.87,3.7,3.21,22.02,2.7,31,1.09
+IAHS Café,Prepped Grab and Go,Bowls,Prep Green Goddess Salad,Portion,10.99,468,35.48,4.698,71,931,20.95,5.5,9.77,24.02,25.1,53,4.66
+IAHS Café,Prepped Grab and Go,Bowls,Prep Garden Salad,Portion,7.49,234,15.41,3.012,0,246,20.15,4.2,12.89,3.40,31.3,70,4.66
+IAHS Café,Prepped Grab and Go,Bowls,Prep Greek Salad,Portion,8.69,356,27.63,7.920,24,1060,18.67,5.1,8.23,9.53,123.4,155,3.59
+IAHS Café,Prepped Grab and Go,Bowls,Prep Caesar Salad,Portion,7.49,455,35.63,5.856,37,442,27.29,4.6,3.20,9.49,4.3,16,2.50
+La Piazza,Bakery Items,Breakfast,Blueberry Cream Cheese Danish,Each,3.09,330,16.00,9.000,55,330,40.00,2.0,16.00,6.00,0.0,20,1.44
+La Piazza,Bakery Items,Breakfast,Cherry Greek Yogurt Danish,Each,3.09,407,20.34,12.430,79,407,46.33,1.1,16.95,7.91,0.0,23,1.63
+La Piazza,Bakery Items,Breakfast,Maple Pecan Danish,Each,3.09,330,17.00,8.000,45,250,39.00,1.0,17.00,5.00,0.0,20,1.80
+La Piazza,Bakery Items,Breakfast,Almond Butter Danish,Each,3.09,265,14.38,7.569,42,227,29.52,0.8,8.33,4.54,0.0,15,1.36
+La Piazza,Bakery Items,Breakfast,Strawberry Cream Cheese Danish,Each,3.09,384,18.08,10.170,62,384,48.59,1.1,20.34,6.78,0.0,23,1.63
+La Piazza,Bakery Items,Breakfast,Chocolatine Croissant,Each,3.19,300,17.00,10.000,50,280,33.00,2.0,10.00,6.00,0.0,20,2.50
+La Piazza,Bakery Items,Breakfast,Cheese Croissant,Each,3.19,336,19.67,9.286,19,442,30.00,1.0,4.00,9.76,0.0,24,2.00
+La Piazza,Bakery Items,Breakfast,Vegan Croissant,Each,2.39,260,13.00,5.000,0,290,30.00,1.0,4.00,5.00,0.0,10,2.00
+La Piazza,Bakery Items,Breakfast,Plain Tea Biscuit,Each,1.59,61,3.33,1.513,3,88,6.35,0.3,1.21,0.91,0.0,38,0.38
+La Piazza,Bakery Items,Breakfast,Double Chocolate Chunk Muffin,Each,2.39,460,25.00,5.000,65,370,50.00,3.0,22.00,7.00,0.0,0,0.00
+La Piazza,Bakery Items,Breakfast,Chocolate Chunk Muffin,Each,2.39,480,26.00,6.000,70,340,54.00,2.0,26.00,7.00,0.0,0,0.00
+La Piazza,Bakery Items,Breakfast,Carrot Muffin,Each,2.39,410,18.00,3.000,65,530,54.00,2.0,27.00,7.00,0.0,75,2.00
+La Piazza,Bakery Items,Breakfast,Blueberry Muffin,Each,2.39,440,24.00,4.000,70,360,50.00,1.0,23.00,6.00,0.0,0,0.00
+La Piazza,Bakery Items,Breakfast,Banana Nut Muffin,Each,2.39,480,28.00,4.500,60,390,50.00,2.0,24.00,7.00,0.0,0,0.00
+La Piazza,Bakery Items,Breakfast,Apple Muffin,Each,2.39,410,18.00,3.000,65,410,54.00,2.0,27.00,7.00,0.0,75,2.00
+La Piazza,Bakery Items,Dessert,Macaroon Madness Dessert Bar,Slice,3.39,432,21.58,9.711,49,237,56.11,3.2,42.08,4.32,0.0,0,0.00
+La Piazza,Bakery Items,Dessert,Tiger Brownie Dessert Bar,Slice,3.89,455,24.48,12.241,52,192,52.46,1.7,31.48,5.25,0.0,0,0.00
+La Piazza,Bakery Items,Dessert,Caramel Pecan Brownie Dessert Bar,Slice,3.89,430,24.07,7.736,60,189,48.14,3.4,34.38,5.16,0.0,0,0.00
+La Piazza,Bakery Items,Dessert,Nanaimo Bar,Slice,3.89,516,32.03,17.794,0,240,56.94,3.6,40.93,3.56,0.0,18,2.22
+La Piazza,Bakery Items,Dessert,New York Cheesecake 16-Cut,Each,5.99,460,31.00,17.000,155,480,39.00,1.0,29.00,8.00,0.0,77,1.00
+La Piazza,Bakery Items,Dessert,Plain Butter Tart,Each,2.59,360,16.00,6.000,45,200,55.00,2.0,26.00,4.00,0.0,0,0.00
+La Piazza,Bakery Items,Dessert,Double Chocolate Chip Cookie,Each,2.19,260,12.00,7.000,20,210,34.00,1.0,23.00,3.00,0.0,0,0.00
+La Piazza,Bakery Items,Dessert,Oatmeal Raisin Cookies,Each,2.19,250,10.00,6.000,15,200,34.00,2.0,19.00,3.00,0.0,0,0.00
+La Piazza,Bakery Items,Dessert,Milk Chocolate Chunk Cookie,Each,2.19,274,12.54,6.270,16,274,37.62,1.1,22.80,3.31,0.0,22,1.60
+La Piazza,Bakery Items,Dessert,White Chocolate Macadamia Nut Cookie,Each,2.19,260,13.00,6.000,20,180,34.00,1.0,22.00,3.00,0.0,0,0.00
+La Piazza,Global Delights,Other,Baklava,Each,4.99,100,7.00,3.000,10,0,9.00,1.0,0.00,1.00,0.0,0,0.00
+La Piazza,Global Delights,Other,Chicken Souvlaki,Portion,14.99,1059,46.24,8.105,158,2903,101.94,7.7,7.67,57.10,48.7,106,3.65
+La Piazza,Global Delights,Other,Greek Salad,Portion,7.99,346,28.05,8.894,35,1605,15.43,3.5,4.54,11.16,25.3,81,1.36
+La Piazza,Global Delights,Other,Gyro Pita,Portion,13.99,1095,57.47,22.288,61,3470,114.71,9.0,10.25,28.88,53.1,121,3.80
+La Piazza,Global Delights,Other,Roasted Lemon Herb Chicken Leg,Portion,13.99,1316,86.89,23.867,271,3803,74.89,7.2,6.79,57.78,54.3,128,3.69
+La Piazza,Global Delights,Other,Spanakopita,Portion,5.99,270,9.00,3.000,15,510,36.00,3.0,0.00,9.00,0.0,60,2.25
+La Piazza,Global Delights,Entrée,Half Chicken,Portion,14.99,1115,71.67,19.077,297,1398,25.85,4.2,2.50,78.50,37.3,81,5.72
+La Piazza,Global Delights,Entrée,Chicken Quarter White,portion,12.99,480,27.30,5.712,74,2086,26.74,5.1,2.53,22.34,45.9,71,3.54
+La Piazza,Global Delights,Entrée,Chicken Quarter Dark,portion,9.99,698,42.15,10.168,149,2155,26.74,5.1,2.53,41.15,45.9,81,4.53
+La Piazza,Global Delights,Entrée,Lp Chicken Quarter & Half Rack,portion,19.99,1758,119.94,38.519,304,2521,56.14,6.3,4.41,97.01,45.9,165,7.11
+La Piazza,Global Delights,Entrée,Lp Chicken Quarter Dark & Half Rack,portion,18.99,1805,120.13,38.519,304,2521,67.34,6.3,14.67,97.29,45.9,165,7.20
+La Piazza,Global Delights,Entrée,Lp Full Rack Of Ribs,portion,19.99,3161,214.15,71.340,382,1230,153.93,9.1,50.15,141.53,57.5,221,8.35
+La Piazza,Global Delights,Entrée,Lp 1/2 Rack Of Ribs,portion,15.99,1983,122.77,38.580,191,1099,131.13,9.1,29.25,79.53,57.5,192,5.88
+La Piazza,GUACAMOLE,All Day,Vegan Chili,Portion,10.99,362,8.95,0.980,0,1258,54.31,15.4,6.08,18.93,12.4,75,4.33
+La Piazza,GUACAMOLE,All Day,Lp Guacamole And Chips,Portion,6.00,580,31.75,1.750,56,854,64.23,10.5,3.42,8.74,7.6,14,0.53
+La Piazza,GUACAMOLE,All Day,Lp Beef Barbacoa Rice Bowl,Portion,15.49,583,23.86,1.932,0,1365,43.84,11.1,6.59,30.42,37.1,104,2.99
+La Piazza,GUACAMOLE,All Day,Lp Beef Barbacoa Salad Bowl,100g,15.49,49,1.58,0.093,12,244,4.22,1.9,1.80,5.40,2.2,10,0.49
+La Piazza,GUACAMOLE,All Day,Lp Beef Barbacoa Burrito,Portion,13.29,815,30.46,14.444,24,1572,71.80,5.0,7.18,38.81,20.3,316,1.20
+La Piazza,GUACAMOLE,All Day,Lp Tex Mex Chicken Rice Bowl,Portion,13.99,551,30.97,2.815,59,2026,44.90,10.8,6.06,24.04,29.1,116,3.85
+La Piazza,GUACAMOLE,All Day,Lp Tex Mex Chicken Salad Bowl,Portion,14.99,694,50.19,12.865,116,1708,28.47,8.1,7.52,31.96,64.8,388,1.87
+La Piazza,GUACAMOLE,All Day,Lp Tex Mex Chicken Burrito,Portion,12.29,868,47.51,14.427,123,1582,70.16,4.7,7.01,36.95,12.3,317,2.05
+La Piazza,GUACAMOLE,All Day,Lp Pulled Pork Rice Bowl,Portion,14.29,29696,2134.02,726.417,6808,8491,369.81,10.8,265.35,2137.61,29.1,2973,129.45
+La Piazza,GUACAMOLE,All Day,Lp Pulled Pork Salad Bowl,Portion,14.99,23387,1684.54,579.866,5344,6913,284.87,8.1,210.43,1678.20,64.8,2628,100.13
+La Piazza,GUACAMOLE,All Day,Lp Pulled Pork Burrito,Portion,12.29,908,49.77,21.086,86,1559,73.17,4.7,9.39,38.88,12.3,333,2.47
+La Piazza,GUACAMOLE,All Day,Lp Guacamole Rice Bowl,Portion,12.29,438,26.45,1.915,0,1425,44.25,12.2,6.48,11.38,31.0,102,3.09
+La Piazza,GUACAMOLE,All Day,Lp Salads - Guacamole Salad Bowl,Portion,14.49,534,38.53,14.445,24,1494,32.69,9.5,9.13,15.12,66.7,406,1.31
+La Piazza,GUACAMOLE,All Day,Lp Burrito -  Guacamole,Portion,10.49,732,38.43,14.427,24,2028,76.33,8.7,8.26,20.64,18.0,317,1.71
+La Piazza,GUACAMOLE,All Day,Byo Guac Tacos - Pork,Portion,9.99,623,35.68,12.567,50,1031,47.81,8.3,11.32,27.58,18.4,211,2.22
+La Piazza,GUACAMOLE,All Day,Byo Guac Tacos - Chicken,Portion,9.99,563,28.29,8.169,59,1440,48.77,8.7,9.55,24.76,19.0,209,2.24
+La Piazza,GUACAMOLE,All Day,Byo Guac Tacos - Beef,Portion,9.99,607,34.64,13.569,59,1032,45.42,8.3,9.42,29.13,18.4,190,1.30
+La Piazza,GUACAMOLE,All Day,Beef Nachos Supreme,Portion,15.49,864,48.17,13.892,59,985,81.83,9.0,5.10,28.79,7.2,109,0.74
+La Piazza,GUACAMOLE,All Day,Chicken Nachos Supreme,Portion,15.49,1253,67.90,19.702,75,2797,119.26,14.1,15.21,39.75,16.3,399,3.25
+La Piazza,GUACAMOLE,All Day,Chili Nachos Supreme,Portion,11.99,1209,60.41,18.730,2,2694,139.86,20.0,24.96,32.26,16.3,419,4.59
+La Piazza,GUACAMOLE,All Day,Signature $6 Nachos,Portion,6.00,671,28.58,5.468,0,927,92.23,11.7,3.83,14.94,0.0,46,2.11
+La Piazza,GUACAMOLE,All Day,Lp Signature Beef Taco,portion,6.00,293,16.82,6.602,52,284,16.81,2.9,1.18,18.02,8.6,6,0.11
+La Piazza,GUACAMOLE,Breakfast,Lp Pancakes,portion,7.25,576,11.53,5.646,16,1059,107.42,6.8,28.52,12.41,5.0,143,0.52
+La Piazza,GUACAMOLE,Breakfast,Lp Waffle With Syrup,portion,10.25,311,2.64,0.000,0,1012,65.37,0.9,15.14,4.39,0.0,3,0.03
+La Piazza,GUACAMOLE,Breakfast,Lp Waffle,portion,10.25,481,8.17,5.451,0,1027,95.85,3.8,33.85,5.48,7.5,15,0.46
+La Piazza,GUACAMOLE,Breakfast,Vegan Fiesta Burrito,Portion,10.99,977,52.02,15.302,0,1931,92.01,8.0,8.31,34.03,3.9,83,2.48
+La Piazza,GUACAMOLE,Breakfast,Buenos Dias Burrito - Bacon,Portion,9.99,865,41.12,12.685,274,1632,94.01,5.0,6.20,28.52,4.2,200,2.16
+La Piazza,GUACAMOLE,Breakfast,Buenos Dias Burrito - Sausage,Portion,9.99,1074,60.53,19.732,299,1980,97.04,5.0,7.19,33.97,4.2,212,2.88
+La Piazza,GUACAMOLE,Breakfast,Lp Mango Banana Wow Butter Bowl,100g,11.99,674,9.66,3.794,10,199,121.03,6.7,73.49,19.29,6.1,157,0.55
+La Piazza,GUACAMOLE,Breakfast,Mango Banana Nutella Bowl,Each,11.99,836,19.26,7.052,10,213,137.51,6.6,90.07,20.77,6.1,156,0.52
+La Piazza,GUACAMOLE,Breakfast,Mango Banana Honey Bee Bowl,100g,11.99,720,9.37,3.722,10,197,133.55,6.8,85.39,19.58,6.1,156,0.52
+La Piazza,GUACAMOLE,Breakfast,Lp Acai Wow Butter Bowl,100g,11.99,688,11.06,4.041,9,184,128.58,8.8,77.77,18.06,6.1,156,0.55
+La Piazza,GUACAMOLE,Breakfast,Acai Honey Bee Bowl,100g,11.90,704,9.22,3.677,10,196,129.65,6.6,80.61,19.34,6.1,156,0.52
+La Piazza,GUACAMOLE,Breakfast,Acai Nutella Bowl,100g,11.99,850,20.66,7.299,9,198,145.06,8.8,94.35,19.55,6.1,155,0.52
+La Piazza,GUACAMOLE,Breakfast,Acai Bowl,100g,11.99,683,10.67,3.969,9,181,128.38,8.8,77.67,17.87,6.1,155,0.52
+La Piazza,GUACAMOLE,Breakfast,Mango Banana Bowl,100g,11.99,669,9.28,3.722,10,197,120.83,6.6,73.39,19.09,6.1,156,0.52
+La Piazza,GUACAMOLE,Breakfast,Acai Nutella Bowl -Small,100g,8.99,527,12.37,4.342,6,120,90.78,5.6,59.53,12.19,4.1,99,0.32
+La Piazza,GUACAMOLE,Breakfast,Acai Bowl- Small,100g,8.99,425,6.41,2.358,6,110,80.05,5.6,49.29,11.21,3.6,99,0.30
+La Piazza,GUACAMOLE,Breakfast,Mango Banana Nutella Bowl Small,Each,8.99,517,11.44,4.177,7,130,85.59,4.1,56.44,12.98,4.0,99,0.32
+La Piazza,GUACAMOLE,Breakfast,Mango Banana Honey Bee Bowl -Small,100g,8.99,431,5.34,2.090,6,118,80.79,4.1,51.55,11.61,4.1,93,0.32
+La Piazza,GUACAMOLE,Breakfast,Acai Honey Bee Bowl - Small,100g,8.99,437,5.41,2.152,7,120,80.80,4.2,50.77,12.07,4.1,99,0.32
+La Piazza,GUACAMOLE,Breakfast,Mango Banana Bowl -Small,100g,8.99,511,6.65,2.444,7,172,94.79,4.1,52.47,14.35,4.1,99,0.32
+La Piazza,GUACAMOLE,Breakfast,Lp Mango Banana Wow Butter Bowl - Small,100g,8.99,419,5.68,2.223,7,122,75.70,4.2,46.49,12.09,4.1,100,0.33
+La Piazza,GUACAMOLE,Breakfast,Lp Acai Wow Butter Bowl - Small,100g,8.99,435,6.69,2.423,6,112,81.90,5.7,50.46,11.48,4.1,101,0.33
+La Piazza,GUACAMOLE,Sides,Add Cheese,slice,,60,4.50,3.000,15,105,0.00,0.0,0.00,3.00,0.0,0,0.00
+La Piazza,GUACAMOLE,Sides,Add Salsa,100g,,0,0.00,0.000,0,5,0.05,0.0,0.03,0.01,0.0,0,0.00
+La Piazza,GUACAMOLE,Sides,Add Sour Cream,100g,,0,0.02,0.013,0,0,0.01,0.0,0.01,0.01,0.0,0,0.00
+La Piazza,GUACAMOLE,Sides,Sub Guacamole,Portion,,63,5.37,0.000,0,357,4.12,2.6,0.83,0.87,3.8,7,0.27
+La Piazza,Hammertown,Breakfast,Big Breakfast Crunch,Sandwich,8.49,526,27.41,11.364,250,1018,41.32,3.0,4.69,25.49,0.0,61,2.61
+La Piazza,Hammertown,Breakfast,Sausage Breakfast Wrap,Portion,8.39,732,42.82,16.468,567,1222,52.31,2.1,2.92,30.68,0.0,60,5.44
+La Piazza,Hammertown,Breakfast,Bacon Breakfast Wrap,Portion,8.39,623,30.00,11.980,544,1194,53.05,2.1,3.36,30.73,0.0,61,1.60
+La Piazza,Hammertown,Breakfast,Southwest Vegan Chorizo,portion,8.39,811,30.50,5.319,14,1702,100.55,8.9,9.71,34.38,151.6,98,3.46
+La Piazza,Hammertown,Sandwiches,Lp Grilled Cheese,Sandwich,6.99,762,41.91,14.070,50,1249,73.28,4.9,2.32,24.95,0.0,189,0.00
+La Piazza,Hammertown,Sandwiches,Signature Grilled Cheese & Tomato Soup,Portion,6.00,532,18.98,7.462,30,1966,73.24,5.8,31.72,14.84,0.0,38,0.96
+La Piazza,Hammertown,Sandwiches,Pesto Chicken Panini,Portion,9.25,634,35.68,9.927,86,1072,43.71,3.2,1.59,29.12,0.0,18,0.90
+La Piazza,Hammertown,Sandwiches,Lp Ham And Cheese Sub,sandwich,15.50,1159,47.00,13.566,131,2672,118.84,7.0,15.40,54.84,47.2,82,3.47
+La Piazza,Hammertown,Sandwiches,Lp Ham And Cheese Half Sub,sandwich,9.25,579,23.50,6.783,66,1336,59.35,3.5,7.65,27.40,23.1,40,1.71
+La Piazza,Hammertown,Sandwiches,Lp Italian Sub,sandwich,15.50,1240,58.99,18.078,130,2979,119.14,7.0,15.05,52.97,47.2,87,2.54
+La Piazza,Hammertown,Sandwiches,Lp Italian Sub Half,sandwich,9.25,620,29.46,9.025,65,1488,59.61,3.5,7.55,26.47,23.8,44,1.28
+La Piazza,Hammertown,Sandwiches,Lp Turkey Provolone Sub,sandwich,15.50,1134,46.07,13.333,110,2619,121.95,7.0,15.96,54.43,48.6,93,2.30
+La Piazza,Hammertown,Sandwiches,Lp Turkey Provolone Sub Half,sandwich,9.25,567,23.04,6.668,55,1312,60.92,3.5,7.94,27.28,23.8,45,1.13
+La Piazza,Hammertown,Sandwiches,"Turkey, Ham And Swiss Sub",sandwich,15.50,1181,48.90,15.078,129,2549,120.39,7.0,15.82,59.79,48.0,467,3.13
+La Piazza,Hammertown,Sandwiches,"Lp Turkey, Ham And Swiss Sub Half",sandwich,9.25,575,23.25,6.810,61,1258,60.09,3.5,7.83,28.87,23.5,199,1.52
+La Piazza,Hammertown,Sandwiches,Lp Quesadilla Chicken,Portion,9.99,597,33.66,19.194,90,1457,44.40,0.4,6.51,27.28,0.0,310,1.19
+La Piazza,Hammertown,Sandwiches,Lp Quesadilla Cheese -Signature,Portion,6.00,487,27.90,17.490,24,1140,42.48,0.4,5.60,14.50,0.0,298,0.24
+La Piazza,Prepped,Cups,Cranberry-Date Energy Bites,Portion,4.99,414,14.06,3.587,0,55,68.97,8.7,40.05,9.89,0.0,17,1.61
+La Piazza,Prepped,Cups,Rose Water Rice Pudding,Portion,4.99,462,0.09,0.000,0,0,114.58,0.7,104.56,0.93,0.0,1,0.09
+La Piazza,Prepped,Cups,Prep Anytime Cocoa Cup,Portion,6.99,792,30.92,7.111,7,202,105.62,11.7,38.42,23.70,4.8,74,2.90
+La Piazza,Prepped,Cups,Prep Tex Mex Quinoa Cup,Portion,6.99,473,20.99,2.099,0,1128,61.90,8.4,16.44,11.17,57.8,44,5.62
+La Piazza,Prepped,Cups,Prep Chia Seed Pudding,Portion,5.09,212,3.46,0.775,0,83,37.32,3.8,29.33,5.28,0.0,231,1.14
+La Piazza,Prepped,Cups,Prep Blueberry Parfait,Portion,5.09,286,4.24,1.980,8,140,53.68,3.4,32.48,8.17,0.0,26,1.39
+La Piazza,Prepped,Cups,Prep Raspberry Parfait,Portion,5.09,302,4.30,1.980,8,141,55.92,6.0,32.14,8.60,14.7,35,1.74
+La Piazza,Prepped,Cups,Prp Meat And Cheese Snacker,Portion,8.29,438,26.07,13.846,75,980,30.44,2.7,7.45,21.90,15.6,5,0.32
+La Piazza,Prepped,Cups,Prep Fruit Cup,Portion,5.99,205,0.54,0.000,0,44,51.58,5.3,43.72,3.51,115.9,65,1.99
+La Piazza,Prepped,Cups,Prep Pineapple Cup,Portion,6.19,270,0.54,0.000,0,5,70.20,7.6,54.00,2.70,0.0,0,0.00
+La Piazza,Prepped,Cups,Prep Hummus & Naan,Portion,5.69,480,22.04,3.194,0,955,54.28,11.7,6.06,13.00,0.0,37,1.13
+La Piazza,Prepped,Cups,Prep Veggies & Dip,Portion,6.19,290,24.30,4.500,4,436,13.00,6.6,6.52,5.80,81.4,49,2.34
+La Piazza,Prepped,Sandwiches,Prep Turkey Club Sandwich,Portion,8.29,523,21.78,5.932,52,1457,52.32,3.6,2.60,28.48,5.5,72,4.21
+La Piazza,Prepped,Sandwiches,Prep Egg Salad White,Portion,4.69,378,19.54,3.832,302,284,34.69,2.1,2.49,16.32,1.6,71,2.01
+La Piazza,Prepped,Sandwiches,Prep Egg Salad Ww,Portion,4.69,357,18.85,3.648,302,400,31.81,2.3,0.29,16.04,1.6,32,1.97
+La Piazza,Prepped,Sandwiches,Prep Egg Salad Gf,Portion,5.19,455,25.15,4.360,302,588,43.48,4.7,9.15,14.61,1.6,76,0.86
+La Piazza,Prepped,Sandwiches,Prep Tuna Salad Gf,Portion,5.19,396,15.67,1.841,25,759,41.95,4.3,9.06,22.39,1.2,65,1.62
+La Piazza,Prepped,Sandwiches,Prep Tuna Salad White,Portion,4.79,319,10.06,1.314,25,454,33.17,1.7,2.40,24.09,1.2,61,2.77
+La Piazza,Prepped,Sandwiches,Prep Tuna Salad Ww,Portion,4.79,298,9.37,1.130,25,570,30.29,1.9,0.20,23.82,1.2,21,2.73
+La Piazza,Prepped,Sandwiches,Prep Ham & Cheese White,Portion,5.19,478,27.68,6.239,42,811,34.55,1.6,2.67,19.91,0.0,66,2.64
+La Piazza,Prepped,Sandwiches,Prep Ham & Cheese Ww,Portion,5.19,457,26.99,6.055,42,927,31.66,1.8,0.47,19.63,0.0,27,2.61
+La Piazza,Prepped,Sandwiches,Prep Chipotle Chicken Wrap,Portion,8.29,602,16.15,5.027,78,1627,71.84,7.1,7.25,42.24,23.8,29,2.57
+La Piazza,Prepped,Sandwiches,Prep Turkey Brie Wrap,Portion,8.29,689,37.42,10.488,56,1367,59.36,4.2,5.37,28.09,12.5,29,0.76
+La Piazza,Prepped,Sandwiches,Prep Italian Salami Sandwich,Portion,8.29,531,24.75,6.873,42,1488,54.08,1.7,5.95,28.10,33.2,79,12.20
+La Piazza,Prepped,Sandwiches,Prep Louisiana Club Sandwich,Portion,8.29,571,25.24,6.719,77,1436,50.09,0.6,3.62,40.48,10.8,30,5.30
+La Piazza,Prepped,Bowls,Prepped Thai Peanut Chicken Bowl,Portion,11.99,449,13.48,0.832,51,741,53.32,7.0,8.06,28.89,61.6,50,1.57
+La Piazza,Prepped,Bowls,Prepped Spicy Thai Peanut Bowl With Tofu,Portion,11.99,428,15.88,0.832,0,383,55.12,7.6,8.66,18.69,61.6,95,2.17
+La Piazza,Prepped,Bowls,Prep Garden Salad,Portion,7.49,234,15.41,3.012,0,246,20.15,4.2,12.89,3.40,31.3,70,4.66
+La Piazza,Prepped,Bowls,Prep Greek Salad,Portion,8.69,356,27.63,7.920,24,1060,18.67,5.1,8.23,9.53,123.4,155,3.59
+La Piazza,Prepped,Bowls,Prep Caesar Salad,Portion,7.49,455,35.63,5.856,37,442,27.29,4.6,3.20,9.49,4.3,16,2.50
+La Piazza,Prepped,Bowls,Prep Chicken Caesar Salad,Portion,9.69,554,38.03,6.456,88,803,27.29,4.6,3.20,28.09,4.3,16,3.10
+La Piazza,Prepped,Bowls,Prp Chicken Shawarma Bowl,Portion,10.99,639,36.09,2.636,99,849,52.87,3.7,3.21,22.02,2.7,31,1.09
+La Piazza,Prepped,Bowls,Prep Green Goddess Salad,Portion,10.99,468,35.48,4.698,71,931,20.95,5.5,9.77,24.02,25.1,53,4.66
+La Piazza,Promo Station,All Day,Lamb Iftar Box,Portion,20.99,1218,34.15,4.429,100,2084,170.00,10.4,28.07,64.33,56.2,89,5.54
+La Piazza,Promo Station,All Day,Iftar Chicken Tandoori Box,Portion,18.99,1178,26.15,3.428,90,2104,172.00,10.4,28.07,66.33,56.2,89,5.54
+La Piazza,Promo Station,All Day,Iftar Souvlaki Box,Portion,18.99,1198,30.15,2.429,70,2324,172.00,10.4,28.07,62.33,56.2,129,6.54
+La Piazza,Promo Station,All Day,Iftar Shish Taouk Box,Portion,18.99,1218,26.15,3.428,100,2144,170.00,10.4,28.07,78.33,56.2,89,5.54
+La Piazza,Promo Station,All Day,Iftar Shawarma Box,Portion,17.99,1206,28.55,3.229,117,2334,173.40,10.4,28.07,57.53,56.2,125,7.34
+La Piazza,Promo Station,All Day,Wonton Soup,Portion,8.99,242,5.07,2.009,20,942,35.38,1.6,1.57,13.68,15.3,66,2.85
+La Piazza,Promo Station,All Day,Chicken Pho Noodle Soup,Portion,13.99,961,17.17,7.029,98,1676,154.79,5.4,4.36,43.58,32.2,22,0.61
+La Piazza,Promo Station,All Day,Beef Pho Noodle Soup,Portion,13.99,898,20.17,8.750,53,50,152.59,5.1,2.87,24.71,21.1,16,0.57
+La Piazza,Promo Station,All Day,Perogy Poutine,Portion,13.99,685,21.84,10.471,60,1554,90.63,3.0,5.61,28.17,1.3,464,4.70
+La Piazza,Promo Station,All Day,Loaded Perogy Bowl,Portion,13.99,958,47.60,17.185,773,2454,94.90,3.0,7.61,42.86,1.3,612,4.88
+La Piazza,Promo Station,All Day,Buffalo Chicken Perogy Bowl,Portion,13.99,1087,50.93,13.932,754,2189,116.98,4.1,5.95,45.69,1.3,639,7.07
+La Piazza,Promo Station,All Day,Hot Dogs,Portion,6.00,637,34.88,12.768,80,1532,53.58,2.3,6.95,25.88,0.0,0,0.00
+La Piazza,Promo Station,All Day,Beet Cured Salmon Bowl,Portion,13.99,744,9.16,1.383,34,2289,122.14,8.6,16.40,26.11,4.6,77,1.74
+La Piazza,Promo Station,All Day,Lp Blueberry Chicken Bowl,Portion,13.99,854,7.73,1.317,96,373,127.12,9.0,19.67,51.02,1.4,76,1.99
+La Piazza,Promo Station,All Day,Lp Three Sister Bannock Bowl,Portion,13.99,713,6.70,0.936,9,412,127.00,10.0,4.81,21.52,7.5,94,3.10
+La Piazza,Promo Station,All Day,Chef's Chopped Salad,100g,15.99,898,64.87,17.848,422,1364,32.30,13.1,6.56,50.47,37.9,464,6.61
+La Piazza,Promo Station,All Day,Crispy Chicken Cobb Salad,Portion,15.99,706,40.79,8.400,407,1135,50.30,11.5,5.78,38.77,37.2,89,6.00
+La Piazza,Promo Station,All Day,Chicken Ceasar Salad,100g,15.99,824,61.98,13.204,179,631,17.98,3.7,3.45,46.03,4.3,390,2.05
+La Piazza,Promo Station,All Day,Asian Sesame Chicken Salad,100g,15.99,282,5.86,0.348,88,73,23.25,6.7,11.43,33.84,31.3,83,5.22
+La Piazza,Promo Station,All Day,Greek Chicken Salad,100g,15.99,668,39.78,7.709,385,1571,34.41,5.1,10.77,42.27,31.3,101,6.04
+La Piazza,Promo Station,Beverage,Strawberry Matcha Latte,,4.99,,,,,,,,,,,,
+La Piazza,Promo Station,Beverage,Lp Mango Matcha Latte,100g,4.99,0,0.00,0.000,0,0,0.00,0.0,0.00,0.00,0.0,0,0.00
+La Piazza,Promo Station,Beverage,Lp Strawberry Matcha Lemonade,,4.99,,,,,,,,,,,,
+La Piazza,Promo Station,Beverage,Lp Mango Matcha Lemonade,100g,4.99,0,0.00,0.000,0,0,0.00,0.0,0.00,0.00,0.0,0,0.00
+La Piazza,Steeltown,All Day,Lp Plant Based Chicken Ranch Wrap,Portion,10.79,900,54.94,11.304,6,1656,68.42,11.3,5.38,28.93,3.2,32,1.47
+La Piazza,Steeltown,All Day,Lp Bbq Chicken Wrap,Portion,9.79,766,28.50,5.225,39,2311,88.26,6.6,16.28,40.96,21.5,77,2.20
+La Piazza,Steeltown,All Day,Centro Chicken Caesar Wrap,Each,9.79,1054,71.01,7.375,68,1622,72.01,6.2,6.53,33.10,3.2,31,1.20
+La Piazza,Steeltown,All Day,St Steeltown Smash Burger,Sandwich,9.25,470,30.77,0.821,105,497,24.19,2.3,2.62,24.06,19.8,50,3.58
+La Piazza,Steeltown,All Day,St Steeltown Double Smash Burger,Sandwich,11.49,803,58.79,0.821,180,565,24.19,2.3,2.63,42.74,19.8,62,5.62
+La Piazza,Steeltown,All Day,St Steeltown Smash Burger With Cheese,Sandwich,10.74,530,35.26,3.821,120,602,24.19,2.3,2.63,27.06,19.8,50,3.58
+La Piazza,Steeltown,All Day,St Steeltown Double Smash Burger With Cheese,Sandwich,13.79,923,67.78,6.821,210,775,24.19,2.3,2.62,48.74,19.8,62,5.62
+La Piazza,Steeltown,All Day,St Steeltown Jalapeno Cheddar Smash Burger,Sandwich,13.99,538,35.33,3.851,120,853,25.66,3.0,3.41,27.30,34.5,89,3.67
+La Piazza,Steeltown,All Day,St Steeltown Double Jalapeno Cheddar Smash Burger,Sandwich,13.99,930,67.84,6.851,210,1026,25.66,3.0,3.41,48.98,34.5,101,5.71
+La Piazza,Steeltown,All Day,St Steeltown Mushroom Swiss Smash Burger,Sandwich,10.99,528,33.90,2.690,115,720,27.71,3.0,4.73,28.93,21.1,142,3.95
+La Piazza,Steeltown,All Day,St Steeltown Double Mushroom Swiss Smash Burger,Sandwich,13.99,905,64.84,4.559,199,1008,29.28,3.2,5.95,50.63,21.1,245,6.06
+La Piazza,Steeltown,All Day,Pb Buffalo Chicken Wrap,Sandwich,10.79,628,22.91,5.314,0,1547,77.02,6.8,13.77,24.99,21.5,68,2.12
+La Piazza,Steeltown,All Day,The Stacked Mac,100g,13.99,752,53.74,6.821,172,768,23.20,2.0,2.32,39.24,8.6,50,4.60
+La Piazza,Steeltown,All Day,Lp Bridges Chickn Nuggets,portion,9.95,996,75.32,5.834,0,1164,45.21,0.5,31.24,32.06,0.0,63,5.33
+La Piazza,Steeltown,Breakfast,Lp Chipotle Steak And Egg Hash,portion,10.49,895,35.86,5.484,463,617,102.09,5.3,5.35,39.27,151.7,142,5.14
+La Piazza,Steeltown,Breakfast,Southwest Vegan Chorizo,portion,10.49,811,30.50,5.319,14,1702,100.55,8.9,9.71,34.38,151.6,98,3.46
+La Piazza,Steeltown,Breakfast,Lp Rise & Shine,portion,10.49,953,50.00,10.946,428,945,97.06,6.8,7.58,27.36,151.7,275,3.27
+La Piazza,Steeltown,Breakfast,Lp Lumberjack,portion,10.49,1160,69.65,19.912,474,1476,93.33,2.5,6.06,35.45,151.7,286,4.03
+La Piazza,Steeltown,Breakfast,Turkey Taco Skillet,100g,10.49,1239,60.93,14.606,543,1731,114.34,7.0,14.83,56.32,322.8,458,5.10
+La Piazza,Steeltown,Breakfast,The Breakfast Club,Portion,10.25,849,53.84,9.529,420,1168,75.34,7.6,6.73,27.24,15.9,78,2.25
+La Piazza,Steeltown,Breakfast,The Avo Cado,Portion,11.25,665,26.81,6.505,365,1235,74.98,8.7,6.41,31.82,11.4,34,1.07
+La Piazza,Steeltown,Breakfast,Turkey Bacon Club,Portion,12.25,911,44.16,11.121,458,1570,84.27,8.0,12.52,40.85,15.9,98,2.31
+La Piazza,Steeltown,Sides,Fresh Cut Fries,Portion,4.79,348,8.54,1.449,0,337,59.58,3.2,8.10,6.04,0.0,31,0.27
+La Piazza,Steeltown,Sides,St Classic Poutine,Portion,9.98,940,59.40,14.726,60,740,74.42,4.0,0.00,22.06,0.0,475,0.00
+La Piazza,Steeltown,Sides,Sweet Potato Fries,Portion,6.79,810,57.34,8.400,40,528,74.52,4.6,21.36,4.04,0.0,75,1.15
+La Piazza,Steeltown,Sides,Side Caesar Salad,Portion,5.49,334,30.30,4.385,31,319,11.68,2.5,1.49,5.26,2.7,10,1.14
+La Piazza,Steeltown,Sides,Gravy,Portion,1.29,21,0.56,0.186,0,273,3.32,0.1,0.00,0.62,0.0,7,0.00
+La Piazza,Tazij,Plant Based Entrees,Batata Harra,Portion,6.99,474,23.20,1.428,0,624,67.25,3.8,2.67,6.69,15.7,46,1.44
+La Piazza,Tazij,Plant Based Entrees,Batata Harra Poutine,Portion,11.99,717,40.90,11.900,60,1326,72.29,4.0,2.67,21.03,15.7,482,1.44
+La Piazza,Tazij,Plant Based Entrees,Lp Falafel Wrap,Sandwich,8.99,770,29.71,4.304,0,1992,108.86,10.8,11.66,26.14,67.0,99,2.17
+La Piazza,Tazij,Plant Based Entrees,Falafel Salad Bowl,Portion,8.99,301,7.52,0.793,0,1040,45.98,11.4,7.30,15.32,58.9,73,2.08
+La Piazza,Tazij,Plant Based Entrees,Falafel Rice Bowl,Portion,8.99,709,35.76,1.179,0,985,93.44,8.1,8.87,19.05,30.2,50,1.36
+La Piazza,Tazij,Meat Based Entrees,Lp Chicken Shawarma Wrap,Sandwich,11.99,648,33.34,4.795,59,2230,65.87,9.8,6.28,24.22,27.1,86,1.92
+La Piazza,Tazij,Meat Based Entrees,Chicken Shawarma Salad Bowl,Portion,10.49,246,10.73,1.296,58,1397,20.64,7.9,7.67,15.75,9.1,49,1.74
+La Piazza,Tazij,Meat Based Entrees,Chicken Shawarma Rice Bowl,Portion,10.99,695,40.60,1.806,59,1583,70.25,9.6,7.78,22.31,4.8,52,1.55
+La Piazza,Tazij,Meat Based Entrees,Lp Chicken Batata Harra Poutine,Portion,13.99,813,45.70,12.500,99,1596,74.09,4.0,2.67,29.43,15.7,494,2.04
+La Piazza,Tazij,Toppings,Chickpea Salad,100g,,366,8.72,0.855,0,64,56.37,0.3,5.48,18.27,12.0,12,0.92
+La Piazza,Tazij,Toppings,Cilantro Sauce,100g,,58,3.49,0.375,0,504,4.44,1.7,2.42,1.14,17.1,19,0.56
+La Piazza,Tazij,Toppings,Carrot Salad,100g,,41,0.22,0.000,0,218,9.05,2.6,4.16,1.06,8.2,6,0.45
+La Piazza,Tazij,Toppings,Beet Salad,100g,,94,0.04,0.000,0,181,21.65,0.1,17.89,0.16,9.0,5,0.22
+La Piazza,Tazij,Toppings,Coleslaw,100g,,136,12.17,1.250,0,245,6.31,2.0,3.49,0.96,0.8,7,0.38
+La Piazza,Tazij,Toppings,Salsa,100g,,34,0.02,0.005,0,60,8.47,1.5,5.87,0.98,13.5,15,0.37
+La Piazza,Tazij,Toppings,Onion Chutney,100g,,46,1.35,0.096,0,328,7.71,1.5,3.74,1.53,65.5,33,0.00
+La Piazza,Tazij,Toppings,Hot Sauce,Portion,,30,0.64,0.063,0,62,5.53,0.1,0.91,0.23,1.9,1,0.00
+La Piazza,Tazij,Toppings,Sub Lp Tahini Sauce,Each,,251,22.48,2.497,0,295,0.07,2.5,0.01,10.02,1.5,2,0.07
+La Piazza,Tazij,Toppings,Hummus,100g,,233,15.00,1.700,0,383,13.00,7.0,3.00,7.00,0.0,33,1.00
+La Piazza,Tazij,Toppings,Garlic Sauce,100g,,625,90.00,0.000,0,1000,3.30,0.7,0.00,0.00,0.0,19,0.00
+La Piazza,Tazij,Toppings,Fattoush Salad,100g,,44,0.38,0.035,0,31,8.97,1.4,1.54,1.81,5.1,15,0.66
+La Piazza,Tazij,Toppings,Couscous Salad,Kilogram,,1211,2.37,0.374,0,1748,237.13,22.1,3.96,37.48,133.0,143,3.95
+La Piazza,The Cluck and Carry,Hot Grab N Go Meals,Lp Mac Crunchy,Portion,10.99,387,16.77,6.821,70,985,38.66,2.7,4.70,22.90,8.4,62,3.23
+La Piazza,The Cluck and Carry,Hot Grab N Go Meals,K-Pop Crunchy,100g,10.99,749,38.30,8.655,115,1975,68.71,4.1,24.42,27.85,0.0,58,3.12
+La Piazza,The Cluck and Carry,Hot Grab N Go Meals,Buffalo Chicken Crunchy,100g,10.99,580,34.07,7.655,98,1627,39.67,5.3,5.51,27.96,16.2,55,2.97
+La Piazza,The Cluck and Carry,Hot Grab N Go Meals,Lp Chicken Parm,100g,10.99,727,40.83,11.336,120,1874,46.66,5.3,5.60,39.54,0.0,389,2.90
+La Piazza,The Cluck and Carry,Hot Grab N Go Meals,Lp Junior Spicy,100g,6.00,434,32.92,4.528,26,962,34.87,2.2,2.66,13.32,8.4,63,1.85
+La Piazza,The Cluck and Carry,Hot Grab N Go Meals,2 Piece Fried Chicken,100g,13.99,760,39.74,5.951,150,2480,52.95,3.2,2.50,51.18,0.0,23,1.15
+La Piazza,The Cluck and Carry,Hot Grab N Go Meals,Lp Boneless Spicy Chicken,100g,10.99,734,29.95,6.479,103,2284,81.27,6.3,7.00,35.56,0.0,15,1.15
+Lincoln Alexander Hall,Brunch @ Global Fusion,Breakfast,Homefries,Portion,4.69,484,25.50,2.585,0,344,58.11,0.4,8.10,5.08,0.1,15,1.21
+Lincoln Alexander Hall,Brunch @ Global Fusion,Breakfast,Breakfast Burrito,portion,9.99,732,33.61,11.433,0,1260,77.32,7.1,5.65,27.49,0.0,131,3.92
+Lincoln Alexander Hall,Brunch @ Global Fusion,Breakfast,Big Breakfast - French Toast,portion,15.99,1305,63.01,20.457,805,2224,135.14,1.4,47.82,47.22,0.1,136,6.09
+Lincoln Alexander Hall,Brunch @ Global Fusion,Breakfast,Side French Toast,PoRTION,6.99,420,4.34,0.723,22,545,87.71,1.4,33.12,7.23,0.0,29,2.53
+Lincoln Alexander Hall,Brunch @ Global Fusion,Breakfast,Side Pancakes,PoRTION,6.49,460,4.00,0.600,8,750,96.00,2.0,35.00,8.00,0.0,66,2.87
+Lincoln Alexander Hall,Brunch @ Global Fusion,Breakfast,The Junior Breakfast - French Toast,PoRTION,10.99,858,25.36,6.814,743,1197,126.64,1.4,45.45,28.71,0.1,115,4.64
+Lincoln Alexander Hall,Brunch @ Global Fusion,Breakfast,Rise And Shine  Breakfast,PoRTION,9.99,942,56.48,18.537,782,1693,68.07,0.7,19.32,38.32,0.1,120,4.62
+Lincoln Alexander Hall,Brunch @ Global Fusion,Sides,Scrambled Egg,Portion,4.99,270,17.95,5.742,776,679,3.58,0.0,1.26,21.55,0.0,90,2.16
+Lincoln Alexander Hall,Brunch @ Global Fusion,Sides,Side Of Sausage,Portion,2.99,374,33.29,12.084,50,774,5.29,0.0,1.93,13.22,0.0,19,1.24
+Lincoln Alexander Hall,Brunch @ Global Fusion,Sides,Side Of Tukey Bacon,Portion,3.29,34,2.00,0.054,20,220,0.00,0.0,0.00,6.00,0.0,0,0.20
+Lincoln Alexander Hall,Brunch @ Global Fusion,Sides,Side Of Bacon,Portion,2.99,61,4.17,1.512,12,252,0.74,0.0,0.44,5.05,0.0,1,0.16
+Lincoln Alexander Hall,Brunch @ Global Fusion,Entrée,Chicken Tenders,Portion,9.99,1040,65.40,5.250,79,2635,54.49,6.3,10.31,63.00,0.0,63,2.36
+Lincoln Alexander Hall,Brunch @ Global Fusion,Entrée,Side Crispy Fries,100g,4.99,134,5.12,0.429,0,494,21.48,1.9,3.38,1.86,0.0,10,0.75
+Lincoln Alexander Hall,Brunch @ Global Fusion,Entrée,Chipotle Chicken Thunder Crunch,Portion,11.49,401,16.98,2.045,81,1174,40.24,3.2,6.32,23.17,7.5,64,3.35
+Lincoln Alexander Hall,Fresh Pressed Waffles @ The Flavor Hub,Breakfast,Plain Waffle,PORTION,7.99,910,19.40,12.148,0,1894,172.35,2.5,63.72,8.55,0.0,2,0.04
+Lincoln Alexander Hall,Fresh Pressed Waffles @ The Flavor Hub,Breakfast,Half Fruit Waffle,portion,8.99,786,17.31,12.080,0,1031,150.26,12.6,78.16,5.13,15.7,17,0.94
+Lincoln Alexander Hall,Fresh Pressed Waffles @ The Flavor Hub,Breakfast,Full Fruit Waffle,portion,9.99,1036,19.70,12.148,0,1905,201.59,13.7,86.76,9.15,15.7,17,0.94
+Lincoln Alexander Hall,Fresh Pressed Waffles @ The Flavor Hub,Toppings,Peach Slices In Light Syrup,100g,2.49,150,0.00,0.000,0,17,36.74,11.7,33.40,0.00,0.0,0,0.80
+Lincoln Alexander Hall,Fresh Pressed Waffles @ The Flavor Hub,Toppings,Strawberry Topping,100g,2.49,233,0.00,0.000,0,33,60.00,0.0,56.67,0.33,106.5,13,0.01
+Lincoln Alexander Hall,Fresh Pressed Waffles @ The Flavor Hub,Toppings,Blueberries Grade A Iqf,100g,2.49,64,0.40,0.000,0,0,11.40,3.0,11.40,0.70,0.0,0,0.00
+Lincoln Alexander Hall,Fresh Pressed Waffles @ The Flavor Hub,Toppings,Raspberries,100g,2.49,60,0.50,0.000,0,1,12.00,7.0,5.00,1.00,26.2,25,0.69
+Lincoln Alexander Hall,Fresh Pressed Waffles @ The Flavor Hub,Toppings,Chocolate Syrup,100g,2.49,300,0.73,0.453,0,0,73.74,2.1,31.96,1.47,0.0,0,0.00
+Lincoln Alexander Hall,Fresh Pressed Waffles @ The Flavor Hub,Toppings,Banana,100g,2.49,88,0.00,0.000,0,1,22.50,1.7,11.67,0.83,8.3,5,0.25
+Lincoln Alexander Hall,Fresh Pressed Waffles @ The Flavor Hub,Toppings,Caramel Topping,100g,2.49,168,2.40,0.900,0,150,37.20,0.0,21.60,0.60,0.0,18,0.06
+Lincoln Alexander Hall,Global Fusion Feast,All Day Menu,General Tso Chicken,Portion,9.99,599,32.12,6.151,126,271,46.63,0.6,4.91,27.54,0.0,56,1.42
+Lincoln Alexander Hall,Global Fusion Feast,All Day Menu,Chicken Parmesan With Pasta,Portion,13.90,1335,35.52,10.114,79,2319,185.78,9.8,23.79,65.25,0.0,684,5.11
+Lincoln Alexander Hall,Global Fusion Feast,All Day Menu,Korean  Bulgogi Beef,portion,10.99,357,9.91,2.955,73,1217,35.92,1.4,31.78,28.27,88.8,50,2.23
+Lincoln Alexander Hall,Global Fusion Feast,All Day Menu,Honey Garlic Pork Bites,Portion,9.99,512,36.97,5.055,35,1204,23.40,0.1,7.24,21.16,0.0,25,2.23
+Lincoln Alexander Hall,Global Fusion Feast,All Day Menu,Butter Chicken,Portion,9.99,273,12.48,2.376,124,108,2.52,0.3,1.06,34.49,0.5,8,0.09
+Lincoln Alexander Hall,Global Fusion Feast,All Day Menu,Baked Ravioi,Each,13.99,1105,37.34,12.607,303,2546,137.65,29.1,16.54,54.36,0.0,916,5.96
+Lincoln Alexander Hall,Global Fusion Feast,All Day Menu,Lah Meat And Cheese Lasagna,portion,10.99,654,22.16,10.851,45,1894,80.11,7.8,8.00,35.74,0.0,504,2.82
+Lincoln Alexander Hall,Global Fusion Feast,All Day Menu,Chicken Shawarma,Portion,9.99,608,48.06,5.853,153,759,8.93,0.9,5.95,46.98,3.1,11,1.05
+Lincoln Alexander Hall,Global Fusion Feast,All Day Menu,Lah Jerk Chicken,Portion,9.99,576,30.06,11.400,192,565,29.97,0.2,29.49,33.11,7.9,40,3.27
+Lincoln Alexander Hall,Global Fusion Feast,All Day Menu,Lah Steamed Rice,Portion,2.99,288,0.36,0.000,0,0,64.80,0.0,0.00,5.40,0.0,0,0.00
+Lincoln Alexander Hall,Global Fusion Feast,All Day Menu,Vegetable Medley,Portion,4.99,86,4.84,0.525,0,64,10.09,3.0,4.48,2.00,112.1,49,0.68
+Lincoln Alexander Hall,Global Fusion Feast,All Day Menu,Lah Chow Mein Noodles,Portion,5.09,352,8.33,0.712,9,833,59.67,2.7,14.92,8.70,35.0,33,2.73
+Lincoln Alexander Hall,Handheld Haus - The Flavour Hub,Breakfast,Turkey Bacon & Egg Burrito,Each,9.49,823,53.29,15.708,778,1297,60.15,2.4,3.05,30.74,0.0,333,1.34
+Lincoln Alexander Hall,Handheld Haus - The Flavour Hub,Breakfast,Sunrise Wrap,Each,9.49,741,41.03,16.638,1057,1362,60.60,3.0,3.26,35.47,0.0,491,1.64
+Lincoln Alexander Hall,Handheld Haus - The Flavour Hub,Breakfast,Lah Baconato Wrap,Each,9.49,921,63.20,19.499,792,1547,61.24,2.4,3.60,31.02,0.0,345,1.40
+Lincoln Alexander Hall,Handheld Haus - The Flavour Hub,Breakfast,Southwest Wrap,Each,9.49,978,67.25,23.511,483,1391,56.39,3.0,3.97,34.75,21.3,348,5.34
+Lincoln Alexander Hall,Handheld Haus - The Flavour Hub,Breakfast,Tofu & Guac Wrap,Each,9.49,623,31.25,12.178,0,811,66.17,5.6,4.80,20.71,12.0,160,1.71
+Lincoln Alexander Hall,Handheld Haus - The Flavour Hub,Breakfast,Rise & Shine Breakfast Bagel,Each,6.99,476,14.98,6.000,76,1203,56.09,4.0,2.27,23.61,0.0,62,4.49
+Lincoln Alexander Hall,Handheld Haus - The Flavour Hub,Breakfast,Big Wake Up Bagel - Sausage,Each,7.49,680,33.56,10.868,95,1442,66.87,5.0,2.75,23.94,4.1,67,8.38
+Lincoln Alexander Hall,Handheld Haus - The Flavour Hub,Breakfast,Garden Bagel,Each,6.99,508,23.17,3.500,15,1103,59.30,4.9,4.07,11.19,7.6,69,4.56
+Lincoln Alexander Hall,Handheld Haus - The Flavour Hub,Breakfast,Rise & Shine Breakfast Bagel - Turkey,Each,6.99,427,11.50,4.427,70,1025,55.29,4.0,2.27,21.01,0.0,60,4.31
+Lincoln Alexander Hall,Handheld Haus - The Flavour Hub,Breakfast,Rise & Shine Breakfast Bagel - Sausage,Each,6.99,580,27.50,10.400,95,1195,55.29,4.0,2.27,23.01,0.0,60,8.21
+Lincoln Alexander Hall,Handheld Haus - The Flavour Hub,Breakfast,Big Wake Up Bagel - Bacon,Each,7.49,576,21.04,6.468,76,1450,67.67,5.0,2.75,24.54,4.1,69,4.65
+Lincoln Alexander Hall,Handheld Haus - The Flavour Hub,Breakfast,Cali Bagel,Portion,6.99,543,24.36,3.845,60,1139,59.84,4.8,3.42,15.80,4.8,67,4.32
+Lincoln Alexander Hall,Handheld Haus - The Flavour Hub,Breakfast,Side Tater Tots,Portion,4.99,595,50.51,4.318,0,1197,36.69,2.7,2.18,2.18,0.0,38,0.43
+Lincoln Alexander Hall,Morning & Mains,Breakfast,Eggsactly Your Omelette,Portion,9.99,831,57.49,15.364,1145,1186,40.53,2.0,5.17,40.21,1.4,427,4.51
+Lincoln Alexander Hall,Morning & Mains,Breakfast,Morning Smash Burger,Portion,11.95,630,45.14,9.241,296,903,18.86,2.1,2.81,30.64,0.0,112,2.90
+Lincoln Alexander Hall,Morning & Mains,Breakfast,Chipotle Steak Morning Wrap,Portion,12.99,593,25.11,8.175,319,859,52.71,2.4,3.70,35.67,3.2,57,2.25
+Lincoln Alexander Hall,Morning & Mains,Breakfast,Scholars Slam,Portion,12.99,1414,105.86,31.041,726,1930,67.87,5.4,6.74,42.97,0.0,130,16.66
+Lincoln Alexander Hall,Morning & Mains,Breakfast,One Egg,Each,1.89,85,5.48,1.826,207,73,1.22,0.0,0.00,6.09,0.0,27,0.68
+Lincoln Alexander Hall,Morning & Mains,Breakfast,Lecture Hall Liftoff,Portion,8.99,689,41.03,10.306,426,999,51.39,3.4,4.99,24.93,0.0,105,3.78
+Lincoln Alexander Hall,Morning & Mains,Breakfast,Two Eggs & Toast,Portion,4.99,439,24.34,6.375,414,477,34.65,1.4,2.34,17.88,0.0,104,3.26
+Lincoln Alexander Hall,Morning & Mains,Breakfast,Dorm Dash Wrap,Portion,8.99,842,42.25,16.485,885,1838,78.40,4.4,13.51,36.52,0.0,349,2.27
+Lincoln Alexander Hall,Morning & Mains,Breakfast,Side Hashbrown,Each,2.45,190,12.52,2.420,0,270,16.00,2.0,2.20,2.00,0.0,0,0.36
+Lincoln Alexander Hall,Morning & Mains,Breakfast,Side Of Bacon,Portion,2.99,61,4.17,1.512,12,252,0.74,0.0,0.44,5.05,0.0,1,0.16
+Lincoln Alexander Hall,Morning & Mains,Breakfast,Side Of Tukey Bacon,Portion,3.29,34,2.00,0.054,20,220,0.00,0.0,0.00,6.00,0.0,0,0.20
+Lincoln Alexander Hall,Morning & Mains,Breakfast,Side Of Sausage,Portion,2.99,374,33.29,12.084,50,774,5.29,0.0,1.93,13.22,0.0,19,1.24
+Lincoln Alexander Hall,Morning & Mains,Add Ons,Side Of Bacon,Portion,2.99,61,4.17,1.512,12,252,0.74,0.0,0.44,5.05,0.0,1,0.16
+Lincoln Alexander Hall,Morning & Mains,Add Ons,Add Plant Based Cheese,slice,1.99,93,6.53,6.527,0,67,7.46,0.0,0.00,0.93,0.0,35,0.00
+Lincoln Alexander Hall,Morning & Mains,Add Ons,Add Cheese,slice,1.49,60,4.50,3.000,15,105,0.00,0.0,0.00,3.00,0.0,0,0.00
+Lincoln Alexander Hall,Morning & Mains,Add Ons,Gravy,Portion,1.29,21,0.56,0.186,0,273,3.32,0.1,0.00,0.62,0.0,7,0.00
+Lincoln Alexander Hall,Morning & Mains,Sides,Sweet Potato Fries,Portion,6.99,489,17.90,2.505,0,764,78.88,4.9,29.34,3.13,17.3,74,1.61
+Lincoln Alexander Hall,Morning & Mains,Sides,Side Crispy Fries,100g,4.99,134,5.12,0.429,0,494,21.48,1.9,3.38,1.86,0.0,10,0.75
+Lincoln Alexander Hall,Morning & Mains,Entrée,Chimi Chimi Bang Bang Beef Melt,Each,12.99,775,43.15,12.051,89,1132,53.02,4.6,3.92,38.65,27.2,116,5.29
+Lincoln Alexander Hall,Morning & Mains,Entrée,Grilled Cheese Trio,Sandwich,10.49,805,47.05,16.859,67,1298,71.98,4.6,2.32,26.10,0.0,13,0.00
+Lincoln Alexander Hall,Morning & Mains,Entrée,Chipotle Mac & Cheese Grilled Cheese With Chicken,Sandwich,13.99,1050,50.05,15.869,248,2243,105.43,5.9,4.10,47.01,0.0,213,0.75
+Lincoln Alexander Hall,Morning & Mains,Entrée,Chipotle Mac & Cheese Grilled Cheese,Sandwich,12.99,948,47.59,15.225,197,2037,104.97,5.9,3.99,28.12,0.0,213,0.72
+Lincoln Alexander Hall,Morning & Mains,Entrée,Lah Shawarma Chicken Wrap,Each,11.99,684,35.49,7.152,92,1063,58.47,4.1,7.25,37.45,11.5,22,1.24
+Lincoln Alexander Hall,Morning & Mains,Entrée,Chipotle Chicken Panini,Each,10.99,717,34.04,4.270,85,1602,52.32,4.5,1.05,38.60,2.8,129,3.82
+Lincoln Alexander Hall,Morning & Mains,Entrée,Chipotle Chicken Thunder Crunch,Portion,11.49,401,16.98,2.045,81,1174,40.24,3.2,6.32,23.17,7.5,64,3.35
+Lincoln Alexander Hall,Morning & Mains,Entrée,Chicken Caesar Wrap,Sandwich,9.79,1303,88.97,10.940,75,2287,87.35,5.6,21.80,38.01,2.3,282,1.09
+Lincoln Alexander Hall,Morning & Mains,Entrée,Chicken Tenders,Portion,9.99,1040,65.40,5.250,79,2635,54.49,6.3,10.31,63.00,0.0,63,2.36
+Lincoln Alexander Hall,Morning & Mains,Entrée,Smokehouse Brie Smash Burger,Sandwich,13.99,808,58.60,6.611,178,903,28.19,2.5,4.84,39.33,10.4,53,4.69
+Lincoln Alexander Hall,Morning & Mains,Entrée,Jalapeno Heat Smash Burger,Sandwich,11.99,921,73.54,4.729,148,985,30.09,2.2,5.43,33.57,17.2,62,4.57
+Lincoln Alexander Hall,Morning & Mains,Entrée,Classic Smash Burger,Sandwich,9.99,696,50.70,2.011,148,712,23.94,2.0,3.21,33.33,8.0,46,4.61
+Lincoln Alexander Hall,Morning & Mains,Entrée,Vegan Valedictorian,Sandwich,12.99,620,32.08,8.129,5,941,52.02,6.8,9.37,29.37,47.5,108,5.15
+Lincoln Alexander Hall,Morning & Mains,Entrée,Seoul Street Poutine,Portion,13.99,724,39.57,15.546,104,1785,61.53,5.2,11.03,32.68,6.9,507,3.05
+Lincoln Alexander Hall,Morning & Mains,Entrée,Chicken Katsu Curry Poutine,Portion,11.99,924,49.51,15.975,124,3324,83.99,7.0,16.47,38.26,4.5,509,4.22
+Lincoln Alexander Hall,Morning & Mains,Entrée,Chicken Shawar-Master,Portion,11.99,869,49.44,15.861,152,2237,57.29,5.5,3.62,47.93,5.0,473,2.26
+Lincoln Alexander Hall,Morning & Mains,Entrée,Og Poutine,Portion,9.99,550,30.51,11.677,60,1851,51.19,4.3,0.00,19.03,0.0,464,1.53
+Lincoln Alexander Hall,Naan Stop - Global Fusion,Flat Bread Pizza,Mediterranean Chicken Pizza,Each,11.99,895,41.90,14.005,130,2706,72.98,4.0,13.48,56.57,18.0,278,4.03
+Lincoln Alexander Hall,Naan Stop - Global Fusion,Flat Bread Pizza,Mediterranean Veggie Pizza,Each,11.99,747,38.66,13.105,53,1987,72.98,4.0,13.48,28.40,18.0,278,3.99
+Lincoln Alexander Hall,Naan Stop - Global Fusion,Flat Bread Pizza,Basil Sundried Tomato Pizza,Each,11.99,724,37.16,12.910,53,1796,70.24,3.8,12.08,28.32,40.5,279,8.26
+Lincoln Alexander Hall,Naan Stop - Global Fusion,Flat Bread Pizza,Three Cheese Pizza,Each,9.99,692,31.60,15.240,73,2184,69.62,3.1,10.42,35.16,0.0,466,0.84
+Lincoln Alexander Hall,Naan Stop - Global Fusion,Flat Bread Pizza,Twisted Hawaiian Pizza,Each,11.99,950,53.97,20.594,113,3336,82.55,4.7,20.95,36.58,25.8,455,1.32
+Lincoln Alexander Hall,Naan Stop - Global Fusion,Flat Bread Pizza,Tex Mex Pizza,Each,11.99,1061,63.84,22.197,141,1831,70.95,5.2,7.09,46.42,36.3,550,3.57
+Lincoln Alexander Hall,Naan Stop - Global Fusion,Flat Bread Pizza,Tofu Fiesta Pizza,Each,9.99,956,57.98,18.599,82,2694,68.70,5.7,6.76,37.78,34.5,628,2.57
+Lincoln Alexander Hall,Naan Stop - Global Fusion,Flat Bread Pizza,Chicken Shawarma Pizza,Each,11.99,1082,68.43,13.672,132,2173,69.44,5.5,8.37,57.00,1.9,412,1.22
+Lincoln Alexander Hall,Naan Stop - Global Fusion,Flat Bread Pizza,Buffalo Chicken Pizza,Each,11.99,773,31.70,11.004,122,2427,66.17,2.8,10.06,54.31,16.7,393,0.68
+Lincoln Alexander Hall,SMPL,FISH DISHES,Smpl Lemon Pepper Salmon,Portion,9.99,261,18.61,2.522,70,1375,0.00,0.0,0.00,25.55,0.0,16,5.11
+Lincoln Alexander Hall,SMPL,FISH DISHES,Smpl Cajun Basa,Portion,9.99,239,16.05,2.350,68,799,0.00,0.0,0.00,27.20,0.0,17,0.00
+Lincoln Alexander Hall,SMPL,FISH DISHES,Smpl Sweet Chili Salmon,Portion,9.99,281,18.61,2.522,70,534,5.00,0.0,4.30,25.55,0.0,16,5.12
+Lincoln Alexander Hall,SMPL,FISH DISHES,Smpl Cilantro Ginger Lime Basa,Portion,9.99,164,4.61,1.050,68,1195,5.60,0.3,4.92,27.71,1.5,20,0.10
+Lincoln Alexander Hall,SMPL,FISH DISHES,Citrus Salmon,100g,9.99,257,13.46,1.826,79,279,7.59,0.0,5.04,27.01,0.4,0,0.02
+Lincoln Alexander Hall,SMPL,FISH DISHES,Smpl Pesto Basa,Portion,9.99,266,18.56,2.550,68,1264,0.66,0.3,0.51,27.73,1.3,28,0.16
+Lincoln Alexander Hall,SMPL,FISH DISHES,Smpl Pico De Gallo Salmon,Portion,9.99,153,5.15,1.022,70,216,2.29,1.0,1.24,26.00,5.1,24,5.29
+Lincoln Alexander Hall,SMPL,FISH DISHES,Smpl White Fish Tacos,Portion,9.99,467,26.61,4.532,83,974,26.12,5.6,1.80,37.68,2.4,28,0.09
+Lincoln Alexander Hall,SMPL,Plant Based Entrees,Smpl Cauliflower And  Bean Tacos,Portion,9.99,385,21.95,3.340,0,156,40.41,10.0,6.86,8.12,22.5,16,0.39
+Lincoln Alexander Hall,SMPL,Plant Based Entrees,Smpl Lentil Shepherds Pie,Portion,9.99,809,47.70,5.381,0,955,76.87,18.2,7.75,22.60,75.0,163,8.91
+Lincoln Alexander Hall,SMPL,Plant Based Entrees,Smpl Beyond Meat And Chickpea Meatloaf,Portion,9.99,470,11.80,2.287,0,654,68.45,9.5,11.58,24.59,10.8,82,9.11
+Lincoln Alexander Hall,SMPL,Plant Based Entrees,Smpl Plant Based Stuffed Pepper,portion,9.99,409,16.50,5.602,0,1436,41.83,6.9,3.39,22.02,186.0,370,7.28
+Lincoln Alexander Hall,SMPL,Plant Based Entrees,Smpl Beyond Meat Stuffed Portobello Mushroom,Portion,9.99,255,12.16,4.241,0,975,15.04,2.6,6.07,11.61,10.0,28,2.33
+Lincoln Alexander Hall,SMPL,Plant Based Entrees,Samosa Stuffed Sweet Potato,Portion,9.99,497,5.41,3.399,0,1064,100.65,17.6,20.25,17.01,42.2,139,3.50
+Lincoln Alexander Hall,SMPL,Meat Based Entrees,Bbq 1/4 Chicken Jamaican Jerk,Portion,11.99,990,103.50,103.500,450,360,0.00,0.0,0.00,76.50,0.0,45,3.37
+Lincoln Alexander Hall,SMPL,Meat Based Entrees,Smpl Pesto Chicken Breast,Portion,9.99,414,29.86,3.220,145,189,0.02,0.0,0.01,35.76,0.0,1,0.09
+Lincoln Alexander Hall,SMPL,Meat Based Entrees,Smpl Cajun Pork Loin,Portion,9.99,400,26.00,9.000,130,118,0.01,0.0,0.00,40.90,0.0,40,1.50
+Lincoln Alexander Hall,SMPL,Meat Based Entrees,Smpl Beef Taco,portion,9.99,439,25.22,9.904,78,426,25.21,4.3,1.78,27.03,12.9,10,0.17
+Lincoln Alexander Hall,SMPL,Meat Based Entrees,Smpl Beef Shepherds Pie,Portion,9.99,571,34.48,11.632,96,254,28.41,4.7,3.83,34.38,33.8,32,3.94
+Lincoln Alexander Hall,SMPL,Meat Based Entrees,Smpl Honey Garlic Chicken Wings,Portion,9.99,519,32.52,10.000,277,211,8.35,0.1,7.61,42.59,1.3,30,1.23
+Lincoln Alexander Hall,SMPL,Meat Based Entrees,Smpl Buffalo Style Chicken Wings,Portion,9.99,515,36.51,10.770,278,252,0.35,0.1,0.12,42.59,1.3,29,1.18
+Lincoln Alexander Hall,SMPL,Meat Based Entrees,Bbq Chicken - Bbq,Portion,11.99,1110,104.10,103.500,450,360,26.00,0.0,22.00,77.30,0.0,45,3.37
+Lincoln Alexander Hall,SMPL,Meat Based Entrees,Smpl Flex Turkey Meatballs,100g,9.99,125,3.92,0.930,36,306,8.56,1.5,1.30,10.71,19.6,15,1.40
+Lincoln Alexander Hall,SMPL,Meat Based Entrees,Smpl Flex Salisbury Steak,Portion,9.99,403,20.87,8.737,79,872,22.73,3.9,0.79,30.94,20.3,40,2.62
+Lincoln Alexander Hall,SMPL,Meat Based Entrees,Smpl Tandoori Chicken Leg,Portion,9.99,547,40.01,14.000,236,213,0.90,0.2,0.42,45.11,7.9,27,1.70
+Lincoln Alexander Hall,SMPL,Meat Based Entrees,Smpl Pulled Pork Taco,Portion,9.99,30721,2208.04,757.509,7104,7565,364.89,3.6,271.58,2222.49,37.1,3009,132.09
+Lincoln Alexander Hall,SMPL,Meat Based Entrees,Bbq Chicken - Tandoori,Portion,11.99,990,103.50,103.500,450,360,0.00,0.0,0.00,82.50,0.0,45,3.37
+Lincoln Alexander Hall,SMPL,Meat Based Entrees,Smpl Flex Pork & Lentil Napa Roll,Portion,9.99,414,19.22,4.967,57,935,32.33,5.6,3.48,25.36,35.5,65,4.15
+Lincoln Alexander Hall,SMPL,Meat Based Entrees,Smpl Roasted Turkey Breast,Portion,9.99,160,5.57,1.050,53,630,1.63,1.6,0.01,24.03,0.8,2,0.07
+Lincoln Alexander Hall,SMPL,Meat Based Entrees,Smpl Beef Nachos,Portion,9.99,668,40.09,17.692,80,497,47.54,6.5,1.01,30.20,4.3,61,1.17
+Lincoln Alexander Hall,SMPL,Meat Based Entrees,Bbq Chicken,Portion,11.99,990,103.50,103.500,450,360,0.00,0.0,0.00,76.50,0.0,45,3.37
+Lincoln Alexander Hall,SMPL,Meat Based Entrees,Bbq 1/4 Chicken Piri Piri,Portion,11.99,990,103.50,103.500,450,360,0.00,0.0,0.00,76.50,0.0,45,3.37
+Lincoln Alexander Hall,SMPL,Meat Based Entrees,Roast Beef Jus,Portion,12.99,231,6.53,2.422,77,242,8.21,1.8,3.13,30.48,34.7,21,2.76
+Lincoln Alexander Hall,SMPL,Meat Based Entrees,Smpl Bbq Pork Ribs,Portion,13.99,976,72.00,27.759,288,400,0.00,0.0,0.00,76.40,0.0,116,3.28
+Lincoln Alexander Hall,SMPL,Carb Sides,Jalapeno Cheddar Cornbread,Portion,2.99,153,2.60,1.331,0,136,29.80,1.2,11.02,1.77,0.0,9,0.22
+Lincoln Alexander Hall,SMPL,Carb Sides,Sub Smpl Lah Focaccia,Portion,2.99,398,10.30,1.196,0,643,66.04,1.1,5.46,6.63,0.0,7,0.65
+Lincoln Alexander Hall,SMPL,Carb Sides,Smpl Herb Roasted Potatoes,Portion,3.99,261,13.76,1.500,0,89,28.45,3.7,2.25,3.25,35.5,17,1.13
+Lincoln Alexander Hall,SMPL,Carb Sides,Smpl Tex Mex Rice,Portion,3.99,185,1.32,0.276,0,1,38.10,1.7,0.99,4.70,16.5,1,0.09
+Lincoln Alexander Hall,SMPL,Carb Sides,Smpl Roasted Sweet Potatoes,Portion,3.99,218,13.50,1.500,0,145,24.00,3.2,5.46,2.22,2.6,43,0.78
+Lincoln Alexander Hall,SMPL,Carb Sides,Smpl Garlic Mashed Potatoes,Portion,3.99,264,13.74,1.500,0,11,28.28,4.3,2.70,3.02,35.5,16,0.94
+Lincoln Alexander Hall,SMPL,Carb Sides,Smpl Yukon Gold Mashed Potatoes,Portion,3.99,211,7.02,1.164,0,536,34.85,3.1,1.48,3.03,12.8,14,0.54
+Lincoln Alexander Hall,SMPL,Carb Sides,Smpl Mexican Brown Rice,Portion,3.99,336,2.39,0.522,0,1,69.84,2.8,1.36,8.56,16.5,1,0.09
+Lincoln Alexander Hall,SMPL,Carb Sides,Smpl Mushroom Onion Rice,Portion,3.99,177,1.25,0.270,0,1,35.81,1.6,1.00,4.70,7.4,4,0.07
+Lincoln Alexander Hall,SMPL,Sides,"Smpl Peppers, Onions And Broccoli",Portion,4.99,85,2.82,0.250,0,95,13.50,4.2,6.17,3.34,150.4,54,0.68
+Lincoln Alexander Hall,SMPL,Sides,Smpl Roasted Root Vegetables,Portion,4.99,165,3.09,0.345,0,210,25.48,3.9,10.20,2.08,87.8,17,0.36
+Lincoln Alexander Hall,SMPL,Sides,"Smpl Roasted Broccoli, Cauliflower And Carrots",Portion,4.99,84,2.90,0.300,0,139,10.76,3.6,4.59,2.26,25.6,16,0.33
+Lincoln Alexander Hall,SMPL,Sides,"Smpl Bok Choy, Peppers, & Onions",Portion,4.99,91,3.18,0.300,0,132,8.85,2.8,5.31,2.24,77.1,95,0.69
+Lincoln Alexander Hall,SMPL,Sides,Smpl Garden Blend Vegetable Medley,Portion,4.99,92,2.73,0.300,0,139,12.58,6.6,4.61,4.99,20.0,48,0.23
+Lincoln Alexander Hall,SMPL,Sides,Smpl Side Salad,Portion,6.99,218,20.37,3.375,0,210,7.79,2.6,2.32,2.00,19.6,66,1.10
+Lincoln Alexander Hall,SMPL,Pasta,Pasta Bolognese,Portion,15.99,1022,35.35,11.718,78,2604,102.52,8.0,11.14,32.50,94.3,485,0.28
+Lincoln Alexander Hall,SMPL,Pasta,Plant Based Pasta Bolognese,Portion,15.99,940,27.22,4.938,0,2809,108.86,8.8,11.14,25.54,94.3,540,4.42
+Lincoln Alexander Hall,SMPL,Pasta,Pasta Carbonara,Portion,15.99,925,37.83,10.487,12,1924,113.83,8.8,5.79,20.27,24.4,490,0.57
+Lincoln Alexander Hall,SMPL,Pasta,Smoked White Bean Carbonara Pasta,Portion,15.99,917,22.80,4.851,0,2571,141.43,17.4,9.22,23.82,24.4,556,0.56
+Lincoln Alexander Hall,SMPL,Pasta,Chicken Pesto Alfredo Pasta,Portion,15.99,969,25.62,5.731,77,3010,124.12,12.0,14.60,45.51,55.0,496,0.70
+Lincoln Alexander Hall,SMPL,Pasta,Lentil Pesto Alfredo Pasta,Portion,15.99,958,22.84,4.945,0,2704,149.27,16.6,15.74,27.65,55.0,508,3.23
+Lincoln Alexander Hall,SMPL,Pasta,Spicy Chorizo Tomato Pasta,Portion,15.99,1047,37.53,9.836,90,4508,104.71,8.1,11.18,33.77,47.7,501,1.45
+Lincoln Alexander Hall,SMPL,Pasta,Spicy Plant Based Chorizo Tomato Pasta,Portion,15.99,926,20.88,3.333,0,2702,109.21,11.7,11.18,35.08,47.7,553,8.39
+Lincoln Alexander Hall,SMPL,Pasta,Pulled Pork Mac N Cheese,Portion,15.99,1272,59.56,21.629,82,1844,131.85,10.8,6.15,40.12,47.8,517,2.01
+Lincoln Alexander Hall,SMPL,Pasta,Plant Based Mac N Cheese,Portion,15.99,1112,38.72,12.906,0,2308,135.41,14.4,5.57,39.81,47.8,555,8.58
+Lincoln Alexander Hall,SMPL,Pasta,Chicken Ratatouille Pasta,Portion,15.99,882,18.39,4.122,76,2815,105.76,8.9,12.33,38.41,46.5,491,0.48
+Lincoln Alexander Hall,SMPL,Pasta,Vegan Ratatouille Gnocchi,Portion,15.99,893,17.01,3.490,0,2813,132.98,16.4,12.79,19.62,41.3,488,0.36
+Lincoln Alexander Hall,SMPL,Dessert,Sub Smpl Lah Chocolate Mousse,Each,5.99,905,72.76,67.619,0,463,56.10,3.3,51.72,6.66,0.0,19,1.35
+Lincoln Alexander Hall,SMPL,Dessert,Vanilla Coconut Brulee,Portion,5.99,294,18.83,16.248,0,36,29.97,0.0,24.27,1.14,0.0,0,0.00
+Lincoln Alexander Hall,SMPL,Dessert,Sticky Toffee Pudding,Each,5.99,725,39.40,19.159,0,688,90.81,4.5,67.53,3.63,0.0,25,0.20
+Lincoln Alexander Hall,SMPL,Dessert,Lah Smpl Jumbo Chocolate Cookie,Portion,5.99,436,23.91,7.222,0,316,47.28,2.9,21.05,2.55,0.0,11,0.36
+Lincoln Alexander Hall,SMPL,Dessert,Lah Smpl Chocolate Cake Plated,Portion,5.99,472,17.84,5.937,0,25,73.42,0.9,45.00,2.37,0.0,7,0.38
+Lincoln Alexander Hall,SMPL,Dessert,Smpl Apple-Peach Crumble,Portion,5.99,259,6.71,2.586,0,60,49.08,2.1,37.24,1.63,0.0,5,0.33
+Lincoln Alexander Hall,The Flavour Hub,Build Its,Lah Mexican Brown Rice,100g,,4,0.01,0.000,0,0,0.56,0.1,0.19,0.09,3.7,2,0.00
+Lincoln Alexander Hall,The Flavour Hub,Build Its,Udon Noodles,100g,,150,0.40,0.000,0,0,32.00,3.3,0.00,4.80,0.0,0,0.00
+Lincoln Alexander Hall,The Flavour Hub,Build Its,Medium White Pita Bread,100g,,233,1.88,0.260,0,199,46.33,1.7,1.51,7.78,0.0,42,3.16
+Lincoln Alexander Hall,The Flavour Hub,Build Its,Side Crispy Fries,100g,,134,5.12,0.429,0,494,21.48,1.9,3.38,1.86,0.0,10,0.75
+Lincoln Alexander Hall,The Flavour Hub,Build Its,Sublah Lemon Dressing,100g,,6,0.68,0.113,0,6,0.02,0.0,0.02,0.00,0.0,0,0.00
+Lincoln Alexander Hall,The Flavour Hub,Build Its,"Lettuce, Spring Mix",100g,,21,0.00,0.000,0,36,3.45,1.9,0.00,1.72,15.5,74,1.21
+Lincoln Alexander Hall,The Flavour Hub,Toppings,Lah Flavour Junction Fiesta Base,100g,13.99,409,27.28,9.376,370,1004,31.04,6.0,4.63,17.39,57.0,326,2.28
+Lincoln Alexander Hall,The Flavour Hub,Toppings,Lah Flavour Junction Thai One Base,100g,13.99,246,19.19,0.873,0,414,14.77,2.7,9.91,3.39,53.1,24,0.74
+Lincoln Alexander Hall,The Flavour Hub,Toppings,Lah Flavour Junction Shawarma Base,100g,13.99,246,21.87,2.060,0,517,8.96,2.7,4.68,2.17,62.8,20,0.41
+Lincoln Alexander Hall,The Flavour Hub,Toppings,Lah Flavour Junction Mediterranean Base,100g,13.99,414,35.83,7.855,25,1199,18.38,1.7,9.65,7.31,81.2,23,0.26
+Lincoln Alexander Hall,The Flavour Hub,Other,Cooked Chicken,Portion,,165,3.60,1.000,85,343,0.00,0.0,0.00,31.28,0.0,0,0.05
+Lincoln Alexander Hall,The Flavour Hub,Other,Falafel,Portion,,202,11.37,1.895,0,366,22.74,5.1,3.79,6.32,0.0,0,0.00
+Lincoln Alexander Hall,The Flavour Hub,Other,Taco Beef,100g,,202,11.51,4.498,65,165,3.49,0.4,0.37,19.93,2.0,14,2.11
+Lincoln Alexander Hall,The Flavour Hub,Other,Lah Roasted Pork,Portion,,506,34.12,11.745,110,140,12.82,0.0,12.63,33.98,0.0,47,2.07
+Lincoln Alexander Hall,The Flavour Hub,Other,Extra Firm Tofu,100g,,130,8.00,1.000,0,5,3.00,1.0,1.00,14.00,0.0,75,2.00
+Lincoln Alexander Hall,The Flavour Hub,Other,Chicken Shawarma Strips,100g,,263,14.04,3.903,102,216,1.28,0.2,0.62,31.20,2.1,1,0.68
+Lincoln Alexander Hall,The Flavour Hub,Other,Halal Chicken Shawarma,100g,,130,6.00,1.000,70,210,1.00,0.7,0.00,18.00,0.0,10,0.75
+Lincoln Alexander Hall,The Flavour Hub,Entrée,Chicken House Wings,Portion,15.99,757,44.61,11.962,312,752,36.22,3.0,12.29,50.65,15.3,60,2.48
+Lincoln Alexander Hall,The Flavour Hub,Entrée,Loaded Perogies,100g,11.99,176,7.85,3.879,15,321,19.18,1.3,1.54,7.76,1.1,128,1.04
+Lincoln Alexander Hall,The Flavour Hub,Entrée,Lah  Flavour Junction Shawarma Falafel,100g,13.99,664,44.53,5.573,0,1315,57.51,10.9,10.22,13.02,69.5,57,1.77
+Lincoln Alexander Hall,The Flavour Hub,Entrée,Lah  Flavour Junction Shawarma Chicken,100g,13.99,657,42.96,6.717,92,1097,32.24,5.0,7.71,33.27,71.4,59,2.39
+Lincoln Alexander Hall,The Flavour Hub,Entrée,Lah Mediterranean Falafel,100g,13.99,840,58.49,11.368,25,2043,68.93,10.0,16.87,18.22,87.9,61,1.64
+Lincoln Alexander Hall,The Flavour Hub,Entrée,Lah Mediterranean Pork,100g,13.99,924,60.23,14.274,143,1946,45.28,3.7,16.83,51.13,87.9,79,2.45
+Lincoln Alexander Hall,The Flavour Hub,Entrée,Lah Mediterranean Tofu,100g,13.99,704,51.48,9.900,25,1589,43.21,4.6,13.03,22.93,87.9,129,3.44
+Lincoln Alexander Hall,The Flavour Hub,Entrée,Lah Mediterranean Chicken,100g,13.99,818,50.60,10.157,101,2190,53.64,4.9,14.24,39.63,89.6,68,2.13
+Lincoln Alexander Hall,The Flavour Hub,Entrée,Lah Fiesta Fare Beef,100g,13.99,764,46.10,14.568,429,1538,56.32,8.4,7.44,38.35,65.5,377,5.55
+Lincoln Alexander Hall,The Flavour Hub,Entrée,Lah Fiesta Fare Pork,100g,13.99,771,48.44,14.894,411,1442,57.95,8.0,11.81,33.06,63.7,381,4.42
+Lincoln Alexander Hall,The Flavour Hub,Entrée,Lah Fiesta Fare Tofu,100g,13.99,700,42.94,11.420,370,1394,55.87,8.9,8.01,33.00,63.7,431,5.45
+Lincoln Alexander Hall,The Flavour Hub,Entrée,Lah Fiesta Fare Chicken,100g,13.99,731,38.98,11.420,447,1698,53.17,8.0,7.11,48.55,63.7,364,3.69
+Lincoln Alexander Hall,The Flavour Hub,Entrée,Lah Thai One Tofu,100g,13.99,666,37.47,3.123,0,1041,64.06,7.9,14.82,22.02,58.1,133,4.27
+Lincoln Alexander Hall,The Flavour Hub,Entrée,Lah Thai One Chicken,100g,13.99,698,33.51,3.123,77,1345,61.36,7.0,13.92,37.57,58.1,66,2.52
+Lincoln Alexander Hall,The Flavour Hub,Entrée,Lah Thai One Pork,100g,13.99,673,40.52,6.391,41,852,55.83,6.1,17.00,21.18,58.1,79,2.88
+Reactor Café and Lounge,ALL DAY MENU,All Day Menu,Bacon And Egger,100g,5.99,279,14.24,6.321,95,510,21.26,1.1,1.10,14.48,0.0,21,1.49
+Reactor Café and Lounge,ALL DAY MENU,All Day Menu,Sesame Bagel,,2.79,,,,,,,,,,,,
+Reactor Café and Lounge,ALL DAY MENU,All Day Menu,Plain Bagel,Each,2.79,300,2.00,0.000,0,420,61.00,2.0,6.00,9.00,0.0,20,3.50
+Reactor Café and Lounge,ALL DAY MENU,All Day Menu,Everything Bagel,Each,2.79,310,5.00,1.000,0,680,54.00,4.0,2.00,10.00,0.0,50,4.00
+Reactor Café and Lounge,ALL DAY MENU,All Day Menu,Breakfast Wrap,100g,8.79,622,31.82,12.568,537,1035,52.31,2.1,2.92,27.78,0.0,60,1.50
+Reactor Café and Lounge,ALL DAY MENU,All Day Menu,Rc Grilled Cheese,Portion,7.49,503,34.69,10.072,30,602,32.37,1.4,2.49,11.71,0.0,50,1.90
+Reactor Café and Lounge,ALL DAY MENU,All Day Menu,Double Cheddar Bacon Grilled Cheese,100g,8.49,1014,72.08,20.201,44,1830,68.10,3.8,1.22,23.44,0.0,275,5.67
+Reactor Café and Lounge,ALL DAY MENU,All Day Menu,Tuna Melt,100g,8.49,619,20.61,4.223,44,1412,68.79,3.9,1.30,39.58,1.6,282,6.67
+Reactor Café and Lounge,ALL DAY MENU,All Day Menu,Chicken Salad Sandwich,100g,8.49,1303,77.18,14.175,193,2822,67.33,3.9,0.07,82.91,0.8,194,5.69
+Reactor Café and Lounge,ALL DAY MENU,All Day Menu,Cheese Pizza,Portion,7.99,455,15.31,8.772,40,1095,55.79,2.5,6.10,23.69,0.0,410,3.40
+Reactor Café and Lounge,ALL DAY MENU,All Day Menu,Pepperoni Pizza,Portion,8.59,496,18.31,9.822,51,1282,56.54,2.5,6.30,26.09,0.0,419,3.56
+Reactor Café and Lounge,ALL DAY MENU,All Day Menu,Veggie Pizza,Portion,8.29,464,15.37,8.772,40,1096,57.69,3.1,7.10,24.21,7.3,413,3.49
+Reactor Café and Lounge,ALL DAY MENU,All Day Menu,Rc Chicken Pizza,Portion,8.99,570,23.88,8.772,90,1140,55.79,2.5,6.10,32.49,0.0,415,3.77
+Reactor Café and Lounge,ALL DAY MENU,All Day Menu,Reactor Chicken Quesadilla,Portion,12.99,774,33.07,17.695,140,1977,60.75,3.1,7.06,54.29,52.4,473,0.50
+Reactor Café and Lounge,ALL DAY MENU,All Day Menu,Reactor Veggie Quesadilla,Portion,11.99,642,29.91,16.810,63,1260,64.49,4.0,9.12,26.41,105.9,481,0.60
+Reactor Café and Lounge,ALL DAY MENU,All Day Menu,Jamaican Patty Chicken,Each,3.69,300,9.00,5.000,10,330,42.00,3.0,4.00,12.00,0.0,30,3.00
+Reactor Café and Lounge,ALL DAY MENU,All Day Menu,Jamaican Patty Spicy,Each,3.69,575,21.97,11.830,17,862,79.43,5.1,8.45,20.28,0.0,34,5.92
+Reactor Café and Lounge,ALL DAY MENU,All Day Menu,Jamaican Patty Mild,Each,3.69,575,21.97,11.830,17,862,79.43,3.4,8.45,20.28,0.0,34,5.92
+Reactor Café and Lounge,ALL DAY MENU,All Day Menu,Jamaican Patty Vegetable,Each,3.69,260,12.00,4.500,5,380,32.00,2.0,0.00,4.00,0.0,10,1.75
+Reactor Café and Lounge,ALL DAY MENU,All Day Menu,Garlic Stick,Portion,4.99,476,19.12,3.000,0,862,70.50,0.7,5.25,15.75,0.0,90,4.50
+Reactor Café and Lounge,ALL DAY MENU,All Day Menu,Bavarian Pretzel Stick,100g,6.99,570,6.11,2.999,0,1255,106.98,3.0,120.12,18.19,0.0,30,5.92
+Reactor Café and Lounge,ALL DAY MENU,All Day Menu,Rc Samosa,Portion,4.29,179,3.20,1.280,0,128,36.83,1.3,25.06,1.92,0.0,13,0.00
+Reactor Café and Lounge,Baked Goods,Breakfast,Bagel- Plain,Each,2.25,300,2.00,0.000,0,420,61.00,2.0,6.00,9.00,0.0,20,3.50
+Reactor Café and Lounge,Baked Goods,Breakfast,Bagel- Everything,Each,2.25,310,5.00,1.000,0,680,54.00,4.0,2.00,10.00,0.0,50,4.00
+Reactor Café and Lounge,Baked Goods,Breakfast,Bagel-Cinnamon Raisin,Each,2.25,313,2.16,0.000,0,508,65.88,3.2,9.72,9.72,0.0,32,4.32
+Reactor Café and Lounge,Baked Goods,Breakfast,Bagel- Cheese,Each,2.25,313,3.78,1.620,5,637,60.48,8.6,1.08,11.88,0.0,71,3.24
+Reactor Café and Lounge,Baked Goods,Breakfast,Bagel-Pretzel,Each,2.25,280,3.50,2.000,0,760,51.00,2.0,1.00,9.00,0.0,20,4.50
+Reactor Café and Lounge,Baked Goods,Breakfast,Apple Muffin,Each,2.95,410,18.00,3.000,65,410,54.00,2.0,27.00,7.00,0.0,75,2.00
+Reactor Café and Lounge,Baked Goods,Breakfast,Banana Nut Muffin,Each,2.95,480,28.00,4.500,60,390,50.00,2.0,24.00,7.00,0.0,0,0.00
+Reactor Café and Lounge,Baked Goods,Breakfast,Blueberry Muffin,Each,2.95,440,24.00,4.000,70,360,50.00,1.0,23.00,6.00,0.0,0,0.00
+Reactor Café and Lounge,Baked Goods,Breakfast,Carrot Muffin,Each,2.95,410,18.00,3.000,65,530,54.00,2.0,27.00,7.00,0.0,75,2.00
+Reactor Café and Lounge,Baked Goods,Breakfast,Chocolate Chunk Muffin,Each,2.95,480,26.00,6.000,70,340,54.00,2.0,26.00,7.00,0.0,0,0.00
+Reactor Café and Lounge,Baked Goods,Breakfast,Double Chocolate Chunk Muffin,Each,2.95,460,25.00,5.000,65,370,50.00,3.0,22.00,7.00,0.0,0,0.00
+Reactor Café and Lounge,Baked Goods,Breakfast,Chocolatine Croissant,Each,2.95,300,17.00,10.000,50,280,33.00,2.0,10.00,6.00,0.0,20,2.50
+Reactor Café and Lounge,Baked Goods,Breakfast,Cheese Croissant,Each,2.95,336,19.67,9.286,19,442,30.00,1.0,4.00,9.76,0.0,24,2.00
+Reactor Café and Lounge,Baked Goods,Breakfast,Vegan Croissant,Each,2.95,260,13.00,5.000,0,290,30.00,1.0,4.00,5.00,0.0,10,2.00
+Reactor Café and Lounge,Baked Goods,Breakfast,Strawberry Cream Cheese Danish,Each,4.25,384,18.08,10.170,62,384,48.59,1.1,20.34,6.78,0.0,23,1.63
+Reactor Café and Lounge,Baked Goods,Breakfast,Maple Pecan Danish,Each,4.25,330,17.00,8.000,45,250,39.00,1.0,17.00,5.00,0.0,20,1.80
+Reactor Café and Lounge,Baked Goods,Breakfast,Cinnamon Buns,Each,3.95,430,20.00,11.000,60,540,55.00,3.0,13.00,8.00,0.0,39,3.28
+Reactor Café and Lounge,Baked Goods,Breakfast,Apple Strudel Stick,Each,3.49,181,8.67,3.612,0,145,26.01,0.7,11.56,2.17,0.0,7,0.79
+Reactor Café and Lounge,Baked Goods,Breakfast,Raspberry Strudel Stick,Each,3.49,195,8.67,3.612,0,137,28.18,0.7,13.73,2.17,0.0,7,0.79
+Reactor Café and Lounge,Baked Goods,Breakfast,Donut-Boston Cream,Each,2.29,400,20.00,8.000,0,440,52.00,2.0,18.00,6.00,0.0,40,2.50
+Reactor Café and Lounge,Baked Goods,Breakfast,Donut-Hawaiian,Each,2.29,380,17.00,8.000,0,340,52.00,1.0,21.00,5.00,0.0,40,1.75
+Reactor Café and Lounge,Baked Goods,Breakfast,Donut- Chocolate Raised,Each,2.29,310,15.00,6.000,0,340,38.00,1.0,1218.94,5.00,0.0,40,2.00
+Reactor Café and Lounge,Baked Goods,Breakfast,Donut-Apple Fritter,Each,2.29,380,16.00,6.000,0,460,54.00,2.0,16.00,6.00,0.0,80,2.50
+Reactor Café and Lounge,Baked Goods,Breakfast,Donut-Sour Cream Glazed,Each,2.29,330,15.00,6.000,15,380,46.00,1.0,24.00,4.00,0.0,40,1.50
+Reactor Café and Lounge,Baked Goods,Breakfast,Donut- Chocolate Glazed Cake,Each,2.29,320,16.00,7.000,15,370,42.00,2.0,16.00,4.00,0.0,50,2.00
+Reactor Café and Lounge,Baked Goods,Breakfast,Donut- Premium- S'mores,Each,2.29,440,20.00,9.000,0,460,38.00,2.0,206.00,6.00,0.0,60,2.50
+Reactor Café and Lounge,Baked Goods,Breakfast,Donut- Premium- Cookies & Cream,Each,2.29,440,20.00,8.000,0,480,58.00,2.0,18.00,6.00,0.0,40,2.50
+Reactor Café and Lounge,Baked Goods,Breakfast,Donut- Premium- Cheessecake,Each,2.29,400,20.00,9.000,0,440,52.00,2.0,18.00,6.00,0.0,60,2.00
+Reactor Café and Lounge,Baked Goods,Breakfast,Donut- Premium- Key Lime,Each,2.29,400,20.00,9.000,25,440,52.00,2.0,19.00,6.00,0.0,60,2.00
+Reactor Café and Lounge,Baked Goods,Breakfast,"Donut- Long John, Chocolate Glazed",Each,2.29,460,24.00,14.000,0,440,58.00,2.0,22.00,6.00,0.0,40,2.50
+Reactor Café and Lounge,Baked Goods,Breakfast,Spinach And Feta Trellis Pastry,Each,4.19,347,19.96,11.554,63,452,33.61,1.1,5.25,7.35,0.0,63,1.89
+Reactor Café and Lounge,Baked Goods,Breakfast,Tomato Olive Trellis Pastry,Each,4.19,371,22.00,12.737,64,484,37.05,2.3,4.63,6.95,0.0,0,0.00
+Reactor Café and Lounge,Baked Goods,Breakfast,S'mores Strudel,Portion,3.49,192,9.61,3.955,0,153,24.86,0.6,84.75,2.26,0.0,6,0.85
+Reactor Café and Lounge,Baked Goods,Breakfast,Lemon Cheese Strudel,Portion,3.49,170,8.50,4.000,0,155,22.00,0.5,8.00,2.00,0.0,5,0.75
+Reactor Café and Lounge,Baked Goods,Breakfast,Peaches And Cheese Strudel,Each,3.49,373,19.21,7.910,0,305,46.33,1.1,14.69,5.65,0.0,11,1.69
+Reactor Café and Lounge,Baked Goods,Breakfast,S'mores Strudel,Portion,3.49,192,9.61,3.955,0,153,24.86,0.6,84.75,2.26,0.0,6,0.85
+Reactor Café and Lounge,Baked Goods,Breakfast,Ham And Swiss Croissant,Each,4.99,170,11.13,6.545,33,170,14.40,0.0,2.62,3.93,0.0,26,1.18
+Reactor Café and Lounge,Baked Goods,Breakfast,Bacon And Egg Croissant,Each,4.99,188,11.42,6.719,71,249,15.45,0.7,2.69,6.05,0.0,40,0.85
+Reactor Café and Lounge,Baked Goods,Dessert,Macaroon Madness Dessert Bar,Slice,3.39,432,21.58,9.711,49,237,56.11,3.2,42.08,4.32,0.0,0,0.00
+Reactor Café and Lounge,Baked Goods,Dessert,Tiger Brownie Dessert Bar,Slice,3.95,455,24.48,12.241,52,192,52.46,1.7,31.48,5.25,0.0,0,0.00
+Reactor Café and Lounge,Baked Goods,Dessert,Caramel Pecan Brownie Dessert Bar,Slice,3.95,430,24.07,7.736,60,189,48.14,3.4,34.38,5.16,0.0,0,0.00
+Reactor Café and Lounge,Baked Goods,Dessert,Nanaimo Bar,Slice,3.95,516,32.03,17.794,0,240,56.94,3.6,40.93,3.56,0.0,18,2.22
+Reactor Café and Lounge,Baked Goods,Dessert,New York Cheesecake 16-Cut,Each,6.49,460,31.00,17.000,155,480,39.00,1.0,29.00,8.00,0.0,77,1.00
+Reactor Café and Lounge,Baked Goods,Dessert,Plain Butter Tart,Each,2.79,360,16.00,6.000,45,200,55.00,2.0,26.00,4.00,0.0,0,0.00
+Reactor Café and Lounge,Baked Goods,Dessert,Double Chocolate Chip Cookie,Each,2.39,260,12.00,7.000,20,210,34.00,1.0,23.00,3.00,0.0,0,0.00
+Reactor Café and Lounge,Baked Goods,Dessert,Oatmeal Raisin Cookies,Each,2.39,250,10.00,6.000,15,200,34.00,2.0,19.00,3.00,0.0,0,0.00
+Reactor Café and Lounge,Baked Goods,Dessert,Milk Chocolate Chunk Cookie,Each,2.39,274,12.54,6.270,16,274,37.62,1.1,22.80,3.31,0.0,22,1.60
+Reactor Café and Lounge,Baked Goods,Dessert,White Chocolate Macadamia Nut Cookie,Each,2.39,260,13.00,6.000,20,180,34.00,1.0,22.00,3.00,0.0,0,0.00
+Reactor Café and Lounge,Prepped Grab and Go,Cups,Prep Chia Seed Pudding,Portion,5.09,212,3.46,0.775,0,83,37.32,3.8,29.33,5.28,0.0,231,1.14
+Reactor Café and Lounge,Prepped Grab and Go,Cups,Rose Water Rice Pudding,Portion,4.99,462,0.09,0.000,0,0,114.58,0.7,104.56,0.93,0.0,1,0.09
+Reactor Café and Lounge,Prepped Grab and Go,Cups,Prep Tex Mex Quinoa Cup,Portion,6.99,473,20.99,2.099,0,1128,61.90,8.4,16.44,11.17,57.8,44,5.62
+Reactor Café and Lounge,Prepped Grab and Go,Cups,Cranberry-Date Energy Bites,Portion,4.99,414,14.06,3.587,0,55,68.97,8.7,40.05,9.89,0.0,17,1.61
+Reactor Café and Lounge,Prepped Grab and Go,Cups,Prep Blueberry Parfait,Portion,5.09,286,4.24,1.980,8,140,53.68,3.4,32.48,8.17,0.0,26,1.39
+Reactor Café and Lounge,Prepped Grab and Go,Cups,Prep Raspberry Parfait,Portion,5.09,302,4.30,1.980,8,141,55.92,6.0,32.14,8.60,14.7,35,1.74
+Reactor Café and Lounge,Prepped Grab and Go,Cups,Prp Meat And Cheese Snacker,Portion,8.29,438,26.07,13.846,75,980,30.44,2.7,7.45,21.90,15.6,5,0.32
+Reactor Café and Lounge,Prepped Grab and Go,Cups,Prep Fruit Cup,Portion,5.99,205,0.54,0.000,0,44,51.58,5.3,43.72,3.51,115.9,65,1.99
+Reactor Café and Lounge,Prepped Grab and Go,Cups,Prep Pineapple Cup,Portion,6.19,270,0.54,0.000,0,5,70.20,7.6,54.00,2.70,0.0,0,0.00
+Reactor Café and Lounge,Prepped Grab and Go,Cups,Prep Melon Cup,Portion,6.19,196,0.28,0.000,0,97,48.26,4.2,45.46,4.69,117.2,110,3.18
+Reactor Café and Lounge,Prepped Grab and Go,Cups,Prep Hummus & Naan,Portion,5.69,480,22.04,3.194,0,955,54.28,11.7,6.06,13.00,0.0,37,1.13
+Reactor Café and Lounge,Prepped Grab and Go,Cups,Prep Veggies & Dip,Portion,6.19,290,24.30,4.500,4,436,13.00,6.6,6.52,5.80,81.4,49,2.34
+Reactor Café and Lounge,Prepped Grab and Go,Cups,Prep Anytime Cocoa Cup,Portion,6.09,792,30.92,7.111,7,202,105.62,11.7,38.42,23.70,4.8,74,2.90
+Reactor Café and Lounge,Prepped Grab and Go,Sandwiches,Za'taar Chicken Sandwich,Portion,8.29,486,9.12,1.780,96,1687,56.30,5.1,5.30,45.85,22.5,94,4.50
+Reactor Café and Lounge,Prepped Grab and Go,Sandwiches,Paneer Sandwich,Portion,8.29,591,34.83,12.913,58,1123,56.70,5.1,2.75,21.26,21.4,225,4.60
+Reactor Café and Lounge,Prepped Grab and Go,Sandwiches,Prep Turkey Club Sandwich,Portion,8.29,523,21.78,5.932,52,1457,52.32,3.6,2.60,28.48,5.5,72,4.21
+Reactor Café and Lounge,Prepped Grab and Go,Sandwiches,Prep Egg Salad White,Portion,4.69,378,19.54,3.832,302,284,34.69,2.1,2.49,16.32,1.6,71,2.01
+Reactor Café and Lounge,Prepped Grab and Go,Sandwiches,Prep Egg Salad Ww,Portion,4.69,357,18.85,3.648,302,400,31.81,2.3,0.29,16.04,1.6,32,1.97
+Reactor Café and Lounge,Prepped Grab and Go,Sandwiches,Prep Egg Salad Gf,Portion,5.19,455,25.15,4.360,302,588,43.48,4.7,9.15,14.61,1.6,76,0.86
+Reactor Café and Lounge,Prepped Grab and Go,Sandwiches,Prep Tuna Salad Gf,Portion,5.19,396,15.67,1.841,25,759,41.95,4.3,9.06,22.39,1.2,65,1.62
+Reactor Café and Lounge,Prepped Grab and Go,Sandwiches,Prep Tuna Salad White,Portion,4.79,319,10.06,1.314,25,454,33.17,1.7,2.40,24.09,1.2,61,2.77
+Reactor Café and Lounge,Prepped Grab and Go,Sandwiches,Prep Tuna Salad Ww,Portion,4.79,298,9.37,1.130,25,570,30.29,1.9,0.20,23.82,1.2,21,2.73
+Reactor Café and Lounge,Prepped Grab and Go,Sandwiches,Prep Ham & Cheese White,Portion,5.19,478,27.68,6.239,42,811,34.55,1.6,2.67,19.91,0.0,66,2.64
+Reactor Café and Lounge,Prepped Grab and Go,Sandwiches,Prep Ham & Cheese Ww,Portion,5.19,457,26.99,6.055,42,927,31.66,1.8,0.47,19.63,0.0,27,2.61
+Reactor Café and Lounge,Prepped Grab and Go,Sandwiches,Prep Chipotle Chicken Wrap,Portion,8.29,602,16.15,5.027,78,1627,71.84,7.1,7.25,42.24,23.8,29,2.57
+Reactor Café and Lounge,Prepped Grab and Go,Sandwiches,Prep Turkey Brie Wrap,Portion,8.29,689,37.42,10.488,56,1367,59.36,4.2,5.37,28.09,12.5,29,0.76
+Reactor Café and Lounge,Prepped Grab and Go,Sandwiches,Prep Italian Salami Sandwich,Portion,8.29,531,24.75,6.873,42,1488,54.08,1.7,5.95,28.10,33.2,79,12.20
+Reactor Café and Lounge,Prepped Grab and Go,Sandwiches,Prep Louisiana Club Sandwich,Portion,8.29,571,25.24,6.719,77,1436,50.09,0.6,3.62,40.48,10.8,30,5.30
+Reactor Café and Lounge,Prepped Grab and Go,Bowls,Prepped Spicy Thai Peanut Bowl With Tofu,Portion,11.99,428,15.88,0.832,0,383,55.12,7.6,8.66,18.69,61.6,95,2.17
+Reactor Café and Lounge,Prepped Grab and Go,Bowls,Prepped Thai Peanut Chicken Bowl,Portion,11.99,449,13.48,0.832,51,741,53.32,7.0,8.06,28.89,61.6,50,1.57
+Reactor Café and Lounge,Prepped Grab and Go,Bowls,Hummus Bowl,Portion,6.69,534,26.52,4.663,6,1058,55.66,12.2,6.27,14.89,0.0,40,1.20
+Reactor Café and Lounge,Prepped Grab and Go,Bowls,Prep Chicken Caesar Salad,Portion,9.69,554,38.03,6.456,88,803,27.29,4.6,3.20,28.09,4.3,16,3.10
+Reactor Café and Lounge,Prepped Grab and Go,Bowls,Prp Chicken Shawarma Bowl,Portion,10.99,639,36.09,2.636,99,849,52.87,3.7,3.21,22.02,2.7,31,1.09
+Reactor Café and Lounge,Prepped Grab and Go,Bowls,Prep Green Goddess Salad,Portion,10.99,468,35.48,4.698,71,931,20.95,5.5,9.77,24.02,25.1,53,4.66
+Reactor Café and Lounge,Prepped Grab and Go,Bowls,Prep Garden Salad,Portion,7.49,234,15.41,3.012,0,246,20.15,4.2,12.89,3.40,31.3,70,4.66
+Reactor Café and Lounge,Prepped Grab and Go,Bowls,Prep Greek Salad,Portion,8.69,356,27.63,7.920,24,1060,18.67,5.1,8.23,9.53,123.4,155,3.59
+Reactor Café and Lounge,Prepped Grab and Go,Bowls,Prep Caesar Salad,Portion,7.49,455,35.63,5.856,37,442,27.29,4.6,3.20,9.49,4.3,16,2.50
+The Bistro @ MKR,BREAKFAST CLASSICS,Breakfast,Bistro Breakfast - Bacon,Portion,8.99,766,41.40,10.275,421,1261,71.10,4.7,2.34,24.78,0.0,112,4.35
+The Bistro @ MKR,BREAKFAST CLASSICS,Breakfast,Bistro Breakfast - Sausage,Portion,8.99,1016,66.40,19.125,484,1682,71.10,4.7,2.34,31.63,0.0,112,12.26
+The Bistro @ MKR,BREAKFAST CLASSICS,Breakfast,Bistro's Signature Skillet,Portion,10.99,1003,66.06,20.070,288,3652,71.80,7.3,6.21,30.77,29.7,262,5.20
+The Bistro @ MKR,BREAKFAST CLASSICS,Breakfast,Bistro's Signature Shakshuka,Portion,8.19,422,17.37,4.535,414,1359,45.66,7.2,13.81,21.96,9.6,188,3.26
+The Bistro @ MKR,BREAKFAST CLASSICS,Breakfast,Bistro Steak And Eggs,Portion,23.99,1177,57.41,17.463,545,1233,78.39,5.3,2.34,76.38,0.0,139,9.40
+The Bistro @ MKR,BREAKFAST CLASSICS,Breakfast,Bistro Eggs Benedict,Portion,12.99,734,23.77,4.781,421,1836,78.90,5.0,4.87,47.39,0.0,64,4.20
+The Bistro @ MKR,BREAKFAST CLASSICS,Breakfast,Bistro Eggs Florentine,Portion,9.99,598,21.75,4.811,414,931,74.27,5.6,2.13,22.55,8.4,88,3.43
+The Bistro @ MKR,BREAKFAST CLASSICS,Breakfast,Bistro Full English Breakfast,Portion,15.50,897,37.59,9.867,633,2063,79.45,2.7,3.89,57.28,1.3,106,6.61
+The Bistro @ MKR,BREAKFAST CLASSICS,Toppings,Pork Crumble Chorizo,100g,,680,66.00,22.000,115,1180,5.00,2.0,2.00,18.00,0.0,75,1.50
+The Bistro @ MKR,BREAKFAST CLASSICS,Toppings,Feta Cheese,100g,,300,23.30,15.000,83,1099,6.67,0.0,0.00,20.00,0.0,0,0.00
+The Bistro @ MKR,BREAKFAST CLASSICS,Toppings,Cooked Bacon Slice,Slice,,20,1.39,0.504,4,84,0.25,0.0,0.15,1.68,0.0,0,0.05
+The Bistro @ MKR,BREAKFAST CLASSICS,Toppings,Cheddar Pizza Cheese Blend,100g,,345,26.30,16.600,80,672,2.80,0.5,0.00,24.50,0.0,669,0.00
+The Bistro @ MKR,BREAKFAST CLASSICS,Toppings,Fresh Avocado Chunk,100g,,159,14.85,0.000,0,7,8.91,6.6,0.99,1.98,9.9,12,0.59
+The Bistro @ MKR,BREAKFAST CLASSICS,Toppings,Baby Spinach,100g,,23,0.40,0.100,0,79,3.60,2.2,0.40,2.90,27.9,80,2.70
+The Bistro @ MKR,BREAKFAST CLASSICS,Toppings,Whole Mushroom,100g,,22,0.34,0.000,0,5,3.26,1.0,1.48,3.09,2.1,3,0.50
+The Bistro @ MKR,BREAKFAST CLASSICS,Toppings,Peeled Red Onion,100g,,38,0.00,0.000,0,0,9.70,2.2,4.30,1.10,0.0,22,0.20
+The Bistro @ MKR,BREAKFAST CLASSICS,Toppings,"Peppers, Red",100g,,31,0.30,0.000,0,4,6.00,2.1,4.20,1.00,71.1,10,0.20
+The Bistro @ MKR,BREAKFAST CLASSICS,Other,Bistro Omelette Bar,Portion,8.99,1174,78.69,21.590,1041,1188,76.69,2.6,4.96,42.54,1.3,443,5.19
+The Bistro @ MKR,BTG+,All Day,"16"" Cheese Pizza",Each,22.99,1510,47.26,29.042,132,1995,193.15,9.9,16.11,83.66,0.0,1407,10.98
+The Bistro @ MKR,BTG+,All Day,"16"" Pepperoni Pizza",Each,24.99,1689,60.59,33.709,181,2830,196.48,9.9,16.98,94.32,0.0,1446,11.66
+The Bistro @ MKR,BTG+,All Day,"16"" Veggie Deluxe Pizza",Each,23.99,1539,47.44,29.082,132,1998,199.84,11.8,19.24,85.38,110.4,1420,11.36
+The Bistro @ MKR,BTG+,All Day,Chicken Quesadilla,100g,9.99,781,33.02,16.935,124,1928,66.24,5.4,3.78,54.03,41.4,521,1.11
+The Bistro @ MKR,BTG+,All Day,Veggie Quesadilla,100g,8.99,657,30.32,16.185,60,1329,66.24,5.4,3.78,30.56,41.4,521,1.08
+The Bistro @ MKR,BTG+,All Day,Nachos,Plate,18.99,1644,100.88,41.013,146,2209,130.87,16.6,3.88,60.08,35.1,1297,0.56
+The Bistro @ MKR,BTG+,All Day,Beef Empanadas,100g,11.99,528,26.40,7.200,36,792,55.20,2.4,4.80,19.20,0.0,48,4.20
+The Bistro @ MKR,BTG+,All Day,Vegetable Empanadas,100g,11.99,456,19.20,4.800,12,840,57.60,2.4,4.80,9.60,0.0,120,4.80
+The Bistro @ MKR,BTG+,All Day,Bmk General Tso Chicken,Portion,17.99,758,16.15,2.315,153,3067,98.59,6.0,41.42,49.72,254.9,64,2.44
+The Bistro @ MKR,BTG+,All Day,Bmk Mac & Cheese,Portion,13.99,625,30.83,17.209,80,580,56.68,2.5,6.42,29.99,0.9,365,1.64
+The Bistro @ MKR,BTG+,All Day,Butter Chicken,Portion,14.99,863,33.02,1.980,135,3414,103.62,4.4,4.40,40.52,3.3,62,4.40
+The Bistro @ MKR,BTG+,All Day,Pub Fry Basket,Each,13.99,807,48.61,6.405,45,1950,79.18,4.9,11.77,16.24,1.7,334,2.80
+The Bistro @ MKR,BTG+,All Day,Btg Waffle Poutine,Portion,11.99,791,49.67,13.961,53,2066,73.24,5.0,2.40,20.70,0.0,56,1.41
+The Bistro @ MKR,BTG+,All Day,Chicken Wings,Portion,12.99,949,61.40,18.430,506,592,14.91,4.6,7.22,78.98,49.5,74,2.51
+The Bistro @ MKR,BTG+,Toppings,Bistro Smpl Bbq Sauce,100g,,147,0.06,0.013,0,970,36.31,0.5,35.48,0.68,0.0,4,0.38
+The Bistro @ MKR,BTG+,Toppings,Franks Red Hot Buffalo Sauce,100g,,17,1.49,0.220,0,0,2.30,0.0,0.56,0.59,0.0,0,0.00
+The Bistro @ MKR,CLASSICS,All Day,Local Steak With Fries,Portion,27.99,1294,75.90,19.920,205,691,57.04,3.4,1.07,80.12,1.3,66,6.89
+The Bistro @ MKR,CLASSICS,All Day,Bmk Local Steak With Salad,Portion,27.99,1125,78.44,19.980,205,1123,15.64,2.3,6.32,75.72,22.8,77,10.28
+The Bistro @ MKR,CLASSICS,All Day,Grilled Chicken Breast With Vegetables,Portion,17.99,534,26.40,3.177,129,189,36.47,2.1,2.17,36.93,0.0,22,0.62
+The Bistro @ MKR,CLASSICS,All Day,Grilled Chicken Breast,Portion,17.99,618,33.12,4.213,129,555,40.90,2.4,5.25,37.44,21.6,40,3.47
+The Bistro @ MKR,CLASSICS,All Day,Bmk Grilled Tilapia With Salad,Portion,17.99,456,15.15,2.580,95,554,40.90,2.4,5.25,41.66,21.6,101,4.47
+The Bistro @ MKR,CLASSICS,All Day,Bistro Classic Burger & Salad,Portion,17.99,774,55.78,2.321,142,898,32.56,3.8,7.55,34.45,30.8,86,7.97
+The Bistro @ MKR,CLASSICS,All Day,Bistro Classic Burger & Fries,Portion,17.99,1327,86.43,5.076,142,477,92.45,5.9,2.29,40.91,9.2,85,4.58
+The Bistro @ MKR,CLASSICS,All Day,Beyond Classic Burger & Fries,Portion,17.99,818,31.14,8.560,5,853,97.73,8.5,6.32,34.07,44.1,132,5.03
+The Bistro @ MKR,CLASSICS,All Day,Beyond Classic Burger & Salad,Portion,17.99,649,33.68,8.620,5,1285,56.34,7.4,11.57,29.67,65.7,143,8.42
+The Bistro @ MKR,CLASSICS,All Day,Bmk Grilled Caprese Sandwich -Fries,Portion,18.99,1093,75.19,11.302,154,1097,57.08,1.1,9.26,52.76,7.9,246,4.82
+The Bistro @ MKR,CLASSICS,All Day,Bmk Grilled Caprese Sandwich - Salad,Portion,18.99,885,49.42,9.998,154,1402,62.21,2.6,10.45,53.84,29.5,285,8.08
+The Bistro @ MKR,CLASSICS,All Day,Grilled Chicken Burger,100g,17.99,784,55.48,7.135,159,847,33.08,3.6,7.55,38.03,28.0,72,4.95
+The Bistro @ MKR,CLASSICS,All Day,Grilled Chicken Burger,100g,17.99,704,49.01,6.126,159,485,28.95,3.4,4.59,37.57,6.4,55,2.13
+The Bistro @ MKR,CLASSICS,All Day,Grilled Chicken Burger,100g,17.99,815,48.71,6.359,159,555,53.38,3.5,6.35,39.78,6.4,48,1.69
+The Bistro @ MKR,CLASSICS,All Day,Korean Salmon Bowl,Portion,19.99,726,37.56,13.701,167,362,45.39,3.2,14.46,52.90,38.0,391,1.29
+The Bistro @ MKR,CLASSICS,All Day,Korean Crispy Chicken Bowl,Portion,19.99,801,37.56,10.889,83,1853,77.27,7.0,20.08,43.53,38.0,410,1.95
+The Bistro @ MKR,CLASSICS,All Day,Steak Sandwich,Portion,25.99,1287,70.13,16.055,146,2927,89.75,6.3,1.60,67.51,2.6,161,8.82
+The Bistro @ MKR,CLASSICS,All Day,Bmk Steak Frites,Portion,19.99,769,31.90,11.700,131,28,50.88,2.8,0.00,59.66,0.0,54,4.93
+The Bistro @ MKR,CLASSICS,All Day,Bmk Mac & Cheese,Portion,13.99,625,30.83,17.209,80,580,56.68,2.5,6.42,29.99,0.9,365,1.64
+The Bistro @ MKR,CLASSICS,All Day,Bmk Mac & Cheese - Lunch Bowl,Portion,9.99,466,23.00,12.934,60,438,42.07,1.9,4.72,22.59,0.6,288,1.21
+The Bistro @ MKR,CLASSICS,All Day,Bmk Mushroom And Spinach Fettuccine Lunch Bowl,Portion,9.99,382,14.69,2.160,0,47,45.16,4.6,3.76,12.64,20.0,87,2.32
+The Bistro @ MKR,CLASSICS,All Day,Bmk Mushroom And Spinach Fettuccine,Portion,14.99,492,18.90,2.780,0,62,58.17,6.0,4.85,16.34,26.4,116,3.05
+The Bistro @ MKR,CLASSICS,All Day,Jalapeno Popper Burger,Portion,18.99,997,65.56,9.725,189,1412,60.50,3.2,2.26,40.56,0.0,82,4.53
+The Bistro @ MKR,CLASSICS,All Day,Seafood Puttanesca,Portion,15.99,478,8.00,0.714,130,1535,77.81,5.4,7.61,25.52,26.7,93,4.60
+The Bistro @ MKR,CLASSICS,All Day,Seafood Puttanesca Lunch Bowl,100g,10.99,363,6.02,0.529,109,1195,58.44,4.0,5.70,20.10,19.4,72,3.74
+The Bistro @ MKR,CLASSICS,All Day,Korean Fried Chicken Burger,Portion,18.99,794,39.85,12.789,198,520,67.78,4.0,7.14,42.14,0.4,45,1.57
+The Bistro @ MKR,CLASSICS,All Day,Rigatoni Bolognese,Portion,15.99,484,19.47,8.984,68,747,50.20,5.4,7.73,28.57,16.6,67,0.37
+The Bistro @ MKR,CLASSICS,All Day,Rigatoni Bolognese Lunch Bowl,Portion,10.99,357,14.65,6.766,51,564,36.37,4.0,5.84,21.28,12.5,50,0.27
+The Bistro @ MKR,CLASSICS,All Day,Bistro Peppercorn Burger,Portion,18.99,1002,62.64,7.901,179,532,58.48,3.2,1.10,44.28,0.0,52,4.47
+The Bistro @ MKR,CLASSICS,All Day,Chicken Broccoli Alfredo,Portion,15.99,641,25.49,10.125,126,625,64.07,4.0,8.56,39.90,51.3,31,0.77
+The Bistro @ MKR,CLASSICS,All Day,Chicken Broccoli Alfredo Lunch Bowl,Portion,10.99,484,18.81,7.265,95,453,49.23,3.1,6.36,30.24,38.5,23,0.57
+The Bistro @ MKR,CLASSICS,All Day,Bistro Buttermilk Chicken Sandwich,Portion,18.99,868,35.98,4.898,176,1902,84.86,4.2,1.81,49.44,0.0,73,3.14
+The Bistro @ MKR,CLASSICS,All Day,Bistro Cheese Tortelini In Arrabbiata Sauce,Portion,15.99,544,12.66,2.955,54,1443,86.94,5.9,13.79,21.11,19.8,316,2.05
+The Bistro @ MKR,CLASSICS,All Day,Bistro Cheese Tortelini In Arrabbiata Sauce Lunch Bowl,Portion,10.99,410,9.90,2.207,41,1121,63.99,4.3,10.11,16.30,14.5,259,1.51
+The Bistro @ MKR,CLASSICS,Add Ons,Add Chicken Breast,Portion,6.99,310,17.10,1.800,153,513,0.00,0.0,0.00,37.80,0.0,0,0.09
+The Bistro @ MKR,CLASSICS,Add Ons,Garlic Parmesan Breadstick,Each,,150,6.00,1.000,0,220,22.00,0.0,1.00,5.00,0.0,30,1.50
+The Bistro @ MKR,CLASSICS,Add Ons,Add Plant Based Cheese,slice,1.50,93,6.53,6.527,0,67,7.46,0.0,0.00,0.93,0.0,35,0.00
+The Bistro @ MKR,CLASSICS,Add Ons,Add Cheese,slice,1.50,60,4.50,3.000,15,105,0.00,0.0,0.00,3.00,0.0,0,0.00
+The Bistro @ MKR,CLASSICS,Add Ons,Double Smoked Bacon,Portion,1.50,231,23.32,8.360,32,531,0.66,0.0,0.66,3.96,0.0,0,1.32
+The Bistro @ MKR,CLASSICS,Add Ons,Add Caramelized Onions,Portion,1.50,33,1.35,0.150,0,1,4.88,0.7,2.44,0.00,3.7,11,0.12
+The Bistro @ MKR,CLASSICS,Add Ons,Sauteed Mushrooms,Portion,1.50,50,3.15,0.210,0,201,3.70,1.1,1.68,3.56,2.4,3,0.57
+The Bistro @ MKR,IL FORNO,All Day,Bruschetta & Arugula Pizza,Portion,14.99,756,37.73,14.626,63,1779,74.26,4.5,12.85,34.31,16.0,682,3.86
+The Bistro @ MKR,IL FORNO,All Day,Basil Pesto Pizza,Portion,14.99,744,42.78,17.560,75,1452,60.26,4.2,2.49,31.93,26.2,444,8.26
+The Bistro @ MKR,IL FORNO,All Day,Bistro Chicken Bacon Ranch Pizza,Each,16.99,995,58.30,20.130,143,1858,65.01,6.3,5.38,55.22,82.3,634,3.58
+The Bistro @ MKR,IL FORNO,All Day,Bistro Hawaiian Pulled Pork Pizza,100g,16.99,15926,1129.04,392.100,3611,5623,240.23,4.6,144.52,1142.00,0.0,2131,69.66
+The Bistro @ MKR,IL FORNO,All Day,Bistro Donair Pep Pizza,Portion,16.99,971,61.69,19.800,104,2379,93.72,3.1,4.16,41.52,0.0,659,4.01
+The Bistro @ MKR,IL FORNO,All Day,Bistro Nacho Pizza,Portion,16.99,884,30.18,14.275,59,3105,92.79,9.8,8.64,50.66,42.9,675,5.69
+The Bistro @ MKR,IL FORNO,All Day,Peppercorn Beef Flatbread,Each,16.99,737,31.80,14.638,96,2057,67.58,4.8,6.51,47.09,23.8,650,4.29
+The Bistro @ MKR,IL FORNO,All Day,Bistro - Meat Lovers Pizza,100g,16.99,984,57.12,20.400,175,2382,63.72,3.1,4.16,55.07,0.0,665,4.47
+The Bistro @ MKR,IL FORNO,All Day,Kickin Chicken Quesadilla,100g,16.99,797,33.40,17.973,103,1696,73.97,8.0,7.60,49.98,16.9,584,2.54
+The Bistro @ MKR,IL FORNO,All Day,Sweet Sweet And Spicy Desmechada Beef Quesadilla,100g,16.99,752,29.36,16.093,60,2770,66.71,6.2,8.90,39.31,26.4,562,1.40
+The Bistro @ MKR,IL FORNO,All Day,Haloumi Tacos,Portion,16.99,640,44.57,0.373,96,1597,54.45,6.1,8.72,292.48,10.7,60,1.32
+The Bistro @ MKR,IL FORNO,All Day,Bistro Chipotle Chicken And Bacon Tacos,Portion,16.99,357,19.63,3.902,48,431,41.72,6.2,4.12,25.04,25.1,115,2.65
+The Bistro @ MKR,IL FORNO,All Day,Desmechada Beef Burrito,100g,15.99,679,25.22,13.604,48,2469,61.55,4.8,5.58,35.49,8.4,438,0.68
+The Bistro @ MKR,IL FORNO,All Day,Bistro - Lentil And Pea Protein Tex Mex Burrito,Portion,15.99,586,22.04,11.713,0,2058,83.12,9.7,5.58,20.22,19.0,40,1.51
+The Bistro @ MKR,IL FORNO,All Day,Desmechada Beef Burrito Bowl,Portion,16.99,482,16.50,5.687,24,2188,43.89,10.6,5.65,29.67,11.9,276,3.43
+The Bistro @ MKR,IL FORNO,All Day,Lentil & Pea Protein Tex Mex Burrito Bowl,Each,15.99,337,14.01,8.163,0,1625,45.70,10.4,4.39,16.63,23.1,60,2.80
+The Bistro @ MKR,SMPL,All Day,Bmk Pork Carnitas Bowl,Portion,15.99,1466,58.36,13.032,105,1025,93.86,16.4,3.71,56.98,18.0,148,16.14
+The Bistro @ MKR,SMPL,All Day,Salmon Poke Bowl,Portion,16.99,828,44.42,5.250,101,168,32.88,10.7,3.77,44.45,10.2,21,4.13
+The Bistro @ MKR,SMPL,All Day,Lotus Bowl,Portion,12.99,747,21.98,2.457,0,652,76.23,10.9,21.38,13.46,5.6,60,7.46
+The Bistro @ MKR,SMPL,All Day,Smpl Mediterranean Salad,Portion,11.99,305,27.94,3.120,0,675,14.17,5.2,5.83,3.46,114.7,33,0.98
+The Bistro @ MKR,SMPL,All Day,Asian Pear With Kale,Each,13.99,293,17.70,2.862,0,245,32.43,6.8,13.49,3.59,45.6,83,1.18
+The Bistro @ MKR,SMPL,All Day,Smpl Lemon Pepper Tilapia,100g,17.99,519,36.80,4.490,56,1129,22.71,4.7,2.27,24.91,42.1,125,3.16
+The Bistro @ MKR,SMPL,All Day,Tuscan Gnocchi Bake,Each,14.99,601,26.14,3.365,0,2815,77.65,7.4,8.11,14.52,26.0,198,1.44
+The Bistro @ MKR,SMPL,All Day,Chicken Chasseur,PORTION,18.99,750,27.39,3.613,132,873,73.14,8.0,13.28,46.72,106.8,116,2.38
+The Bistro @ MKR,SMPL,All Day,Rotisserie 1/4 Chicken Feature,Portion,18.99,1550,131.12,106.500,450,653,70.45,8.7,33.21,81.41,40.5,64,5.01
+The Bistro @ MKR,SMPL,All Day,Rotisserie 1/2 Chicken Feature,Portion,18.99,2210,200.12,175.499,750,4923,70.45,8.7,33.21,132.41,40.5,94,7.26
+The Bistro @ MKR,SMPL,All Day,Smplbbq Pork Ribs,Portion,20.99,1498,93.90,31.262,288,2426,80.35,11.2,39.68,83.14,6.8,202,5.86
+The Bistro @ MKR,SMPL,All Day,Bistro Pumpkin Gnocchi,Each,14.99,1062,28.92,3.427,0,4735,176.43,16.5,11.30,23.71,0.0,458,1.40
+The Bistro @ MKR,SMPL,All Day,Chili Con Carne,PORTION,16.99,695,24.93,6.054,98,698,74.39,10.5,3.40,41.82,48.9,91,1.73
+The Bistro @ MKR,SMPL,All Day,Tostadas Trio,Portion,15.99,512,20.74,3.739,0,1104,86.62,12.8,32.24,15.83,22.2,90,3.83
+The Bistro @ MKR,SMPL,All Day,Smpl Bbq Pulled Beef,Portion,17.99,698,20.62,2.169,0,2378,34.37,3.5,20.43,44.34,161.2,38,0.96
+The Bistro @ MKR,SMPL,All Day,Smpl Lentil Shepherds Pie,Portion,15.99,646,21.12,2.474,0,410,92.17,19.4,7.53,26.15,43.5,54,4.46
+The Bistro @ MKR,SMPL,All Day,Bistro Vietnamese Caramelized Pork,Portion,18.99,393,8.89,2.942,27,1496,61.09,2.2,25.82,13.08,12.3,34,2.38
+The Bistro @ MKR,SMPL,All Day,Mango Salad,Portion,15.99,341,11.31,2.043,0,216,57.20,9.1,40.74,6.15,104.2,95,1.62
+The Bistro @ MKR,SMPL,All Day,Sri Lankan Chicken Curry,Portion,15.99,292,16.11,13.059,38,237,28.82,1.0,1.60,10.93,4.1,10,0.35
+The Bistro @ MKR,SMPL,All Day,Bmksmp Red Lentil Dahl,Portion,15.99,721,11.83,2.657,0,1017,118.84,14.8,5.15,30.06,9.7,178,7.39
+The Bistro @ MKR,SMPL,All Day,Pork Souvlaki,Portion,18.99,804,51.55,5.735,76,1192,41.45,8.7,4.83,37.67,79.8,170,8.15
+The Bistro @ MKR,SMPL,All Day,Gemista,100g,15.99,641,13.27,2.483,0,1267,120.33,14.5,17.72,13.93,501.5,105,2.65
+The Bistro @ MKR,SMPL,Add Ons,Add Salmon,Portion,5.99,141,5.11,1.022,70,535,0.00,0.0,0.00,25.55,0.0,16,5.11
+The Bistro @ MKR,SMPL,Add Ons,Add Chicken Breast,Portion,6.99,310,17.10,1.800,153,513,0.00,0.0,0.00,37.80,0.0,0,0.09
+The Bistro @ MKR,SOCIAL CORNER: BREAKFAST,Bowls,Mango Smoothie Bowl,Portion,9.99,318,4.05,1.900,11,78,62.70,4.2,56.20,7.80,0.0,99,0.00
+The Bistro @ MKR,SOCIAL CORNER: BREAKFAST,Bowls,Chocolate Banana Plant-Based Smoothie Bowl,Portion,9.99,268,4.98,2.292,0,74,53.02,8.0,48.73,4.71,0.0,696,2.56
+The Bistro @ MKR,SOCIAL CORNER: BREAKFAST,Bowls,Banana Smoothie Bowl,100g,9.99,277,3.50,2.065,11,80,52.86,3.0,34.65,7.34,0.0,107,0.39
+The Bistro @ MKR,SOCIAL CORNER: BREAKFAST,Bowls,Berry Blend Smoothie Bowl,Portion,9.99,204,3.75,2.650,11,79,35.10,6.0,26.80,7.20,0.0,132,0.84
+The Bistro @ MKR,SOCIAL CORNER: BREAKFAST,Bowls,Blueberry Smoothie Bowl,Portion,9.99,183,3.12,1.900,11,80,31.80,4.8,23.50,5.70,0.0,111,0.60
+The Bistro @ MKR,SOCIAL CORNER: BREAKFAST,Bowls,Chocolate Banana Smoothie Bowl,Portion,9.99,295,2.83,1.667,9,107,59.12,3.2,40.66,4.81,0.0,9,0.54
+The Bistro @ MKR,SOCIAL CORNER: BREAKFAST,Bowls,Raspberry Smoothie Bowl,Portion,9.99,177,3.60,1.900,11,78,30.60,6.0,21.10,6.90,0.0,99,0.00
+The Bistro @ MKR,SOCIAL CORNER: BREAKFAST,Bowls,Strawberry Smoothie Bowl,Portion,9.99,234,3.42,1.900,11,84,45.90,4.2,28.90,7.80,0.0,141,2.10
+The Bistro @ MKR,SOCIAL CORNER: BREAKFAST,Other,Black Forest Overnight Oats,100g,6.99,706,28.21,5.931,7,288,88.25,7.3,23.68,12.26,0.0,125,1.34
+The Bistro @ MKR,SOCIAL CORNER: BREAKFAST,Other,Bistro Crepes,Portion,7.99,365,19.01,9.519,106,373,39.18,3.0,18.85,8.71,0.0,32,0.45
+The Bistro @ MKR,SOCIAL CORNER: BREAKFAST,Other,Plain Waffle,PORTION,7.99,621,8.31,3.432,0,1875,124.53,1.7,33.73,8.33,0.0,6,0.06
+The Bistro @ MKR,SOCIAL CORNER: BREAKFAST,Other,Plain Waffle - Half,PORTION,7.99,340,5.89,3.432,0,945,65.62,0.9,20.06,4.30,0.0,3,0.03
+The Bistro @ MKR,SOCIAL CORNER: BREAKFAST,Other,Chocolate Coconut Protein Bar,Each,6.99,24,0.94,0.321,0,3,3.21,0.4,1.22,0.68,0.0,2,0.17
+The Bistro @ MKR,SOCIAL CORNER: BREAKFAST,Other,Bevbar-High Energy Protein Bites,Each,7.99,1589,64.36,15.215,0,336,205.72,21.1,83.90,50.02,0.4,139,11.99
+The Bistro @ MKR,SOCIAL CORNER,Beverage,Banana Smoothie,Portion,7.95,111,0.30,0.000,0,0,26.90,2.0,21.40,0.70,0.0,0,0.00
+The Bistro @ MKR,SOCIAL CORNER,Beverage,Blueberry Smoothie,Portion,7.95,149,0.40,0.000,0,0,36.00,2.4,32.65,0.24,0.0,8,0.08
+The Bistro @ MKR,SOCIAL CORNER,Beverage,Passion  Fruit Smoothie,100g,7.95,257,0.00,0.000,0,128,60.66,0.0,58.33,0.00,0.0,0,0.00
+The Bistro @ MKR,SOCIAL CORNER,Beverage,Peach Passionfruit Smoothie,100g,7.95,305,0.00,0.000,0,89,74.00,1.4,66.43,1.40,0.0,0,0.50
+The Bistro @ MKR,SOCIAL CORNER,Beverage,Peach Passionfruit Strawberry Smoothie,100g,7.95,337,0.05,0.050,0,90,81.53,1.7,73.83,0.90,0.0,8,0.63
+The Bistro @ MKR,SOCIAL CORNER,Beverage,Peach Smoothie,100g,7.95,222,0.00,0.000,0,14,55.30,2.1,45.96,2.10,0.0,0,0.76
+The Bistro @ MKR,SOCIAL CORNER,Beverage,Peach Smoothie,Portion,7.95,222,0.00,0.000,0,14,55.30,2.1,45.96,2.10,0.0,0,0.76
+The Bistro @ MKR,SOCIAL CORNER,Beverage,Chocolate Milkshake,Portion,7.45,470,19.20,12.960,77,264,60.48,2.9,45.12,11.52,0.0,429,3.17
+The Bistro @ MKR,SOCIAL CORNER,Beverage,Mint Chocolate Milkshake,Portion,7.45,528,27.84,17.280,91,192,60.48,5.8,42.24,11.52,0.0,386,0.58
+The Bistro @ MKR,SOCIAL CORNER,Beverage,Vanilla Milkshake,Portion,7.45,494,22.30,14.580,97,174,60.12,0.0,45.55,10.58,0.0,414,0.61
+The Bistro @ MKR,SOCIAL CORNER,Beverage,Strawberry Milkshake,Portion,7.45,432,17.60,11.820,70,198,54.84,2.5,36.20,11.52,0.0,403,0.50
+The Bistro @ MKR,SOCIAL CORNER,Beverage,Chocolate Mint Milkshake,100g,7.45,528,27.84,17.280,91,192,60.48,5.8,42.24,11.52,0.0,386,0.58
+The Bistro @ MKR,SOCIAL CORNER,Beverage,Bubble Tea (Black Tea),100g,6.95,76,0.00,0.000,0,0,18.18,0.0,18.18,0.00,0.0,0,0.00
+The Bistro @ MKR,SOCIAL CORNER,Beverage,Bubble Tea (Milk Tea),100g,7.25,295,12.88,12.879,0,12879,34.85,0.0,9.09,0.00,0.0,0,0.00
+The Bistro @ MKR,THE WOK,All Day,Chicken Teriyaki,Portion,17.99,971,22.71,5.469,113,5068,137.52,5.2,17.83,43.66,77.0,73,5.60
+The Bistro @ MKR,THE WOK,All Day,Tofu Teriyaki,Portion,17.99,343,3.44,0.391,0,4949,54.56,2.8,17.98,18.33,77.0,103,2.79
+The Bistro @ MKR,THE WOK,All Day,Chicken Teriyaki - Lunch Bowl,Portion,11.99,497,14.83,3.558,75,3364,59.00,3.8,12.30,26.81,76.9,49,2.18
+The Bistro @ MKR,THE WOK,All Day,Tofu Teriyaki  - Lunch Bowl,Portion,11.99,287,2.56,0.287,0,3288,48.88,2.8,12.46,13.93,77.0,85,2.60
+The Bistro @ MKR,THE WOK,All Day,Bmk General Tso Chicken,Portion,17.99,758,16.15,2.315,153,3067,98.59,6.0,41.42,49.72,254.9,64,2.44
+The Bistro @ MKR,THE WOK,All Day,Bmk General Tso Tofu,Portion,17.99,609,14.61,1.870,0,2950,90.21,5.1,42.60,31.69,254.9,343,5.18
+The Bistro @ MKR,THE WOK,All Day,Bmk General Tso Chicken - Lunch Bowl,Portion,11.99,559,10.91,1.572,102,2026,77.35,4.2,27.41,34.19,169.9,47,2.23
+The Bistro @ MKR,THE WOK,All Day,Bmk General Tso Tofu - Lunch Bowl,Portion,11.99,491,11.04,1.420,0,2213,75.08,3.5,31.21,24.35,169.9,256,4.29
+The Bistro @ MKR,THE WOK,All Day,Japanese Udon Stir-Fry - Chicken,Portion,17.99,786,11.32,2.275,96,1309,117.89,9.7,17.18,56.78,214.9,103,5.32
+The Bistro @ MKR,THE WOK,All Day,Japanese Udon Stir-Fry - Beef,Portion,17.99,743,11.48,1.145,66,1284,117.89,9.7,17.18,48.08,214.9,117,6.92
+The Bistro @ MKR,THE WOK,All Day,Japanese Udon Stir-Fry - Tofu,Portion,17.99,747,16.29,2.275,0,1237,121.31,10.8,18.32,37.58,214.9,187,7.52
+The Bistro @ MKR,THE WOK,All Day,Japanese Udon Stir-Fry - Shrimp,Portion,17.99,684,8.66,1.145,150,1863,118.83,9.7,17.18,37.69,214.9,173,5.62
+The Bistro @ MKR,THE WOK,All Day,Japanese Udon Stir-Fry Lunch Bowl - Shrimp,Portion,11.99,513,6.46,0.857,110,1386,89.38,7.2,12.76,28.10,148.6,128,4.23
+The Bistro @ MKR,THE WOK,All Day,Japanese Udon Stir-Fry Lunch Bowl - Tofu,Portion,11.99,560,12.15,1.697,0,1025,91.23,8.1,13.60,28.17,148.6,140,5.65
+The Bistro @ MKR,THE WOK,All Day,Japanese Udon Stir-Fry Lunch Bowl - Chicken,Portion,11.99,583,8.31,1.657,68,978,88.69,7.2,12.76,41.21,148.6,77,4.01
+The Bistro @ MKR,THE WOK,All Day,Japanese Udon Stir-Fry Lunch Bowl - Beef,Portion,11.99,555,8.45,0.862,46,961,89.22,7.4,13.09,35.15,165.8,88,5.17
+The Bistro @ MKR,THE WOK,All Day,Bmk Wok Fried Rice - Chicken,Portion,14.99,527,14.33,1.583,91,290,72.51,3.0,3.00,23.92,3.8,32,3.56
+The Bistro @ MKR,THE WOK,All Day,Bmk Wok Fried Rice - Beef,Portion,14.99,618,16.89,1.479,71,289,87.43,4.2,3.01,25.66,3.8,44,4.69
+The Bistro @ MKR,THE WOK,All Day,Bmk Wok Fried Rice - Tofu,Portion,14.99,502,12.33,1.434,27,294,79.50,5.6,5.16,18.93,55.1,145,5.47
+The Bistro @ MKR,THE WOK,All Day,Bmk Wok Fried Rice - Shrimp,Portion,14.99,560,13.41,1.434,177,883,75.25,3.6,3.60,32.51,3.8,147,5.08
+The Bistro @ MKR,THE WOK,All Day,Wok Fried Rice Lunch Bowl - Chicken,Portion,9.99,403,11.10,1.225,71,221,54.60,2.4,2.37,18.79,2.8,24,2.67
+The Bistro @ MKR,THE WOK,All Day,Wok Fried Rice Lunch Bowl - Tofu,Portion,9.99,376,9.25,1.075,20,220,59.59,4.2,3.86,14.18,41.2,108,4.09
+The Bistro @ MKR,THE WOK,All Day,Wok Fried Rice Lunch Bowl - Shrimp,Portion,9.99,419,10.03,1.075,130,651,56.39,2.7,2.69,24.11,2.8,109,3.80
+The Bistro @ MKR,THE WOK,All Day,Wok Fried Rice Lunch Bowl - Beef,Portion,9.99,462,12.63,1.107,53,216,65.43,3.1,2.21,19.16,2.8,33,3.51
+The Bistro @ MKR,THE WOK,All Day,Bmk Chow Mein- Shrimp,Portion,15.99,743,28.62,2.579,119,1131,90.46,3.0,23.48,20.34,26.7,86,2.86
+The Bistro @ MKR,THE WOK,All Day,Bmk Chow Mein- Beef,Portion,15.99,825,31.81,2.579,75,723,89.77,3.0,23.48,34.98,26.7,49,4.26
+The Bistro @ MKR,THE WOK,All Day,Bmk Chow Mein- Chicken,Portion,15.99,970,49.11,2.579,134,777,89.77,3.0,23.48,30.77,26.7,47,3.53
+The Bistro @ MKR,THE WOK,All Day,Bmk Chow Mein- Tofu,Portion,15.99,824,35.87,3.558,9,683,92.03,3.0,24.23,24.48,26.7,211,4.41
+The Bistro @ MKR,THE WOK,All Day,Bmk Chow Mein Lunch Bowl - Tofu,Portion,10.99,631,27.17,2.703,7,530,71.36,2.3,18.75,18.61,20.0,159,3.38
+The Bistro @ MKR,THE WOK,All Day,Bmk Chow Mein Lunch Bowl - Beef,Portion,10.99,631,24.12,1.967,56,560,69.62,2.3,18.16,26.51,19.6,37,3.27
+The Bistro @ MKR,THE WOK,All Day,Bmk Chow Mein Lunch Bowl - Chicken,Portion,10.99,738,36.94,1.967,100,600,69.66,2.3,18.19,23.15,20.0,36,2.71
+The Bistro @ MKR,THE WOK,All Day,Bmk Chow Mein Lunch Bowl - Shrimp,Portion,10.99,586,21.97,1.967,117,983,70.35,2.3,18.19,18.40,20.0,78,2.28
+The Bistro @ MKR,THE WOK,All Day,Bmk Beef Bulgogi,Portion,17.99,544,23.19,1.588,60,329,53.98,3.5,9.25,29.39,43.5,79,3.97
+The Bistro @ MKR,THE WOK,All Day,Bmk Beef Bulgogi - Lunch Bowl,Portion,11.99,429,15.97,1.108,42,239,48.87,2.6,6.54,21.75,30.6,60,3.35
+The Bistro @ MKR,THE WOK,All Day,Bmk Wok Stir Fry - Shrimp,Portion,15.99,370,4.65,0.389,150,1922,57.20,6.1,9.40,24.49,177.6,196,3.50
+The Bistro @ MKR,THE WOK,All Day,Bmk Wok Stir Fry - Chicken,Portion,15.99,472,7.32,1.519,96,1368,56.26,6.1,9.40,43.58,177.6,126,3.20
+The Bistro @ MKR,THE WOK,All Day,Bmk Wok Stir Fry - Beef,Portion,15.99,429,7.47,0.389,66,1343,56.26,6.1,9.40,34.88,177.6,140,4.80
+The Bistro @ MKR,THE WOK,All Day,Bmk Wok Stir Fry - Tofu,Portion,15.99,431,12.21,1.509,0,1290,59.62,7.2,10.52,24.23,177.6,210,5.38
+The Bistro @ MKR,THE WOK,All Day,Wok Stir Fry Lunch Bowl - Tofu,Portion,10.99,283,8.11,1.003,0,859,38.83,4.8,7.16,16.04,120.7,138,3.53
+The Bistro @ MKR,THE WOK,All Day,Wok Stir Fry Lunch Bowl - Chicken,Portion,10.99,317,4.99,1.053,68,914,36.58,4.0,6.41,30.34,120.7,82,2.07
+The Bistro @ MKR,THE WOK,All Day,Wok Stir Fry Lunch Bowl - Shrimp,Portion,10.99,247,3.14,0.253,110,1323,37.27,4.0,6.41,17.23,120.7,134,2.29
+The Bistro @ MKR,THE WOK,All Day,Wok Stir Fry Lunch Bowl - Beef,Portion,10.99,287,5.10,0.253,46,897,36.58,4.0,6.41,24.18,120.7,92,3.21
+The Bistro @ MKR,THE WOK,All Day,Bistro Dakgaejang,Each,9.99,166,11.51,0.318,71,126,2.09,0.5,0.81,10.66,12.5,16,0.53
+The Bistro @ MKR,THE WOK,All Day,Bmk Beef Bibimbap,Portion,17.99,1067,73.65,6.644,297,334,55.03,5.4,10.27,40.37,28.4,168,7.61
+The Bistro @ MKR,THE WOK,All Day,Bmk Beef Bibimbap Lunch Bowl,Portion,12.99,822,54.08,4.609,164,238,50.24,4.1,7.73,29.04,21.3,121,5.90
+The Bistro @ MKR,THE WOK,All Day,Kimchi Fried Rice -Shrimp,Portion,16.99,686,32.60,4.032,388,1564,47.01,4.1,6.94,30.91,3.5,150,4.02
+The Bistro @ MKR,THE WOK,All Day,Kimchi Fried Rice -Chicken,Portion,16.99,890,52.72,4.032,363,1039,46.07,4.1,6.94,37.08,3.5,92,4.59
+The Bistro @ MKR,THE WOK,All Day,Kimchi Fried Rice - Tofu,Portion,16.99,744,39.48,5.011,238,946,48.33,4.1,7.70,30.79,3.5,256,5.47
+The Bistro @ MKR,THE WOK,All Day,Kimchi Fried Rice - Beef,Portion,16.99,745,35.42,4.032,303,985,46.07,4.1,6.94,41.30,3.5,95,5.33
+The Bistro @ MKR,THE WOK,All Day,Kimchi Fried Rice Lunch Bowl - Chicken,Portion,11.99,671,41.80,2.596,235,786,29.15,3.0,5.19,29.19,2.6,61,3.07
+The Bistro @ MKR,THE WOK,All Day,Kimchi Fried Rice Lunch Bowl - Beef,Portion,11.99,534,25.01,2.609,168,725,34.37,3.0,5.20,28.68,2.6,63,3.71
+The Bistro @ MKR,THE WOK,All Day,Kimchi Fried Rice Lunch Bowl - Shrimp,Portion,11.99,466,22.83,2.596,229,1148,29.84,3.0,5.19,20.33,2.6,101,2.47
+The Bistro @ MKR,THE WOK,All Day,Kimchi Fried Rice Lunch Bowl - Tofu,Portion,11.99,406,21.91,2.609,119,681,29.18,3.0,5.20,8.86,2.6,52,2.24
+The Bistro @ MKR,THE WOK,All Day,Kimchi Jjigae,Portion,15.99,442,8.06,0.948,0,1205,52.54,4.9,11.34,19.06,27.5,177,3.51
+The Bistro @ MKR,THE WOK,All Day,Kimchi Jjigae Lunch Bowl,Portion,10.99,374,6.16,0.734,0,904,48.53,3.8,8.52,15.10,20.6,136,3.09
+The Bistro @ MKR,THE WOK,All Day,Bistro Arroz Caldo,Portion,9.99,439,27.30,0.525,111,406,20.30,0.7,2.10,21.70,34.1,29,0.88
+The Bistro @ MKR,THE WOK,All Day,Filipino Style Picadillo Bowl,Portion,14.99,422,19.26,7.357,62,215,38.83,2.7,4.65,22.63,118.1,28,2.06
+The Bistro @ MKR,THE WOK,All Day,Bistro-Filipino Style Picadillo Lunch Bowl,Portion,9.99,313,14.20,5.422,45,158,29.03,2.0,3.43,16.71,87.0,21,1.54
+The Bistro @ MKR,THE WOK,All Day,Mechado: Filipino Beef Stew,Portion,15.99,490,3.27,0.267,0,478,52.77,5.3,8.97,32.75,86.5,44,2.44
+The Bistro @ MKR,THE WOK,All Day,Mechado: Filipino Beef Stew  Lunch Bowl,Portion,10.99,363,2.42,0.198,0,352,39.30,3.9,6.61,24.17,63.7,32,1.82
+The Bistro @ MKR,THE WOK,All Day,Ginataan Pancit Canton Noodles With Miso & Pink Peppercorns,Portion,14.99,601,31.93,19.599,13,372,63.15,2.6,3.90,11.61,0.0,41,3.55
+The Bistro @ MKR,THE WOK,All Day,Ginataan Pancit Canton Noodles With Miso & Pink Peppercorns Lunch Bowl,Portion,10.99,414,13.23,2.144,13,353,60.66,2.6,1.40,10.37,0.0,28,3.55
+The Bistro @ MKR,THE WOK,All Day,Bistro Tom Yum Soup,Portion,9.99,150,2.44,0.420,122,1236,6.67,1.3,2.90,24.47,17.3,52,0.46
+The Bistro @ MKR,THE WOK,All Day,Bmk Panang Curry,Portion,16.99,553,21.11,7.416,86,765,49.50,1.7,11.14,34.33,59.5,34,2.26
+The Bistro @ MKR,THE WOK,All Day,Bmk Panang Curry Lunch Bowl,Portion,10.99,458,15.96,5.585,64,576,46.39,1.5,8.40,26.63,45.6,30,2.23
+The Bistro @ MKR,THE WOK,All Day,Bmk Thai Spicy Noodle - Shrimp,Portion,16.99,872,2.13,0.031,150,1110,180.65,9.9,19.26,31.53,180.4,189,1.64
+The Bistro @ MKR,THE WOK,All Day,Bmk Thai Spicy Noodle - Tofu,Portion,16.99,913,8.06,0.898,0,490,181.71,9.9,19.92,29.59,180.4,275,2.88
+The Bistro @ MKR,THE WOK,All Day,Bmk Thai Spicy Noodle - Chicken,Portion,16.99,1075,22.25,0.031,125,585,179.71,9.9,19.26,37.71,180.4,131,2.21
+The Bistro @ MKR,THE WOK,All Day,Bmk Thai Spicy Noodle - Beef,Portion,16.99,931,4.95,0.031,66,531,179.71,9.9,19.26,41.92,180.4,133,2.95
+The Bistro @ MKR,THE WOK,All Day,Bmk Thai Spicy Noodle Lunch Bowl - Chicken,Portion,11.99,806,16.73,0.023,94,438,134.58,7.4,14.34,28.27,133.1,95,1.64
+The Bistro @ MKR,THE WOK,All Day,Bmk Thai Spicy Noodle Lunch Bowl - Tofu,Portion,11.99,684,6.04,0.673,0,367,136.13,7.4,14.86,22.16,133.1,205,2.16
+The Bistro @ MKR,THE WOK,All Day,Bmk Thai Spicy Noodle Lunch Bowl - Beef,Portion,11.99,697,3.71,0.023,49,397,134.58,7.4,14.34,31.44,133.1,97,2.19
+The Bistro @ MKR,THE WOK,All Day,Bmk Thai Spicy Noodle Lunch Bowl - Shrimp,Portion,11.99,651,1.57,0.023,110,820,135.27,7.4,14.34,23.32,133.1,138,1.20
+The Bistro @ MKR,THE WOK,All Day,Bmk Mango Chicken,Portion,16.99,713,18.76,2.362,193,2229,66.52,2.0,19.53,61.83,9.0,23,2.37
+The Bistro @ MKR,THE WOK,All Day,Bmk Mango Chicken Lunch Bowl,Portion,11.99,578,14.21,1.795,145,1674,59.15,1.7,14.69,47.26,7.8,22,2.31
+The Bistro @ MKR,THE WOK,All Day,Tofu Miso Soup,Portion,9.99,53,2.24,0.255,0,101,3.09,1.1,2.37,5.18,3.7,136,1.63
+The Bistro @ MKR,THE WOK,All Day,Bami Goreng,Portion,16.99,675,15.31,2.809,287,298,82.64,9.7,5.38,48.79,58.6,64,1.18
+The Bistro @ MKR,THE WOK,All Day,Bami Goreng Lunch Bowl,Portion,11.99,505,11.46,2.102,215,224,61.87,7.3,4.03,36.53,43.8,48,0.88
+The Bistro @ MKR,THE WOK,All Day,Chicken Katsu Curry,Portion,16.99,660,23.71,6.753,190,370,70.01,2.1,1.01,40.67,8.4,30,4.10
+The Bistro @ MKR,THE WOK,All Day,Chicken Katsu Curry Lunch Bowl,Portion,11.99,538,17.90,5.088,142,278,61.63,1.7,0.77,31.31,6.3,26,3.54
+The Bistro @ MKR,THE WOK,All Day,Satay Style Beef,Portion,17.99,382,5.42,0.153,58,162,53.71,7.3,12.87,31.30,96.0,86,4.13
+The Bistro @ MKR,THE WOK,All Day,Satay Style Beef Lunch Bowl,Portion,11.99,318,4.16,0.132,43,122,47.20,5.6,9.66,24.09,72.0,67,3.45
+The Bistro @ MKR,THE WOK,All Day,Dim Sum Char Sui Bao,100g,10.99,14,0.23,0.000,0,124,2.70,0.5,1.35,0.23,0.0,0,0.00
+The Bistro @ MKR,THE WOK,All Day,Dim Sum Jain Dui,100g,10.99,14,0.23,0.000,0,124,2.70,0.5,1.35,0.23,0.0,0,0.00
+The Bistro @ MKR,THE WOK,All Day,Dim Sum Egg Roll,100g,10.99,158,6.31,0.760,8,497,21.70,2.0,1.35,4.03,0.0,0,0.00
+The Bistro @ MKR,THE WOK,All Day,Dim Sum Har Gow,100g,10.99,238,21.96,6.667,0,304,12.04,0.5,1.75,1.83,0.0,0,0.00
+The Bistro @ MKR,THE WOK,All Day,Dim Sum Pork Sui Mai,100g,10.99,166,9.17,2.632,24,309,13.76,1.0,4.51,7.07,0.0,0,0.00

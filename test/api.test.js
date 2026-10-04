@@ -54,3 +54,18 @@ test('parseMenus reads a table with a Calories column', () => {
   const html = '<h3>Bistro</h3><table><tr><th>Item</th><th>Serving</th><th>Calories</th><th>Protein (g)</th><th>Carbs (g)</th><th>Fat (g)</th></tr><tr><td>Wrap</td><td>1</td><td>410 kcal</td><td>22</td><td>40</td><td>17</td></tr></table>';
   assert.deepEqual(parseMenus(html), [{ label: 'Bistro', name: 'Wrap', serving: '1', calories: 410, protein: 22, carbs: 40, fat: 17, fiber: null, sugar: null, sodium: null }]);
 });
+
+import { parseCsv, rowsToData } from '../scripts/import-csv.js';
+test('CSV import: normalizes serving, dedupes, flags absurd calories', () => {
+  const csv = 'location,tab,course,name,serving_unit,price,calories_kcal,fat_g,sat_fat_g,cholesterol_mg,sodium_mg,carbs_g,fiber_g,sugars_g,protein_g,vitamin_c_mg,calcium_mg,iron_mg\n' +
+    'Centro,LUNCH,Soup,"Soup, Tomato",100g,3.5,120,4,1,0,300,18,2,6,3,0,0,0\n' +
+    'Centro,LUNCH,Soup,"Soup, Tomato",100g,3.5,120,4,1,0,300,18,2,6,3,0,0,0\n' +
+    'Centro,LUNCH,Bowl,Pulled Pork Bowl,Portion,,29696,40,5,0,900,60,5,5,50,0,0,0\n' +
+    'Centro,LUNCH,Other,No Data,,,,,,,,,,,,,,\n';
+  const { locations, items } = rowsToData(parseCsv(csv));
+  assert.equal(locations.length, 1);
+  assert.equal(items.length, 2);
+  assert.equal(items[0].name, 'Soup, Tomato');
+  assert.equal(items[0].serving, 'Portion');
+  assert.deepEqual(items[1].flags, ['suspect-calories']);
+});

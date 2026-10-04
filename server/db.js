@@ -2,7 +2,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 
-const NUM = ['calories', 'protein', 'carbs', 'fat', 'fiber', 'sugar', 'sodium'];
+const NUM = ['calories', 'protein', 'carbs', 'fat', 'fiber', 'sugar', 'sodium', 'satFat', 'cholesterol', 'vitaminC', 'calcium', 'iron', 'price'];
 
 export function slug(s) {
   return String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
@@ -32,6 +32,8 @@ export function cleanItem(i) {
     category: i.category || null, // station / menu section / folder
     serving: i.serving || null,
     source: i.source || 'manual', // mcmaster | chain | photo | manual
+    course: i.course || null, // sub-section within a category
+    flags: Array.isArray(i.flags) ? i.flags : [], // data-quality notes, e.g. 'suspect-calories'
     locked: !!i.locked, // locked items are never overwritten by the scraper
     updatedAt: new Date().toISOString(),
   };

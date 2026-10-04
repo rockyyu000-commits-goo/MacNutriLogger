@@ -32,7 +32,7 @@ function addLog(id) {
   store.set('log:' + today(), [...logFor(), { ...it, loggedAt: Date.now(), locName: data.locations.find((l) => l.id === it.locationId)?.name }]);
   render();
 }
-const itemRow = (i) => `<div class="item"><div class="n">${esc(i.name)}<small>${esc(i.serving || '')} ${macros(i)}</small></div><button class="add" data-add="${esc(i.id)}">+</button></div>`;
+const itemRow = (i) => `<div class="item"><div class="n">${esc(i.name)}<small>${esc(i.serving || '')} ${macros(i)}${i.flags?.length ? ' ⚠ check data' : ''}${i.price != null ? ' · $' + i.price : ''}</small></div><button class="add" data-add="${esc(i.id)}">+</button></div>`;
 
 function locationCard(l, d, open) {
   const items = data.items.filter((i) => i.locationId === l.id);
