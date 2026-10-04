@@ -13,7 +13,7 @@ npm test
 |---|---|---|
 | McMaster dining halls (CSV) | `node scripts/import-csv.js file.csv` | Done: `data/seed/mcmaster_menu.csv` (1,463 items, 9 locations) auto-seeds an empty DB. Values are per serving; suspect rows (e.g. >2500 kcal) are flagged. |
 | McMaster live scrape | `npm run scrape -- --dump` then `npm run scrape` | **Parser untested against the live site** (it was blocked when written). `--dump` saves the raw HTML to `data/raw/`; adjust `parseMenus()` in `scripts/scrape-mcmaster.js` if it parses 0 items. Rerun daily (cron). Hand-edited items are never overwritten. |
-| Nearby restaurants | `npm run osm` | OpenStreetMap locations within 600 m. Locations only, no nutrition. |
+| Coordinates + nearby restaurants | `GOOGLE_MAPS_API_KEY=… node scripts/google-places.js` | Google Places (New): locates the McMaster dining spots and lists restaurants within 600 m. Locations only, no nutrition. `npm run osm` is a keyless OSM alternative. |
 | Chain nutrition / menu photos | `ADMIN_TOKEN=… node scripts/import.js menu.json` or paste into `/admin.html` | Send me photos of menus; I transcribe them to JSON of the shape below. |
 
 ```json

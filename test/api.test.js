@@ -69,3 +69,9 @@ test('CSV import: normalizes serving, dedupes, flags absurd calories', () => {
   assert.equal(items[0].serving, 'Portion');
   assert.deepEqual(items[1].flags, ['suspect-calories']);
 });
+
+import { placeToLocation } from '../scripts/google-places.js';
+test('Google place maps to a location', () => {
+  const l = placeToLocation({ id: 'abc', displayName: { text: 'Starbucks' }, location: { latitude: 1, longitude: 2 }, formattedAddress: '1341 Main St W', types: ['coffee_shop'] });
+  assert.deepEqual([l.id, l.type, l.lat, l.lon, l.source], ['gp-abc', 'cafe', 1, 2, 'google']);
+});
