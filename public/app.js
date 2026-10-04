@@ -3,6 +3,7 @@ const store = {
   get: (k, d) => { try { return JSON.parse(localStorage.getItem(k)) ?? d; } catch { return d; } },
   set: (k, v) => localStorage.setItem(k, JSON.stringify(v)),
 };
+const BAD = ['suspect-calories', 'zero-calories', 'kcal-vs-macros-mismatch'];
 let data = { locations: [], items: [] }, tab = 'near', q = '', lq = '';
 
 const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
@@ -22,7 +23,7 @@ function addLog(id) {
   store.set('log:' + today(), [...logFor(), { ...it, loggedAt: Date.now(), locName: data.locations.find((l) => l.id === it.locationId)?.name }]);
   render();
 }
-const itemRow = (i) => `<div class="item"><div class="n">${esc(i.name)}<small>${esc(i.serving || '')} ${macros(i)}${i.flags?.length ? ' ⚠ check data' : ''}${i.price != null ? ' · $' + i.price : ''}</small></div><button class="add" data-add="${esc(i.id)}">+</button></div>`;
+const itemRow = (i) => `<div class="item"><div class="n">${esc(i.name)}<small>${esc(i.serving || '')} ${macros(i)}${i.flags?.some((f) => BAD.includes(f)) ? ' ⚠ check data' : ''}${i.price != null ? ' · $' + i.price : ''}</small></div><button class="add" data-add="${esc(i.id)}">+</button></div>`;
 
 function locationCard(l, open) {
   const items = data.items.filter((i) => i.locationId === l.id);
