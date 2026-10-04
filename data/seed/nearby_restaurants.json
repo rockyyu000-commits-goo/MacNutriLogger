@@ -1,0 +1,517 @@
+{
+ "locations": [
+  {
+   "name": "Pita N More",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Mediterranean",
+   "priceRange": "$10–20",
+   "address": "1309 Main St W Unit 5-a",
+   "source": "google-list"
+  },
+  {
+   "name": "The Arch Noodle House",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Chinese Noodles",
+   "priceRange": "$10–30",
+   "address": "1309 Main St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Quesada Burritos & Tacos",
+   "type": "restaurant",
+   "brand": "Quesada",
+   "cuisine": "Mexican",
+   "priceRange": "$10–20",
+   "address": "1331 Main St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Sushi Shop Main St. West",
+   "type": "restaurant",
+   "brand": "Sushi Shop",
+   "cuisine": "Sushi",
+   "priceRange": "$10–20",
+   "address": "1331 Main St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Pinks Burgers",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Hamburger",
+   "priceRange": "$10–20",
+   "address": "1335 Main St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Gino's Pizza",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Pizza",
+   "priceRange": "$1–10",
+   "address": "1309 Main St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Williams Fresh Cafe",
+   "type": "cafe",
+   "brand": "Williams Fresh Cafe",
+   "cuisine": "Cafe",
+   "priceRange": "$10–20",
+   "address": "1309 Main St W Unit A-2",
+   "source": "google-list"
+  },
+  {
+   "name": "Quik Chik",
+   "type": "restaurant",
+   "brand": "Quik Chik",
+   "cuisine": "Chicken",
+   "priceRange": "$10–20",
+   "address": "1331 Main St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Subway",
+   "type": "restaurant",
+   "brand": "Subway",
+   "cuisine": "Sandwich",
+   "priceRange": "$10–20",
+   "address": "1331 Main St W Unit 3",
+   "source": "google-list"
+  },
+  {
+   "name": "South China Chinese food",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Chinese",
+   "priceRange": null,
+   "address": "1223 Main St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Wei Xiang Yuan Restaurant",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Chinese",
+   "priceRange": "$10–20",
+   "address": "1088 Main St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Pho Excellent",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Vietnamese",
+   "priceRange": "$10–20",
+   "address": "1120 Main St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Hanami Sushi & Noodle",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Asian Fusion",
+   "priceRange": "$20–30",
+   "address": "1065 King St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Smoke's Poutinerie Westdale",
+   "type": "restaurant",
+   "brand": "Smoke's Poutinerie",
+   "cuisine": "Poutine",
+   "priceRange": "$10–20",
+   "address": "6 Newton Ave",
+   "source": "google-list"
+  },
+  {
+   "name": "Hungry Donkey",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Greek",
+   "priceRange": "$10–20",
+   "address": "4 Newton Ave",
+   "source": "google-list"
+  },
+  {
+   "name": "Porcelain Hotpot",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Hot Pot",
+   "priceRange": "$20–60",
+   "address": "1122 Main St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Fuwa Fuwa Dessert & All Day Brunch Cafe",
+   "type": "cafe",
+   "brand": null,
+   "cuisine": "Cafe",
+   "priceRange": "$10–20",
+   "address": "2 Newton Ave",
+   "source": "google-list"
+  },
+  {
+   "name": "White Lotus Authentic Thai Food",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Thai",
+   "priceRange": "$10–20",
+   "address": "1008 King St W Unit B",
+   "source": "google-list"
+  },
+  {
+   "name": "Hot and Juicy",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Hamburger",
+   "priceRange": "$10–20",
+   "address": "990 King St W",
+   "source": "google-list"
+  },
+  {
+   "name": "MR.SUB",
+   "type": "restaurant",
+   "brand": "Mr.Sub",
+   "cuisine": "Sandwich",
+   "priceRange": "$10–20",
+   "address": "1144 Main St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Chung Chun Rice Hotdog",
+   "type": "restaurant",
+   "brand": "Chung Chun",
+   "cuisine": "Hot Dog",
+   "priceRange": "$10–20",
+   "address": "1051 King St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Pita Pit",
+   "type": "restaurant",
+   "brand": "Pita Pit",
+   "cuisine": "Sandwich",
+   "priceRange": "$10–20",
+   "address": "1056 King St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Yummy Point",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Halal",
+   "priceRange": "$10–20",
+   "address": "944 King St W",
+   "source": "google-list"
+  },
+  {
+   "name": "The Express Restaurant",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Italian",
+   "priceRange": "$20–30",
+   "address": "1034 King St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Caribbean Flavah",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Caribbean",
+   "priceRange": "$10–20",
+   "address": "1122 Main St W",
+   "source": "google-list"
+  },
+  {
+   "name": "The Burnt Tongue",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Restaurant",
+   "priceRange": "$10–20",
+   "address": "1019 King St W",
+   "source": "google-list"
+  },
+  {
+   "name": "The Mule Tacos To Go Westdale",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Mexican",
+   "priceRange": "$20–30",
+   "address": "1050 King St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Saigon Asian Restaurant",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Vietnamese",
+   "priceRange": "$10–20",
+   "address": "1024 King St W",
+   "source": "google-list"
+  },
+  {
+   "name": "AA Pizza on Wheels",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Pizza",
+   "priceRange": null,
+   "address": "132 Cline Ave S",
+   "source": "google-list"
+  },
+  {
+   "name": "Chef Martin's Sushi House",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Sushi",
+   "priceRange": "$10–40",
+   "address": "1048 King St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Pizzaiolo",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Pizza",
+   "priceRange": "$1–10",
+   "address": "1009 King St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Snooty Fox",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Pub",
+   "priceRange": "$20–30",
+   "address": "1011 King St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Annalakshmi Hamilton",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "South Indian Vegetarian",
+   "priceRange": "$10–20",
+   "address": "875 Main St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Nannaa Persian Eatery",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Persian",
+   "priceRange": "$20–30",
+   "address": "1010 King St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Lazeez Shawarma",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Mediterranean",
+   "priceRange": "$10–20",
+   "address": "1031 King St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Calabash Bar and Grill",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Restaurant",
+   "priceRange": "$20–50",
+   "address": "649 Main St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Shelby's Legendary Shawarma",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Middle Eastern",
+   "priceRange": "$10–20",
+   "address": "1481 Main St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Valentino's Restaurant Westdale",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Italian",
+   "priceRange": "$20–60",
+   "address": "824 King St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Foodland Grill",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Food court",
+   "priceRange": "$10–20",
+   "address": "144 Emerson St",
+   "source": "google-list"
+  },
+  {
+   "name": "Masala Corner Momo King",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Indian",
+   "priceRange": "$10–20",
+   "address": "815 Main St W",
+   "source": "google-list"
+  },
+  {
+   "name": "The Chef Signature Shawarma",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Shawarma",
+   "priceRange": "$10–20",
+   "address": "1685 Main St W #60",
+   "source": "google-list"
+  },
+  {
+   "name": "Dragon Court Restaurant",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Chinese",
+   "priceRange": "$20–30",
+   "address": "988 King St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Tahini's Shawarma",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Middle Eastern",
+   "priceRange": "$10–20",
+   "address": "1554 Main St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Hungry Dude",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Restaurant",
+   "priceRange": "$10–20",
+   "address": "1831 Main St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Tally Ho Restaurant",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Fast Food",
+   "priceRange": "$10–20",
+   "address": "1536 Main St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Maccheroni Cucina Alfresco",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Italian",
+   "priceRange": "$20–30",
+   "address": "1560 Main St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Hungroo",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Fast Food",
+   "priceRange": "$10–20",
+   "address": "246 Dundurn St S",
+   "source": "google-list"
+  },
+  {
+   "name": "Pizza Nova",
+   "type": "restaurant",
+   "brand": "Pizza Nova",
+   "cuisine": "Pizza",
+   "priceRange": "$10–30",
+   "address": "1016 King St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Hot Chicken Express",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Restaurant",
+   "priceRange": "$10–20",
+   "address": "228 King St W",
+   "source": "google-list"
+  },
+  {
+   "name": "BAB Korean Food & BBQ",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Korean",
+   "priceRange": "$20–30",
+   "address": "1467 Main St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Lava Pizza & Wings",
+   "type": "restaurant",
+   "brand": "Lava Pizza",
+   "cuisine": "Pizza",
+   "priceRange": "$10–20",
+   "address": "876 King St W",
+   "source": "google-list"
+  },
+  {
+   "name": "barBURRITO",
+   "type": "restaurant",
+   "brand": "barBURRITO",
+   "cuisine": "Mexican",
+   "priceRange": "$10–20",
+   "address": "50 Dundurn St S #108",
+   "source": "google-list"
+  },
+  {
+   "name": "Original Tin-Deh-Roh Brand",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Fusion",
+   "priceRange": "$10–20",
+   "address": "925 King St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Unity Eats",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Pizza",
+   "priceRange": null,
+   "address": "1060 King St W",
+   "source": "google-list"
+  },
+  {
+   "name": "East Meets West Bistro",
+   "type": "restaurant",
+   "brand": null,
+   "cuisine": "Restaurant",
+   "priceRange": "$10–20",
+   "address": "1280 Main St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Starbucks",
+   "type": "cafe",
+   "brand": "Starbucks",
+   "cuisine": "Cafe",
+   "priceRange": null,
+   "address": "1341 Main St W",
+   "source": "google-list"
+  },
+  {
+   "name": "Tim Hortons (MUSC)",
+   "type": "cafe",
+   "brand": "Tim Hortons",
+   "cuisine": "Cafe",
+   "priceRange": null,
+   "address": "McMaster University Student Centre",
+   "source": "google-list"
+  }
+ ]
+}

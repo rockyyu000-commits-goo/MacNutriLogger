@@ -19,13 +19,13 @@ const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&g
 async function load(){
   const d=await (await fetch('/api/data')).json();
   $('#locs').innerHTML=d.locations.map(l=>`<details><summary>${esc(l.name)} <span class="muted">${d.items.filter(i=>i.locationId===l.id).length} items</span></summary>
-   <div class="item"><span>lat/lon</span><input data-loc="${esc(l.id)}" value="${l.lat??''}, ${l.lon??''}" style="width:60%"><button class="del" data-dl="${esc(l.id)}">delete</button></div>
+   <div class="item"><span>address</span><input data-loc="${esc(l.id)}" value="${esc(l.address||'')}" style="width:60%"><button class="del" data-dl="${esc(l.id)}">delete</button></div>
    ${d.items.filter(i=>i.locationId===l.id).map(i=>`<div class="item"><div class="n">${esc(i.name)}<small>${esc(i.serving||'')}</small></div>
     <input data-it='${esc(JSON.stringify(i))}' value="${i.calories??''},${i.protein??''},${i.carbs??''},${i.fat??''}" style="width:45%" title="kcal,protein,carbs,fat"><button class="del" data-di="${esc(i.id)}">×</button></div>`).join('')}</details>`).join('');
 }
 document.addEventListener('change',async e=>{
   try{
-  if(e.target.dataset.loc){const [lat,lon]=e.target.value.split(',').map(s=>s.trim()===''?null:+s);const l=(await (await fetch('/api/data')).json()).locations.find(x=>x.id===e.target.dataset.loc);await api('PUT','locations/'+encodeURIComponent(l.id),{...l,lat,lon})}
+  if(e.target.dataset.loc){const l=(await (await fetch('/api/data')).json()).locations.find(x=>x.id===e.target.dataset.loc);await api('PUT','locations/'+encodeURIComponent(l.id),{...l,address:e.target.value||null})}
   if(e.target.dataset.it){const i=JSON.parse(e.target.dataset.it);const [calories,protein,carbs,fat]=e.target.value.split(',').map(s=>s.trim()===''?null:+s);await api('PUT','items/'+encodeURIComponent(i.id),{...i,calories,protein,carbs,fat})}
   }catch(err){alert(err.message)}
 });

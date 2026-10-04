@@ -18,6 +18,8 @@ export function cleanLocation(l) {
     lat: l.lat == null ? null : Number(l.lat),
     lon: l.lon == null ? null : Number(l.lon),
     address: l.address || null,
+    cuisine: l.cuisine || null,
+    priceRange: l.priceRange || null,
     source: l.source || 'manual', // mcmaster | osm | manual
     active: l.active !== false,
   };
@@ -63,6 +65,13 @@ export class DB {
     if (i >= 0) arr[i] = { ...arr[i], ...rec };
     else arr.push(rec);
     return rec;
+  }
+  // Add seed locations that don't exist yet; never overwrites edits.
+  seedLocations(locs) {
+    let n = 0;
+    for (const l of locs.map(cleanLocation)) if (!this.data.locations.some((x) => x.id === l.id)) { this.data.locations.push(l); n++; }
+    if (n) this.save();
+    return n;
   }
   upsertLocation(l) { return this.upsert('locations', cleanLocation(l)); }
   upsertItem(i) {

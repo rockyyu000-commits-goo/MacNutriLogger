@@ -22,7 +22,7 @@ test('admin API requires token', () => withServer(async (b) => {
 }));
 
 test('bulk import, edit, persist, delete', () => withServer(async (b, db) => {
-  const body = { locations: [{ name: 'Test Sub', type: 'restaurant', lat: 43.26, lon: -79.92 }], items: [{ locationId: 'test-sub', name: 'Turkey 6in', calories: 280, protein: 18, carbs: 46, fat: 3.5, source: 'photo' }] };
+  const body = { locations: [{ name: 'Test Sub', type: 'restaurant', }], items: [{ locationId: 'test-sub', name: 'Turkey 6in', calories: 280, protein: 18, carbs: 46, fat: 3.5, source: 'photo' }] };
   assert.equal((await fetch(b + '/api/admin/import', { method: 'POST', headers: H, body: JSON.stringify(body) })).status, 200);
   let d = await (await fetch(b + '/api/data')).json();
   assert.equal(d.items[0].calories, 280);
@@ -70,8 +70,10 @@ test('CSV import: normalizes serving, dedupes, flags absurd calories', () => {
   assert.deepEqual(items[1].flags, ['suspect-calories']);
 });
 
-import { placeToLocation } from '../scripts/google-places.js';
-test('Google place maps to a location', () => {
-  const l = placeToLocation({ id: 'abc', displayName: { text: 'Starbucks' }, location: { latitude: 1, longitude: 2 }, formattedAddress: '1341 Main St W', types: ['coffee_shop'] });
-  assert.deepEqual([l.id, l.type, l.lat, l.lon, l.source], ['gp-abc', 'cafe', 1, 2, 'google']);
+test('seedLocations adds missing places without overwriting edits', () => {
+  const db = new DB(tmp());
+  assert.equal(db.seedLocations([{ name: 'Subway', brand: 'Subway' }]), 1);
+  db.upsertLocation({ name: 'Subway', address: 'edited' });
+  assert.equal(db.seedLocations([{ name: 'Subway', address: 'seed' }]), 0);
+  assert.equal(db.data.locations[0].address, 'edited');
 });

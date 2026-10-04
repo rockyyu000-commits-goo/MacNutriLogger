@@ -52,8 +52,11 @@ export function createServer({ db, adminToken }) {
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
   const db = new DB(process.env.DB_FILE || path.join(ROOT, 'data', 'db.json'));
-  const seed = path.join(ROOT, 'data', 'seed', 'mcmaster_menu.csv');
-  if (!db.data.locations.length && fs.existsSync(seed)) { db.bulk(rowsToData(parseCsv(fs.readFileSync(seed, 'utf8')))); console.log('Seeded database from data/seed/mcmaster_menu.csv'); }
+  const seedDir = path.join(ROOT, 'data', 'seed');
+  const menuCsv = path.join(seedDir, 'mcmaster_menu.csv');
+  if (!db.data.items.length && fs.existsSync(menuCsv)) { db.bulk(rowsToData(parseCsv(fs.readFileSync(menuCsv, 'utf8')))); console.log('Seeded McMaster menus'); }
+  const nearby = path.join(seedDir, 'nearby_restaurants.json');
+  if (fs.existsSync(nearby)) { const n = db.seedLocations(JSON.parse(fs.readFileSync(nearby, 'utf8')).locations); if (n) console.log(`Seeded ${n} restaurants`); }
   const port = process.env.PORT || 3000;
   if (!process.env.ADMIN_TOKEN) console.warn('ADMIN_TOKEN not set: admin API disabled');
   createServer({ db, adminToken: process.env.ADMIN_TOKEN }).listen(port, () => console.log(`http://localhost:${port}`));
