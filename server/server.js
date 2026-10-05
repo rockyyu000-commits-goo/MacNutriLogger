@@ -1,6 +1,7 @@
 import http from 'node:http';
 import fs from 'node:fs';
 import path from 'node:path';
+import crypto from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import { DB } from './db.js';
 import { parseCsv, rowsToData } from '../scripts/import-csv.js';
@@ -8,6 +9,11 @@ import { parseCsv, rowsToData } from '../scripts/import-csv.js';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const PUBLIC = path.join(ROOT, 'public');
 const MIME = { '.html': 'text/html', '.js': 'text/javascript', '.css': 'text/css', '.json': 'application/json', '.webmanifest': 'application/manifest+json', '.svg': 'image/svg+xml' };
+
+const safeEqual = (a, b) => {
+  const x = crypto.createHash('sha256').update(a).digest(), y = crypto.createHash('sha256').update(b).digest();
+  return crypto.timingSafeEqual(x, y);
+};
 
 export function createServer({ db, adminToken }) {
   const send = (res, code, body) => {
@@ -28,7 +34,7 @@ export function createServer({ db, adminToken }) {
         return send(res, 200, { ...db.data, generatedAt: new Date().toISOString() });
       }
       if (p.startsWith('/api/admin/')) {
-        if (!adminToken || req.headers.authorization !== `Bearer ${adminToken}`) return send(res, 401, { error: 'unauthorized' });
+        if (!adminToken || !safeEqual(req.headers.authorization || '', `Bearer ${adminToken}`)) return send(res, 401, { error: 'unauthorized' });
         const [, , , kind, id] = p.split('/');
         const body = ['POST', 'PUT'].includes(req.method) ? await readBody(req) : {};
         if (kind === 'import' && req.method === 'POST') return send(res, 200, db.bulk(body));
@@ -41,7 +47,7 @@ export function createServer({ db, adminToken }) {
       }
       // static files
       let f = path.normalize(path.join(PUBLIC, p === '/' ? 'index.html' : p));
-      if (!f.startsWith(PUBLIC) || !fs.existsSync(f) || fs.statSync(f).isDirectory()) { res.writeHead(404); return res.end('Not found'); }
+      if (!f.startsWith(PUBLIC + path.sep) || !fs.existsSync(f) || fs.statSync(f).isDirectory()) { res.writeHead(404); return res.end('Not found'); }
       res.writeHead(200, { 'content-type': MIME[path.extname(f)] || 'application/octet-stream' });
       fs.createReadStream(f).pipe(res);
     } catch (e) {

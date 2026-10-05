@@ -4,6 +4,7 @@ $repo = (Resolve-Path "$PSScriptRoot\..\..").Path
 Set-Location $repo
 git pull --ff-only
 Stop-ScheduledTask -TaskName 'MacNutriLogger' -ErrorAction SilentlyContinue
-Get-Process node -ErrorAction SilentlyContinue | Where-Object { $_.Path -like '*nodejs*' } | Stop-Process -Force
+# stop only the node.exe that is running THIS repo's server
+Get-CimInstance Win32_Process -Filter "Name='node.exe'" | Where-Object { $_.CommandLine -like "*$repo*server*" -or $_.CommandLine -like '*server\server.js*' } | ForEach-Object { Stop-Process -Id $_.ProcessId -Force }
 Start-ScheduledTask -TaskName 'MacNutriLogger'
 Write-Host 'Updated and restarted.'

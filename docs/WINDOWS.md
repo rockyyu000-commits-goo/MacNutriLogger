@@ -47,3 +47,14 @@ Check it works: restart the laptop, wait a minute, open the address on your phon
   must be signed in to it; wired Ethernet is more reliable if you can.
 - The server only accepts connections from the laptop itself. To open it on your LAN anyway, set `HOST=0.0.0.0` in `data\.env`.
 - To make the address public (anyone with the link), `tailscale funnel` exists, but don't: the admin token is the only lock.
+
+## What the setup changes (so you can check it)
+- Installs three official winget packages: Node.js LTS (`OpenJS.NodeJS.LTS`), Tailscale (`Tailscale.Tailscale`), and Git if you ran step 1.
+- Creates `data\.env` (admin token, random, plain text in your user folder) and one scheduled task, `MacNutriLogger`, that runs
+  `run-server.ps1` as **your own user** (limited rights, no stored password) at boot.
+- Changes power settings only (no sleep / lid-close does nothing while plugged in). Revert in Settings -> Power, or
+  `powercfg /setacvalueindex SCHEME_CURRENT SUB_BUTTONS LIDACTION 1`.
+- Opens no firewall ports. The server listens on 127.0.0.1 only; Tailscale forwards your own devices to it.
+- To undo everything: `Unregister-ScheduledTask MacNutriLogger -Confirm:$false`, then uninstall Node/Tailscale from Settings -> Apps
+  and delete the folder.
+- Heat/battery: a closed laptop running 24/7 should sit somewhere with airflow, not in a bag or on a bed.

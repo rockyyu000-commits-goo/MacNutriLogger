@@ -19,7 +19,9 @@ Write-Host '2/5 Admin token...'
 $envFile = Join-Path $repo 'data\.env'
 New-Item -ItemType Directory -Force (Split-Path $envFile) | Out-Null
 if (-not (Test-Path $envFile)) {
-  $token = -join ((48..57) + (97..122) | Get-Random -Count 32 | ForEach-Object { [char]$_ })
+  $bytes = New-Object byte[] 24
+  $rng = [System.Security.Cryptography.RandomNumberGenerator]::Create(); $rng.GetBytes($bytes); $rng.Dispose()
+  $token = ([BitConverter]::ToString($bytes) -replace '-', '').ToLower()
   "ADMIN_TOKEN=$token`nPORT=3000" | Set-Content -Encoding ascii $envFile
   Write-Host "   Created $envFile  (your admin token: $token)"
 } else { Write-Host "   Keeping existing $envFile" }
@@ -28,7 +30,8 @@ Write-Host '3/5 Auto-start the server at boot (Task Scheduler, restarts if it cr
 $ps = (Get-Command powershell.exe).Source
 $action = New-ScheduledTaskAction -Execute $ps -Argument "-NoProfile -ExecutionPolicy Bypass -File `"$repo\scripts\windows\run-server.ps1`"" -WorkingDirectory $repo
 $trigger = New-ScheduledTaskTrigger -AtStartup
-$principal = New-ScheduledTaskPrincipal -UserId 'SYSTEM' -LogonType ServiceAccount -RunLevel Highest
+# Runs as YOU (limited rights, no stored password): S4U lets it start at boot even when nobody is logged in.
+$principal = New-ScheduledTaskPrincipal -UserId "$env:USERDOMAIN\$env:USERNAME" -LogonType S4U -RunLevel Limited
 $settings = New-ScheduledTaskSettingsSet -RestartCount 999 -RestartInterval (New-TimeSpan -Minutes 1) -ExecutionTimeLimit ([TimeSpan]::Zero) -StartWhenAvailable -AllowStartIfOnBatteries -DontStopIfGoingOnBatteries
 Register-ScheduledTask -TaskName 'MacNutriLogger' -Action $action -Trigger $trigger -Principal $principal -Settings $settings -Force | Out-Null
 Start-ScheduledTask -TaskName 'MacNutriLogger'
