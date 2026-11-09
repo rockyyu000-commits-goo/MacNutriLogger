@@ -1,17 +1,37 @@
 <!doctype html>
-<html lang="en"><head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>MacNutriLogger</title>
-<link rel="manifest" href="manifest.webmanifest"><meta name="theme-color" content="#7a003c">
-<link rel="stylesheet" href="style.css">
-</head><body>
-<header><h1>MacNutri</h1><input type="search" id="lq" placeholder="Find a place…" style="width:50%"></header>
-<main id="view"></main>
-<nav>
-  <button data-tab="near" class="on">Places</button>
-  <button data-tab="log">Today</button>
-  <button data-tab="search">Search</button>
-  <button data-tab="goals">Goals</button>
+<meta name="description" content="Calorie and macro tracker for McMaster dining halls and nearby restaurants.">
+<meta name="theme-color" content="#7a003c">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="MacNutri">
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="icon" href="/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/icons/icon-180.png">
+<link rel="stylesheet" href="/css/app.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-in">
+    <span class="brand">MacNutri</span>
+    <h1 id="title">Diary</h1>
+  </div>
+</header>
+<p id="offline" class="banner" hidden>Can't reach the server. Showing saved menus; your diary still works.</p>
+<main id="view"><p class="empty">Loading…</p></main>
+<nav aria-label="Main">
+  <a href="#/today" data-tab="today"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="4" y="5" width="16" height="15" rx="2"/><path d="M8 3v4M16 3v4M4 10h16M8 14h5"/></svg><span>Diary</span></a>
+  <a href="#/places" data-tab="places"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s7-6.1 7-11.5a7 7 0 0 0-14 0C5 14.900 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/></svg><span>Places</span></a>
+  <a href="#/search" data-tab="search"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><span>Search</span></a>
+  <a href="#/trends" data-tab="trends"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 20v-9M12 20V5M19 20v-6"/></svg><span>Trends</span></a>
+  <a href="#/settings" data-tab="settings"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 7h10M18 7h2M4 17h2M10 17h10"/><circle cx="16" cy="7" r="2"/><circle cx="8" cy="17" r="2"/></svg><span>Settings</span></a>
 </nav>
-<script type="module" src="app.js"></script>
-</body></html>
+<dialog id="sheet" aria-label="Details"></dialog>
+<div id="toast" role="status" aria-live="polite" hidden></div>
+<noscript><p class="empty">MacNutriLogger needs JavaScript.</p></noscript>
+<script type="module" src="/js/main.js"></script>
+</body>
+</html>

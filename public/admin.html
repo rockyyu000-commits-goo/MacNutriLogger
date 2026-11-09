@@ -1,37 +1,55 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>MacNutri Admin</title>
-<link rel="stylesheet" href="style.css"></head><body>
-<header><h1>Admin</h1><a href="/">← app</a></header>
-<main>
-<label>Admin token</label><input type="search" id="tok" placeholder="ADMIN_TOKEN">
-<h2>Bulk import (JSON)</h2>
-<p class="muted">Paste <code>{"locations":[…],"items":[…]}</code>, e.g. transcribed from menu photos. Existing ids are updated.</p>
-<textarea id="json" rows="10" style="width:100%"></textarea><button class="add" id="imp">Import</button> <span id="msg" class="muted"></span>
-<h2>Locations</h2><div id="locs"></div>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>MacNutriLogger admin</title>
+<meta name="theme-color" content="#7a003c">
+<meta name="robots" content="noindex">
+<link rel="icon" href="/icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/css/app.css">
+<link rel="stylesheet" href="/css/admin.css">
+</head>
+<body class="admin">
+<header class="topbar">
+  <div class="topbar-in">
+    <span class="brand">MacNutri</span>
+    <h1>Menu admin</h1>
+    <a class="topbar-link" href="/">Back to app</a>
+  </div>
+</header>
+<main id="admin">
+  <section class="card pad" id="auth">
+    <label class="field"><span>Admin token <span class="muted">(the ADMIN_TOKEN the server was started with)</span></span>
+      <input type="password" id="token" autocomplete="off" spellcheck="false"></label>
+    <p class="muted" id="auth-status">Enter the token to make changes.</p>
+  </section>
+
+  <section>
+    <header class="section-head"><h2>Places</h2><span class="muted" id="counts"></span></header>
+    <div class="admin-bar">
+      <input type="search" id="loc-filter" placeholder="Filter places" autocomplete="off">
+      <label class="inline"><input type="checkbox" id="flagged-only"> only places with flagged items</label>
+      <button type="button" class="btn" id="new-loc">New place</button>
+    </div>
+    <ul class="list card" id="locs"></ul>
+  </section>
+
+  <section id="editor" hidden></section>
+
+  <section>
+    <header class="section-head"><h2>Bulk import</h2></header>
+    <div class="card pad">
+      <p class="muted">Paste <code>{"locations":[…],"items":[…]}</code>, for example transcribed from menu photos. Records with an existing id are replaced.</p>
+      <textarea id="json" rows="8" spellcheck="false" placeholder='{"locations":[{"name":"Subway"}],"items":[{"locationId":"subway","name":"Turkey 6in","serving":"6 in","calories":280,"protein":18,"carbs":46,"fat":3.5,"source":"photo"}]}'></textarea>
+      <div class="actions start">
+        <button type="button" class="btn primary grow0" id="import">Import</button>
+        <button type="button" class="btn" id="export">Download all menu data</button>
+      </div>
+    </div>
+  </section>
 </main>
-<script type="module">
-const $=s=>document.querySelector(s);
-$('#tok').value=localStorage.getItem('tok')||'';
-const api=(m,p,b)=>fetch('/api/admin/'+p,{method:m,headers:{authorization:'Bearer '+$('#tok').value,'content-type':'application/json'},body:b?JSON.stringify(b):undefined}).then(async r=>{const j=await r.json();if(!r.ok)throw new Error(j.error);return j});
-$('#tok').oninput=()=>localStorage.setItem('tok',$('#tok').value);
-$('#imp').onclick=async()=>{try{$('#msg').textContent=JSON.stringify(await api('POST','import',JSON.parse($('#json').value)));load()}catch(e){$('#msg').textContent=e.message}};
-const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-async function load(){
-  const d=await (await fetch('/api/data')).json();
-  $('#locs').innerHTML=d.locations.map(l=>`<details><summary>${esc(l.name)} <span class="muted">${d.items.filter(i=>i.locationId===l.id).length} items</span></summary>
-   <div class="item"><span>address</span><input data-loc="${esc(l.id)}" value="${esc(l.address||'')}" style="width:60%"><button class="del" data-dl="${esc(l.id)}">delete</button></div>
-   ${d.items.filter(i=>i.locationId===l.id).map(i=>`<div class="item"><div class="n">${esc(i.name)}<small>${esc(i.serving||'')}</small></div>
-    <input data-it='${esc(JSON.stringify(i))}' value="${i.calories??''},${i.protein??''},${i.carbs??''},${i.fat??''}" style="width:45%" title="kcal,protein,carbs,fat"><button class="del" data-di="${esc(i.id)}">×</button></div>`).join('')}</details>`).join('');
-}
-document.addEventListener('change',async e=>{
-  try{
-  if(e.target.dataset.loc){const l=(await (await fetch('/api/data')).json()).locations.find(x=>x.id===e.target.dataset.loc);await api('PUT','locations/'+encodeURIComponent(l.id),{...l,address:e.target.value||null})}
-  if(e.target.dataset.it){const i=JSON.parse(e.target.dataset.it);const [calories,protein,carbs,fat]=e.target.value.split(',').map(s=>s.trim()===''?null:+s);await api('PUT','items/'+encodeURIComponent(i.id),{...i,calories,protein,carbs,fat})}
-  }catch(err){alert(err.message)}
-});
-document.addEventListener('click',async e=>{
-  if(e.target.dataset.dl&&confirm('Delete location and its items?')){await api('DELETE','locations/'+encodeURIComponent(e.target.dataset.dl));load()}
-  if(e.target.dataset.di){await api('DELETE','items/'+encodeURIComponent(e.target.dataset.di));load()}
-});
-load();
-</script></body></html>
+<div id="toast" role="status" aria-live="polite" hidden></div>
+<script type="module" src="/js/admin.js"></script>
+</body>
+</html>

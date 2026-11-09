@@ -36,10 +36,10 @@ Check it works: restart the laptop, wait a minute, open the address on your phon
 ## Everyday use
 - **Update** (new menus/chains I push): `cd $HOME\MacNutriLogger; .\scripts\windows\update.ps1`
 - **Logs**: `data\server.log`. **Status**: Task Scheduler -> `MacNutriLogger`.
-- **Back up your edits**: `.\scripts\windows\backup.ps1` (your food log lives in your phone's browser, not on the laptop).
+- **Back up your menu edits**: `.\scripts\windows\backup.ps1`. Your food diary lives in your phone's browser, not on the
+  laptop: back it up from the app with Settings -> Download backup.
 - **Refresh McMaster menus**: run your scraper to produce a CSV, then `node scripts\import-csv.js menu.csv`
-  (hand-edited items are kept). The old built-in live scraper does not work: the McMaster page loads item nutrition
-  through script callbacks, so it needs a different approach.
+  (hand-edited items are kept) and restart the server with `.\scripts\windows\update.ps1`.
 - Windows Update may restart the laptop overnight; the server comes back by itself.
 
 ## Notes
